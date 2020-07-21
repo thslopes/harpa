@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "harpa"
+    }
+  },
+  "defaultProject": "harpa",
+  "cli": {
+    "analytics": "e28f94af-07a4-4c30-ac9d-38fd35670efc"
+  }
 }
