@@ -20,10 +20,12 @@
   <a class="button fancy-button" (click)="clear()"><i  class="material-icons">clear</i></a>
   <a class="button fancy-button" (click)="add(0)">0</a>
   <a class="button fancy-button" (click)="show()"><i  class="material-icons">done</i></a><br />
-  <a class="button fancy-button" (click)="showAll()">mostrar todos</a><br />
+  <!-- <a class="button fancy-button" (click)="showAll()">mostrar todos</a><br /> -->
 </div>
-<div *ngIf="showAll">
+<div *ngIf="showingAll">
   <a *ngFor="let h of hinos; index as i">
-    {{i}} {{hinos[i].nome}}
+    {{i}} 
   </a>
 </div>
+
+<router-outlet></router-outlet>
