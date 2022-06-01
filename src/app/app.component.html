@@ -8,22 +8,24 @@
   Ministério Resplendor<br />
   <br />
   {{nome}} <br>
-  <a class="button fancy-button" (click)="add(1)">1</a>
-  <a class="button fancy-button" (click)="add(2)">2</a>
-  <a class="button fancy-button" (click)="add(3)">3</a><br />
-  <a class="button fancy-button" (click)="add(4)">4</a>
-  <a class="button fancy-button" (click)="add(5)">5</a>
-  <a class="button fancy-button" (click)="add(6)">6</a><br />
-  <a class="button fancy-button" (click)="add(7)">7</a>
-  <a class="button fancy-button" (click)="add(8)">8</a>
-  <a class="button fancy-button" (click)="add(9)">9</a><br />
-  <a class="button fancy-button" (click)="clear()"><i  class="material-icons">clear</i></a>
-  <a class="button fancy-button" (click)="add(0)">0</a>
-  <a class="button fancy-button" (click)="show()"><i  class="material-icons">done</i></a><br />
-  <a class="button fancy-button" (click)="showAll()">mostrar todos</a><br />
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(1)">&nbsp;1&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(2)">&nbsp;2&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(3)">&nbsp;3&nbsp;</a><br />
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(4)">&nbsp;4&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(5)">&nbsp;5&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(6)">&nbsp;6&nbsp;</a><br />
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(7)">&nbsp;7&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(8)">&nbsp;8&nbsp;</a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(9)">&nbsp;9&nbsp;</a><br />
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="clear()"><i  class="material-icons">clear</i></a>&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="add(0)">0</a>&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="show()"><i  class="material-icons">done</i></a><br />
+  &nbsp;&nbsp;&nbsp;<a class="button fancy-button" (click)="showAll()">mostrar todos</a><br />
 </div>
-<div *ngIf="showAll">
+<div *ngIf="showingAll">
   <a *ngFor="let h of hinos; index as i">
-    {{i}} {{hinos[i].nome}}
+    {{i}} 
   </a>
 </div>
+
+<router-outlet></router-outlet>

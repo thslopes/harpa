@@ -6,12 +6,14 @@ import { hinos } from './hinos'
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
+
   title = 'harpa';
-  hinos = {};
-  hino = null
-  nome = ""
-  letra = ""
+  hinos = Array<any>();
+  hino: any;
+  nome = "";
+  letra = "";
   selected = 0;
   showingAll = false;
 
@@ -27,7 +29,7 @@ export class AppComponent {
     this.nome = this.hinos[this.selected].nome.toUpperCase();
   }
 
-  public clear(val: Number): void {
+  public clear(): void {
     this.selected = 0;
     this.hino = this.hinos[this.selected];
     this.nome = "";
@@ -45,7 +47,7 @@ export class AppComponent {
     this.showingAll = true;
   }
 
-  public select(index: Number): void {
+  public select(index: number): void {
     this.selected = index;
     this.show();
   }
