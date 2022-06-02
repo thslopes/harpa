@@ -36,6 +36,11 @@ export class AppComponent {
     this.showingAll = false;
   }
 
+  public showByNumber(n: number): void {
+    this.selected = n;
+    this.show();
+  }
+
   public show(): void {
     this.hino = this.hinos[this.selected];
     this.nome = this.hino.nome.toUpperCase();
