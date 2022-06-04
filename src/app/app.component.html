@@ -24,7 +24,7 @@
 </div>
 <div class="hino" *ngIf="showingAll">
   <a *ngFor="let h of hinos; index as i" (click)="showByNumber(i+1)">
-    {{hinos[i+1].nome.toUpperCase()}} - <span [innerHTML]="hinos[i+1].linha"></span><br />
+    {{hinos[i+1].nome.toUpperCase()}}<br /><span [innerHTML]="hinos[i+1].linha"></span><br /><br />
   </a>
 </div>
 
