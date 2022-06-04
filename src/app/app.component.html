@@ -22,9 +22,9 @@
   <a class="button fancy-button" (click)="show()"><i  class="material-icons">done</i></a><br />
   <a class="button fancy-button" (click)="showAll()">mostrar todos</a><br />
 </div>
-<div *ngIf="showingAll">
+<div class="hino" *ngIf="showingAll">
   <a *ngFor="let h of hinos; index as i" (click)="showByNumber(i+1)">
-    {{hinos[i+1].nome.toUpperCase()}} - <span class="hino" [innerHTML]="hinos[i+1].linha"></span><br />
+    {{hinos[i+1].nome.toUpperCase()}} - <span [innerHTML]="hinos[i+1].linha"></span><br />
   </a>
 </div>
 
