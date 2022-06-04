@@ -27,7 +27,7 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -103,5 +103,7 @@
       }
     }
   },
-  "defaultProject": "harpa"
+  "cli": {
+    "analytics": "76c1aa10-fc2d-413c-9f4c-96055a2dec63"
+  }
 }
