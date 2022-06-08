@@ -16,6 +16,7 @@ export class AppComponent {
   letra = "";
   selected = 0;
   showingAll = false;
+  hinosFirstLine = Array<any>();
 
   constructor() {
     hinos.forEach(hino => {
@@ -48,7 +49,28 @@ export class AppComponent {
     this.showingAll = false;
   }
 
+  public search(s: string): void {
+    let sn = s.toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "").replace(/[^\w\s]/gu, " ")
+    this.hinosFirstLine = Array<any>();
+    let hs = this.hinos.slice(1);
+    for (let index = 0; index < hs.length; index++) {
+      const element = hs[index];
+      let i = element.busca.indexOf(sn);
+      if (i >= 0) {
+        let start = i > 20 ? i - 20 : 0;
+        for (; start > 0 && element.busca[start] != ' '; start--) { }
+        let end = (start + 50) > element.busca.length ? element.busca.length - 1 : start + 70;
+        let pre = start > 0 ? "..." : "";
+        let pos = end < element.busca.length - 1 ? "..." : "";
+        element.linha = pre + element.busca.slice(start, end) + pos;
+        this.hinosFirstLine.push(element);
+      }
+    }
+    this.showingAll = true;
+  }
+
   public showAll(): void {
+    this.hinosFirstLine = this.hinos.slice(1);
     this.showingAll = true;
   }
 

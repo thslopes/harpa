@@ -125,3 +125,8 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+.search-box {
+  border: 1px solid #CAFAFA;
+  width: 80%;
+}

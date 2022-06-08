@@ -22,9 +22,12 @@
   <a class="button fancy-button" (click)="show()"><i  class="material-icons">done</i></a><br />
   <a class="button fancy-button" (click)="showAll()">mostrar todos</a><br />
 </div>
+<div *ngIf="hino == undefined" class="showall">
+  <input type="text" #searchBox class="search-box" /> <a class="button fancy-button" (click)="search(searchBox.value)"><i  class="material-icons">search</i></a><br />
+</div>
 <div class="showall" *ngIf="showingAll">
-  <a *ngFor="let h of hinos; index as i" (click)="showByNumber(i+1)">
-    {{hinos[i+1].nome.toUpperCase()}}<br /><span [innerHTML]="hinos[i+1].linha"></span><br /><br />
+  <a *ngFor="let h of hinosFirstLine; index as i" (click)="showByNumber(h.id)">
+    {{h.nome.toUpperCase()}}<br /><span [innerHTML]="h.linha"></span><br /><br />
   </a>
 </div>
 
