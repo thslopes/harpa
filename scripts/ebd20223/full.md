@@ -617,11 +617,13 @@ conscientizem de que a graça é um bem
 precioso de Deus para a nossa vida
 e, por isso, não pode ser banalizada.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Explicar
 a natureza da graça; II) Apresentar a
 graça no contexto bíblico; III) Classificá-la no contexto histórico da
 Reforma Protestante; IV) Pontuá-la
 no contexto contemporâneo.
+
 B) Motivação: Não há salvação
 sem a graça de Deus. Esse favor ime­
 recido prova que o ser humano não
@@ -631,6 +633,7 @@ não é uma licença para pecar, como,
 infelizmente, muitos fazem pensar.
 Atentemos para o ensino da Bíblia a
 respeito de tão importante assunto.
+
 C) Sugestão de Método: Na lição,
 há uma indicação de que a expressão
 “‘graça barata’ foi introduzida na li­
@@ -646,6 +649,7 @@ nova vida em Cristo como bem expressa
 a verdade prática de nossa lição.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: O advento da graça
 é a maior prova do amor de Deus pela
 humanidade. Ela é preciosa porque é
@@ -655,12 +659,14 @@ mos banalizá-la. Ela revela um alto
 preço que foi pago pelo nosso Senhor
 e Salvador, Jesus Cristo.
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.37, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final
 do tópico, você encontrará auxílios
 que darão suporte na preparação de
@@ -1096,6 +1102,7 @@ Finalmente, apresentamos 0 padrão
 bíblico da moralidade sexual cristã.
 
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Explicar
 a Revolução Sexual na sociedade
 atual; II) Pontuar a pecaminosidade
@@ -1103,6 +1110,7 @@ do relacionamento pré-conjugal,
 extraconjugal e homossexual; III)
 Apresentar 0 padrão bíblico para 0
 relacionamento sexual sadio.
+
 B) Motivação: É notório a bana­
 lização do relacionamento sexual na
 sociedade atual. Por isso, é importante
@@ -1110,6 +1118,7 @@ refletir acerca de um sentido mais
 profundo, segundo as Escrituras
 apresentam, da moralidade sexual
 na fé cristã.
+
 C) Sugestão de Método: Para am­
 pliar mais o primeiro tópico, pesquise
 a respeito do Movimento de Maio de 1968. Foi um movimento de estudantes
@@ -1123,6 +1132,7 @@ por meio de sites especializados para
 contextualizar 0 primeiro tópico.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: O padrão bíblico para
 0 relacionamento sexual envolve trazer
 a vida ao mundo por meio da procriação
@@ -1133,13 +1143,15 @@ o primeiro propósito e banalizou 0
 segundo. É preciso adequar, do ponto
 de vista bíblico, 0 propósito de Deus
 para 0 relacionamento sexual sadio.
-4- SUBSÍDIO AO PROFESSOR
+4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.37, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua aula: 1) O texto “A Revolução Sexual” amplia 0
@@ -1567,18 +1579,21 @@ com uma importante reflexão acerca
 da prática pastoral com pessoas di­
 vorciadas ou em processo de divórcio.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Expor
 o divórcio no contexto bíblico; II)
 Pontuar os aspectos legal e moral
 do divórcio; III) Refletir a respeito
 da prática pastoral com pessoas em
 situação de divórcio.
+
 B) Motivação: O divórcio é um
 desafio em toda a igreja cristã. Mais
 desafiador ainda é não banalizar a
 prática do divórcio e, ao mesmo tem­
 po, cuidar de maneira evangélica das
 pessoas que sofreram com o divórcio.
+
 C) Sugestão de Método: Estamos
 na quarta lição. Sugerimos que você
 faça uma revisão de pelo menos cinco
@@ -1592,6 +1607,7 @@ lição anterior a respeito da imorali­
 dade sexual. Procure contextualizar
 a classe com o tema.
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Vimos que o padrão
 bíblico para o casamento tem a ver
 com a sua indissolubilidade. Entre­
@@ -1605,12 +1621,14 @@ conjugais da classe.
 
 4. SUBSÍDIO AO PROFESSOR
 Cristo”, localizado após o segundo
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz reportagens, artigos, entrevistas e
 subsídios de apoio à Lições Bíblicas
 Adultos. Na edição 91, p.38, você en­
 contrará um subsídio especial para
 esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -2030,12 +2048,14 @@ muitos movimentos contemporâneos
 surgirem para confrontar a Igreja.
 
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Conceituar
 0 Materialismo e 0 Ateísmo; II) Rastrear
 as raízes do Materialismo e do Ateísmo;
 III) Pontuar os pressupostos do Ma­
 terialismo e do Ateísmo; IV) Afirmar
 o posicionamento da Igreja de Cristo.
+
 B) Motivação: Toda visão de mundo
 tem um pressuposto. Se uma visão de
 mundo, que defende que 0 homem é só
@@ -2046,6 +2066,7 @@ sacralidade da vida e da Criação. Essa
 questão forma 0 pano de fundo para os
 assuntos contemporâneos do aborto,
 eutanásia e ortotanásia, por exemplo.
+
 C) Sugestão de Método: Esta lição, a
 partir da Bíblia, procura comprender os
 pensamentos que dominam o mundo.
@@ -2062,6 +2083,7 @@ da antiga União Soviética, os campos de
 concentração perpetrados por Hitler etc.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: É preciso que se apli­
 que à vida do aluno a verdade de que
 nós somos a imagem do Criador. Essa
@@ -2074,12 +2096,14 @@ Sem Ele, não há dignidade humana.
 
 4. SUBSÍDIO AO PROFESSOR
 que amplia o conteúdo do primeiro
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e subsídios de apoio à Lições Bíblicas
 Adultos. Na edição 91, p.38, você en­
 contrará um subsídio especial para
 esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -2499,6 +2523,7 @@ Assim, nesta lição aprenderemos os
 princípios bíblicos de uma família
 sólida que vive na presença de Deus.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Abordar a
 família como um projeto especial de
 Deus; II) Elencar os fundamentos da
@@ -2506,6 +2531,7 @@ família cristã; III) Esclarecer as suti­
 lezas da nova configuração familiar;
 IV) Apontar os princípios bíblicos para
 uma família sólida.
+
 B) Motivação: Vivemos numa
 época desafiadora. Novas ideologias
 têm promovido a “normalização” de
@@ -2514,6 +2540,7 @@ nada tem a ver com 0 propósito de
 Deus. Como cristãos, de que forma
 devemos nos comportar diante dessas
 novas modalidades de união?
+
 C) Sugestão de Método: Uma das
 características da faixa-etária do
 adulto é que ele aprende quando de­
@@ -2534,6 +2561,7 @@ perguntas, peça para alguém resumir
 um subtópico, corrija o questionário
 com a classe.
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: A nossa família é o
 bem maior que Deus nos deu. Nesse
 sentido, a lição nos convida a um com­
@@ -2546,12 +2574,14 @@ tempo de buscar a presença de Deus em
 família. É tempo de viver na presença
 do Espírito Santo em família.
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.39, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -2972,6 +3002,7 @@ finalmente, a afirmação cristã da Bíblia
 como a inerrante Palavra de Deus.
 
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Destacar os
 aspectos desconstrucionistas e relativistas a respeito da Bíblia; II) Explicar
 0 processo de construção de narrativas
@@ -2980,6 +3011,7 @@ III) Pontuar as novas metodologias e
 teologias a partir da relativização da
 Bíblia; IV) Afirmar que a Bíblia é um
 livro revelado e inspirado por Deus.
+
 B) Motivação: Vivemos sob uma
 ideologia que domina os ambientes inte­
 lectuais e culturais de nossa sociedade:
@@ -2992,6 +3024,7 @@ Bíblia, relativizando assim os grandes
 ensinamentos milenares que herdamos
 de nossos antigos pais. É preciso estar
 consciente a respeito desse movimento.
+
 C) Sugestão de Método: Certa­
 mente seus alunos já tomaram co­
 nhecimento pela internet a respeito
@@ -3009,6 +3042,7 @@ com a proposta de desconstrução e
 relativização da interpretação e dos
 valores da Bíblia como Palavra de Deus.
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Conclua a lição incen­
 tivando os alunos a lerem bons livros
 que valorizam os antigos postulados
@@ -3018,12 +3052,14 @@ CPAD, dentre outras, são um grande
 auxílio para este trabalho apologético
 a respeito da Bíblia.
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.39, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 lhe darão suporte na preparação de sua
@@ -3458,11 +3494,13 @@ Igreja; (III) Mantendo a chama pente­
 costal acessa. Precisamos preservar
 a identidade pentecostal.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Conceituar
 o Pentecostes Bíblico; II) Identificar o
 distintivo pentecostal de nossa igreja;
 III) Conscientizar a respeito da manu­
 tenção de nossa identidade pentecostal.
+
 B) Motivação: Imagine Gunnar
 Vingren, ao desembarcar em Belém
 do Pará, ensinando: As línguas não
@@ -3475,6 +3513,7 @@ fenda esse tipo de ensino, ignorando
 completamente o que Espírito Santo
 fez nos primórdios de nossa história
 e continua a fazer nos dias atuais.
+
 C) Sugestão de Método: Para
 concluir a lição desta semana, leve
 papéis e lápis para o espaço de aula.
@@ -3495,6 +3534,7 @@ história”; “Revestidos de Poder”;
 ambas editadas pela CPAD.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Após a conclusão, ore
 com os alunos rogando que o Senhor
 Jesus batize os crentes no Espírito
@@ -3502,6 +3542,7 @@ Santo, distribua dons espirituais e
 edifique a Igreja, o Corpo de Cristo.
 
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e
@@ -3509,6 +3550,7 @@ subsídios de apoio à Lições Bíblicas
 Adultos. Na edição 91, p.40, você en­
 contrará um subsídio especial para
 esta lição.
+
 B) Auxílios Especiais: Ao final
 do tópico, você encontrará auxílios
 que darão suporte na preparação de
@@ -3936,12 +3978,14 @@ lembraremos a natureza da igreja do
 Novo Testamento; e confirmaremos a
 importância e a necessidade da Igreja.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Explicar
 a visão e a prática do movimento dos
 desigrejados; II) Rememorar a natu­
 reza da igreja do Novo Testamento;
 III) Confirmar a importância e a ne­
 cessidade da Igreja.
+
 B) Motivação: Será possível uma
 igreja livre de qualquer tipo de ins­
 titucionalização? Veremos que não. A
@@ -3951,6 +3995,7 @@ Novo Testamento ou não. Quando a
 igreja se encontra em coerência com as
 Sagradas Escrituras, sua instituição é
 orgânica e glorifica 0 nome do Senhor.
+
 C) Sugestão de Método: Ao intro­
 duzir a aula desta semana, revise com
 os alunos os principais modismos que
@@ -3973,6 +4018,7 @@ a respeito da natureza e prática da
 Igreja de Cristo.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Ao final da lição, mostre
 que somos chamados por Deus a perse­
 verar na Igreja fundada por Jesus que se
@@ -3981,12 +4027,14 @@ local em que congregamos. Essa igreja
 é o Corpo visível de Cristo. Portanto, a
 amemos com todo zelo e disposição.
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.40, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -4430,11 +4478,13 @@ Assim, veremos que Deus é 0 fiel
 provedor; e o homem, o despenseiro
 das coisas de Deus.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Expor os
 equívocos do Evangelho da barganha;
 II) Mostrar que a doutrina bíblica do
 dízimo está sob ataque; III) Afirmar a
 doutrina bíblica da Mordomia Cristã.
+
 B) Motivação: O dízimo é uma
 disciplina espiritual em que é possível
 mensurar 0 nível de materialismo
@@ -4444,6 +4494,7 @@ compreender melhor o privilégio de
 cultuar a Deus e sustentar sua obra por
 meio da entrega generosa de nossos
 dízimos e ofertas.
+
 C) Sugestão de Método: Para in­
 troduzir o segundo tópico, e de acordo
 com as suas possibilidades, apresente
@@ -4463,6 +4514,7 @@ acordo com a exposição do segundo
 tópico a fim de fechá-lo devidamente.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: A nossa mordomia
 em relação aos dízimos e ofertas
 está fundamentada nos princípios
@@ -4475,6 +4527,7 @@ beneficiados pelo favor de Deus, pelo
 bem do Senhor.
 
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão.
 Vale a pena conhecer essa revis­
 ta que traz reportagens, artigos,
@@ -4482,6 +4535,7 @@ entrevistas e subsídios de apoio à
 Lições Bíblicas Adultos. Na edição 91,
 p.41, você encontrará um subsídio
 especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -4905,6 +4959,7 @@ como 0 seu mundanismo. É preciso
 proteger a alma contra o pecado da
 sensualidade e do narcisismo.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Apresentar
 a realidade dos cristãos na era digital; II)
 Elencar os desafios de ser Igreja na era
@@ -4912,6 +4967,7 @@ digital; III) Pontuar os pecados virtuais;
 IV) Relacionar as mídias sociais com o
 ide de Jesus, destacando a seara virtual
 que as mídias sociais impõem.
+
 B) Motivação: O fenômeno das
 mídias sociais está claro. A igreja deste
 tempo presente está inserida nele.
@@ -4920,6 +4976,7 @@ os princípios bíblicos que norteiam o
 nosso comportamento. Podemos ser
 influentes, como bem pontua a presente
 lição, mas não mundanos.
+
 C) Sugestão de Método: Inicie a
 aula de hoje perguntando quem tem
 rede social. De acordo com as ma­
@@ -4935,6 +4992,7 @@ princípios que devemos observar na
 vida e no mundo virtual.
 
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Estimule os alunos a
 usarem as mídias sociais com prudência,
 sabedoria e honestidade. Incentive-os a
@@ -4942,7 +5000,8 @@ falarem do amor de Deus, a comparti­
 lharem versículos bíblicos, fazendo com
 que a tarefa da evangelização sempre
 esteja em evidência.
-4- SUBSÍDIO AO PROFESSOR
+4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
@@ -5438,6 +5497,7 @@ tópico trará a exposição da Bíblia contra
 a espiritualidade holística.
 
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Conceituar
 0 fenômeno religioso da espiritualida­
 de holística; II) Explicar a espiritua­
@@ -5446,6 +5506,7 @@ expressão; III) Expor o fundamento da
 espiritualidade holística; IV) Mostrar
 a contrariedade bíblica a respeito da
 espiritualidade holística.
+
 B) Motivação: As palavras “es­
 piritualidade” e “transcendência”
 aparecem de modo geral na mídia. É
@@ -5459,6 +5520,7 @@ ouvido falar de ioga, cristais como
 canais de energia etc. Tudo isso tem
 uma proposta de nova religião que a
 presente lição aborda.
+
 C) Sugestão de Método: Você pode
 fazer uma pesquisa por meio de obras
 apologéticas que tratam de religiões
@@ -5470,6 +5532,7 @@ tais como o Hinduísmo, Budismo e o
 Confucionismo. Comente com a classe
 acerca desses movimentos para contextualizar a presente lição.
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Nós temos o maior
 fundamento da verdadeira espiritua-
 lidade: Jesus Cristo. Ele é o motivo da
@@ -5477,13 +5540,15 @@ nossa devoção. Em Cristo, podemos
 preencher o desejo do sagrado, a sede
 da verdadeira vida espiritual.
 
-4- SUBSÍDIO AO PROFESSOR
+4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.42, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
@@ -5897,6 +5962,7 @@ os ataques são mais frontais. Em todo
 sentido, somos chamados por Deus a
 resistir aos ataques do Maligno.
 2. APRESENTAÇÃO DA LIÇÃO
+
 A) Objetivos da Lição: I) Apresentar
 o comprometimento com uma vida
 centrada em Cristo; II) Conscientizar
@@ -5904,6 +5970,7 @@ a respeito do comprometimento com
 as Escrituras; III) Mostrar o comprometimento com uma vida cheia
 do Espírito Santo; IV) Incentivar o
 comprometimento com a igreja local.
+
 B) Motivação: Diante dos diversos
 ataques contra a Igreja de Cristo, as
 nossas armas não podem ser carnais.
@@ -5916,6 +5983,7 @@ as Escrituras, pelo comprometimento
 com uma vida cheia do Espírito Santo
 e, finalmente, pelo comprometimento
 com a igreja local.
+
 C) Sugestão deMétodo: Nesta última
 lição, faça uma recapitulação dos principais assuntos abordados ao longo deste
 trimestre. Mostre, conforme a proposta
@@ -5924,6 +5992,7 @@ ataques do Inimigo contra a Igreja são
 muitas. Entretanto, somos chamados
 a resistir a elas com armas espirituais.
 3. CONCLUSÃO DA LIÇÃO
+
 A) Aplicação: Desafie os alunos a
 estarem a cada dia comprometidos com
 Jesus Cristo. Anime-os a se compro
@@ -5934,12 +6003,14 @@ fortaleça com eles a necessidade do
 comprometimento com a igreja local.
 
 4. SUBSÍDIO AO PROFESSOR
+
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
 reportagens, artigos, entrevistas e sub­
 sídios de apoio à Lições Bíblicas Adultos.
 Na edição 91, p.42, você encontrará um
 subsídio especial para esta lição.
+
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
