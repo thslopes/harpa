@@ -11,7 +11,7 @@
 ### VOCÊ SABE O QUE E CRISTOLOGIA PAULINA?
 “mas nós pregamos a Cristo crucificado, que é escândalo para os judeus e loucura para os gregos.” I Co 1.23
 
-Qualquer pessoa que ler, ao menos, uma parte dos escritos de Paulo reco­nhecerá já de início que a sua devoção a Cristo era a principal realidade e paixão da sua vida. 0 que ele disse em uma das suas últimas cartas serve como uma espécie de lema para toda a sua vida cristã: “Porque para mim o viver é Cristo, e o morrer é ganho” (Fp 1.21).
+Qualquer pessoa que ler, ao menos, uma parte dos escritos de Paulo reco­nhecerá já de início que a sua devoção a Cristo era a principal realidade e paixão da sua vida. O que ele disse em uma das suas últimas cartas serve como uma espécie de lema para toda a sua vida cristã: “Porque para mim o viver é Cristo, e o morrer é ganho” (Fp 1.21).
 
 Se Cristo é a paixão singular da vida de Paulo, o centro desta paixão está na obra salvífica de Cristo; e Paulo deixa isto claro com muita frequência: “Cristo morreu por nossos pecados, segundo as Escrituras” (1 Co 15.3b).
 
@@ -39,7 +39,7 @@ As Sutilezas de Satanás nestes Dias que Antecedem a Volta de Jesus Cristo
 ### [Lição 7 -A Sutileza da Relativização da Bíblia](07.md)
 ### [Lição 8 - A Sutileza do Enfraguecimento da Identidade Pentecostal 52](08.md)
 ### [Lição 9 - A Sutileza do Movimento dos Desigrejados](09.md)
-### [Lição 10 - A Sutileza contra a Prática da Mordomia Cristã](10.md)
+### [Lição 1o - A Sutileza contra a Prática da Mordomia Cristã](10.md)
 ### [Lição 11 - A Sutileza das Mídias Sociais](11.md)
 ### [Lição 12-A Sutileza da Espiritualidade Holística](12.md)
 ### [Lição 13 - Resistindo às Sutilezas de Satanás](13.md)
@@ -112,7 +112,7 @@ Vivemos num tempo em que a Igreja do Senhor Jesus tem sido atacada por todas as 
 
 Alguns “mestres” não se furtam em relativizar a Bíblia, desconstruí-la e, final­mente, normalizar pecados e modismos que afrontam claramente o propósito de Deus para a vida da Igreja de Cristo.
 
-Por isso, nosso desejo é que o Espírito Santo o conduza ao longo deste trimestre. Que 0 Senhor Jesus o fortaleça, de modo que você não desvie para a esquerda nem para a direita. A vontade de nosso Jesus é que estejamos sempre atentos e, conscientemente, esperando sua vinda para arrebatar a Igreja.
+Por isso, nosso desejo é que o Espírito Santo o conduza ao longo deste trimestre. Que o Senhor Jesus o fortaleça, de modo que você não desvie para a esquerda nem para a direita. A vontade de nosso Jesus é que estejamos sempre atentos e, conscientemente, esperando sua vinda para arrebatar a Igreja.
 
 Tenha um trimestre abençoado.
 
@@ -182,9 +182,9 @@ A Igreja está sob ataque. Esses ataques são sutis e perspicazes. Neste trimest
 
 A) Objetivos da Lição: I) Mostrar que a Igreja está sob ataque de Satanás; II) Descrever a natureza do ataque; III) Elencar as esferas do ataque; IV) Pontuar os instrumentos de proteção da Igreja.
 
-B) Motivação: De tempos em tem­ pos, Satanás, 0 nosso Adversário, planeja ataques contra a Igreja de Cristo. Nestes últimos dias, seus ata­ques não são claros. Eles se revelam sutis, perspicazes e sedutores. Quando muitos percebem, já é tarde demais.
+B) Motivação: De tempos em tem­ pos, Satanás, o nosso Adversário, planeja ataques contra a Igreja de Cristo. Nestes últimos dias, seus ata­ques não são claros. Eles se revelam sutis, perspicazes e sedutores. Quando muitos percebem, já é tarde demais.
 
-C) Sugestão de Método: Inicie a aula deste trimestre apresentando 0 tema geral e 0 sumário da revista. É importante que os alunos tenham a noção geral do tema que será aborda­ do ao longo do trimestre. Para isso, é importante que você tenha em mãos 0 material didático com antecedência. É preciso planejar 0 trimestre para, depois, planejar a aula de cada domingo.
+C) Sugestão de Método: Inicie a aula deste trimestre apresentando o tema geral e o sumário da revista. É importante que os alunos tenham a noção geral do tema que será aborda­ do ao longo do trimestre. Para isso, é importante que você tenha em mãos o material didático com antecedência. É preciso planejar o trimestre para, depois, planejar a aula de cada domingo.
 
 
 3. CONCLUSÃO DA LIÇÃO
@@ -213,9 +213,9 @@ sempre experimentou a oposição do Diabo. Nem sempre
 esses ataques acontecem da
 mesma forma, com a mesma
 metodologia ou a mesma
-intensidade. Contudo, 0 agen-
+intensidade. Contudo, o agen-
 te por trás desses ataques é
-sempre 0 mesmo: Satanás.
+sempre o mesmo: Satanás.
 
 ### I - A IGREJA SOB ATAQUE
 1. A sutilezado ataque. Um fato de fácil constatação é que a oposição sistematizada às verdades cristãs cresceram nas
@@ -226,11 +226,11 @@ usados, hoje isso acontece de formamuito
 mais sutil. Elas ocorrem, por exemplo,
 com a normalização de comportamentos
 e práticas contrárias à fé cristã.
-2. O alerta para 0 povo de Deus. Um
+2. O alerta para o povo de Deus. Um
 fato de fácil observação nas Escrituras
 é que Deus sempre manteve seu povo
 sob alerta. No Antigo Testamento, por
-exemplo, nada acontecia com 0 povo de
+exemplo, nada acontecia com o povo de
 Deus sem que fosse avisado. Os alertas e
 advertências sempre vinham. Isso pode
 ser visto tanto em relação a pessoas
@@ -247,7 +247,7 @@ dava à igreja: “[...] O Espírito expressamente diz [...]” (1 Tm 4.1). O ad
 de “claramente”, “sem sombras de
 dúvidas”. O Espírito do Senhor, portanto,
 faz conhecido ao seu povo os perigos
-que 0 cercam
+que o cercam
 3. A Igreja na reta final. A sutileza
 de Satanás ao atacar a Igreja de Cristo
 é um fato claramente revelado pelo
@@ -255,11 +255,11 @@ Espírito Santo. Deus preveniu a Igreja
 de que isso aconteceria. Não há razão,
 portanto, para surpresas. Foi previsto
 e registrado nas Escrituras. Além desse
-fato, 0 Senhor também mostra que isso
+fato, o Senhor também mostra que isso
 aconteceria nos “últimos tempos” (1 Tm
 4.1). A expressão “últimos tempos” é
 uma referência ao período compreendido como sendo a Era da Igreja. Nesse
-aspecto, 0 apóstolo Pedro disse que 0
+aspecto, o apóstolo Pedro disse que 0
 derramamento do Espírito fazia parte
 dos eventos dos “últimos dias” (At 2.17);
 e, de forma semelhante, o apóstolo Paulo
@@ -272,9 +272,9 @@ deveria servir de alerta máximo para
 nós. A profecia é bem clara e objetiva
 em descrever comportamentos, ações e
 práticas que marcariam esse tempo final.
-Se 0 apóstolo Paulo, que viveu há mais de
+Se o apóstolo Paulo, que viveu há mais de
 dois mil anos, disse já vivenciar os últimos
-dias (1 Co 10.11), 0 que a Igreja pode dizer
+dias (1 Co 10.11), o que a Igreja pode dizer
 dessa presente época? Não estaríamos
 na reta final? Na última volta da corrida?
 
@@ -285,7 +285,7 @@ zas de Satanás nesta reta final.
 
 ### II - A NATUREZA DO ATAQUE
 1. O ataque é de natureza espiritual.
-Em sua exposição 0 apóstolo faz referência
+Em sua exposição o apóstolo faz referência
 a “espíritos enganadores” e “demônios”
 (1 Tm 4.1). Não há nenhuma dúvida que é
 uma referência aos espíritos maus, aqui
@@ -296,7 +296,7 @@ nás e seus demônios. Os maiores inimigos
 da Igreja são seres sobrenaturais. Nesse
 sentido, podemos também dizer que a
 natureza desse ataque é espiritual. De fato,
-ao escrever aos efésios, 0 apóstolo Paulo
+ao escrever aos efésios, o apóstolo Paulo
 diz que a nossa luta não é contra carne
 ou sangue, mas contra os principados e
 potestades do mal (Ef 6.12).
@@ -313,7 +313,7 @@ hipocrisia e a mentira são manifestações
 inversas das virtudes morais cristãs da
 autenticidade e da verdade. A operação
 do erro sempre trabalha com a falsidade
-e 0 engano. Paulo também demonstra a
+e o engano. Paulo também demonstra a
 esfera moral desse ataque quando faz
 referência àqueles que têm “cauterizada
 a sua própria consciência”. O termo grego
@@ -334,13 +334,13 @@ pessoa ou algo de delicado, meigo, suave.
 Trata-se de um comportamento hábil,
 perspicaz, que revela certa inteligência de
 espírito. Esse adjetivo qualifica determinados
-comportamentos tanto para 0 bem quanto
-para 0 mal. Neste trimestre, 0 nosso objetivo
+comportamentos tanto para o bem quanto
+para o mal. Neste trimestre, o nosso objetivo
 é destacar a sutileza de Satanás contra a
 Igreja de Cristo.
 
 ### SINOPSE II
-Podemos classificar 0 ataque de
+Podemos classificar o ataque de
 Satanás a partir de duas natu­
 rezas: a sobrenatural e a moral.
 
@@ -352,14 +352,14 @@ ficarmos arraigados, edificados e
 firmados de maneira como fomos
 ensinados. Entretanto, a mensagem
 dos agentes de Satanás é sempre contra
-tudo 0 que cremos, pregamos e prati­
+tudo o que cremos, pregamos e prati­
 camos. Às vezes, há alguns pontos em
 comum entre eles e nós, e nisso reside
-0 perigo, pois é por onde eles entram.
-Depois de expor 0 modus operandi dos
-falsos mestres, ou seja, 0 uso de alguns
+o perigo, pois é por onde eles entram.
+Depois de expor o modus operandi dos
+falsos mestres, ou seja, o uso de alguns
 métodos que eles usavam para desviar
-0 povo da fé cristã, 0 apóstolo faz uma
+o povo da fé cristã, o apóstolo faz uma
 séria advertência: ‘tende cuidado’ (Cl
 2.8). Devemos cuidar da liberdade
 que recebemos em Cristo Jesus. A
@@ -378,14 +378,14 @@ Janeiro: CPAD, 2006, p.36).
 ### III - AS ESFERAS DO ATAQUE
 1. A esfera religiosa. É importante
 tratarmos aqui nas esferas que esse ataque
-ocorre. Em primeiro lugar, 0 apóstolo
+ocorre. Em primeiro lugar, o apóstolo
 mostra que ele acontece na esfera reli­
 giosa. Acontece, portanto, na esfera da
 Igreja. Isso fica claro quando Paulo diz
 que “apostatarão alguns da fé” (1 Tm
-4.1). Não há dúvidas de que 0 apóstolo
+4.1). Não há dúvidas de que o apóstolo
 está se referindo a cristãos professos que
-sucumbiram ao ataque do Diabo. E 0 que
+sucumbiram ao ataque do Diabo. E o que
 é pior: agora estão a serviço dele. Aqui os
 principais inimigos do Evangelho vêm de
 dentro da própria igreja. Não é de admirar
@@ -398,8 +398,8 @@ você conhece alguém assim.
 2. A esfera social. Outra esfera do
 ataque de Satanás à Igreja é a social. Isso
 pode ser visto na expressão de Paulo:
-“proibindo 0 casamento” (1 Tm 4.3). É
-uma forma de dizer que 0 Diabo se opõe
+“proibindo o casamento” (1 Tm 4.3). É
+uma forma de dizer que o Diabo se opõe
 à família. Sem dúvida a família é uma
 das mais importantes instituições so­
 ciais que existem, senão a mais. Nesses
@@ -408,7 +408,7 @@ demônios atacando com muita fúria a
 família brasileira, especialmente a cris­
 tã. Estamos sob fogo cerrado! As mais
 variadas leis e decretos têm sido criados
-com 0 intuito de desconstruir a família.
+com o intuito de desconstruir a família.
 Precisamos acordar para essa realidade,
 pois atacando a família, Satanás atinge
 a Igreja: famílias fracas, igrejas fracas.
@@ -425,7 +425,7 @@ timos, que falaram inspirados pelo
 Espírito Santo. Mesmo no reino dos
 profetas, Deus permitiu o surgimento
 de falsos profetas (2 Pe 1.19-21; 2.1).
-Como identificar 0 falso do verda­
+Como identificar o falso do verda­
 deiro? O texto sagrado diz: ‘profeta
 ou sonhador... te der um sinal ou
 prodígio’ (Dt 13.1). Isso fala de sinais
@@ -434,10 +434,10 @@ nar os incautos. O termo: ‘Vamos
 após outros deuses’ (Dt 13.2) mostra
 tratar-se de milagres estranhos.
 Qualquer um, portanto, mesmo com
-0 mínimo de discernimento, tem
+o mínimo de discernimento, tem
 condições de discernir a fonte desses
 aparentes milagres. Quem realmente
-experimentou 0 poder de Deus na vida
+experimentou o poder de Deus na vida
 não pode ser levado por impostores”
 (SOARES, SOARES, Esequias. Heresias
 e Modismos: Uma Análise Crítica das
@@ -450,12 +450,12 @@ O apóstolo Paulo põe duas importantes armas ou ferramentas capazes
 de neutralizar os ataques do Diabo: a
 Palavra de Deus e a oração (1 Tm 4.5). O apóstolo mostra aqui que a Palavra de
 Deus possui poder santificador. Ela é
-um antídoto contra 0 ascetismo e toda
-forma de culto falso que 0 Diabo possa
+um antídoto contra o ascetismo e toda
+forma de culto falso que o Diabo possa
 criar. Paulo escreveu aos efésios que a
 Palavra de Deus é a espada do Espírito.
 Sem essa Palavra estaríamos desarma­
-dos. Não há dúvida que 0 Maligno tem
+dos. Não há dúvida que o Maligno tem
 levado vantagem sobre muitos cristãos
 porque estes não demonstram perícia
 no manuseio da Palavra de Deus.
@@ -464,7 +464,7 @@ menta apontada pelo apóstolo, a qual
 já nos referimos antes, é a oração (1 Tm
 4.5). As reuniões menos frequentadas na
 igreja são aquelas dedicadas à oração.
-Alguém já disse que 0 círculo de oração
+Alguém já disse que o círculo de oração
 começou quando a igreja como um todo
 deixou de orar. Portanto, persevere na
 oração, uma arma espiritual importante
@@ -477,7 +477,7 @@ deve usar contra esse ataque: a
 Palavra de Deus e a Oração.
 
 ### CONCLUSÃO
-Nesta lição vimos que 0 Diabo tem
+Nesta lição vimos que o Diabo tem
 atacado a Igreja de formas sutis. Essa é
 uma realidade que cada cristão precisa se
 conscientizar. Se não tivermos consciência
@@ -485,7 +485,7 @@ de que estamos sob ataque, não veremos
 a necessidade de nos defendermos. É
 preciso, portanto, conhecer a natureza
 desse ataque, a esfera na qual ele ocorre
-e, 0 mais importante, munir-se das armas
+e, o mais importante, munir-se das armas
 espirituais para ganhar essa guerra.
 
 ## REVISANDO O CONTEÚDO
@@ -500,8 +500,8 @@ como sendo a era da Igreja.
 3. Em qual esfera se encontram os comportamentos “hipócrita” e “mentiroso”?
 Na esfera da moral.
 
-4. Qual expressão bíblica que caracteriza 0 ataque à Igreja na esfera social?
-“Que proíbem 0 casamento” (1 Tm 4.3).
+4. Qual expressão bíblica que caracteriza o ataque à Igreja na esfera social?
+“Que proíbem o casamento” (1 Tm 4.3).
 
 5. Segundo a lição, quais as duas importantes armas ou ferramentas capazes
 de neutralizar os ataques do Diabo?
@@ -509,7 +509,7 @@ A Palavra de Deus e a Oração.
 
 ## VOCABULÁRIO
 Ascetismo: Doutrina de pensamento ou de fé que considera a “ascese”,
-isto é, a disciplina e 0 autocontrole estritos do corpo e do espírito, um
+isto é, a disciplina e o autocontrole estritos do corpo e do espírito, um
 caminho imprescindível em direção a Deus, à verdade ou à virtude.
 Perícia: Qualidade de perito; destreza; habilidade.
 
@@ -532,7 +532,7 @@ pública, e da incredulidade dentro da igreja.
 
 # LIÇÃO 2
 
-### 10 de Julho de 2022
+### 1o de Julho de 2022
 
 # A SUTILEZA DA BANALIZAÇÃO DA GRAÇA
 
@@ -596,7 +596,7 @@ de Deus.
 9 - Não vem das obras, para que ninguém
 se glorie.
 
-10 - Porque somos feitura sua, criados
+1o - Porque somos feitura sua, criados
 em Cristo Jesus para as boas obras, as
 quais Deus preparou para que andás­
 semos nelas.
@@ -610,7 +610,7 @@ neira bíblica o conceito da graça de
 Deus. Dessa compreensão os crentes
 dependem para não banalizar um
 bem tão precioso. Nesta lição, temos
-0 propósito de analisar a graça de
+o propósito de analisar a graça de
 Deus no seu sentido bíblico, histórico
 e contemporâneo. Que seus alunos se
 conscientizem de que a graça é um bem
@@ -696,7 +696,7 @@ ofuscado. Nesse aspecto,
 pode se dizer que a doutrina
 da graça tem sido mal compreendida e, portanto, mal assimilada e, consequentemente,
 desvirtuada. Muito do que se prega e
-se ensina como sendo 0 Evangelho da
+se ensina como sendo o Evangelho da
 graça, nada mais é do que uma forma
 deturpada da graça. É a graça barateada.
 ### I - COMPREENDENDO A GRAÇA
@@ -741,7 +741,7 @@ Deus o responsabilizou por sua deso­
 bediência (Gn 3.17). O primeiro homem,
 portanto, de forma livre e voluntária,
 desobedeceu e pecou (Rm 5.12a).
-0 segundo fato é que a queda do ho­
+o segundo fato é que a queda do ho­
 mem produziu consequências, tanto para
 ele como para sua posteridade. Adão era 0
 cabeça da raça e como tal todos os homens
@@ -761,7 +761,7 @@ a doutrina do “duplo amor de Deus” - O
 amor de Deus à justiça e o amor de Deus
 à humanidade. Se por um lado, a justiça
 divina exige a punição do pecado, por
-outro lado, 0 amor de Deus pela huma­
+outro lado, o amor de Deus pela huma­
 nidade levou-o a prover a cruz como 0
 meio de justificação (1 Tm 2.5; Jo 3.16). Em
 Cristo Jesus, portanto, Deus manifesta 0
@@ -772,7 +772,7 @@ afirmam que Deus quer salvar a todos
 (1 Tm 2.4). Deus ama todos os homens.
 Logo, o mais vil pecador, no lugar onde
 estiver, é amado por Deus e, por isso, deve
-ser alcançado. O alcoólatra, 0 adúltero, 0
+ser alcançado. O alcoólatra, o adúltero, 0
 homicida etc., todos serão aceitos por Deus
 se receberem a graça divina, Cristo Jesus.
 Essa graça é extensiva a todos os homens.
@@ -827,10 +827,10 @@ Rio de Janeiro: CPAD, 1999, pp.30-32).
 
 ### III - A GRAÇA NO CONTEXTO DA REFORMA
 1. A corrupção da doutrina da gra­
-ça. 0 contexto da Reforma Protestante
+ça. O contexto da Reforma Protestante
 do século XVI é muito diversificado.
 Contudo, é possível identificar alguns
-fatores que contribuíram para 0 surgi­
+fatores que contribuíram para o surgi­
 mento da Reforma: o catolicismo perdia
 influência e, por isso, surgiu uma reação
 contra os líderes religiosos por conta
@@ -853,7 +853,7 @@ surge como uma reação à corrupção da
 doutrina da graça. Lutero, monge alemão
 agostiniano, se torna o principal por­
 ta-voz da doutrina “pela fé somente”.
-Posteriormente, 0 lema luterano seria
+Posteriormente, o lema luterano seria
 conhecido como uma das cinco solas:
 sola gratia (só a graça). Os reformadores
 estavam também convictos de que so­
@@ -877,28 +877,28 @@ graça.
 expressão “graça barata” foi intro­
 duzida na literatura para expressar a
 vida cristã nominal ou mundanizada.
-De fato, 0 evangelho expresso por al­
+De fato, o evangelho expresso por al­
 guns ensinadores não reflete mais a
 graça. Parece que quanto mais crescem,
 menos influência os evangélicos estão
 causando na sociedade. Urge voltar para
-0 Evangelho da genuína graça de Deus.
+o Evangelho da genuína graça de Deus.
 2. O valor da graça. Escrevendo aos
-coríntios, 0 apóstolo da graça afirmou:
+coríntios, o apóstolo da graça afirmou:
 “Vocês foram comprados por preço” (i
 Co 7.23 - NAA). Paulo foi um defensor do
 Evangelho da graça. Em seu tempo ele
 não aceitou de forma alguma os penduricalhos que alguns cristãos quiseram
 por ao Evangelho. O apóstolo sabia do
 alto preço que custou a nossa salvação - o sangue de Cristo. A salvação é de
-graça, mas 0 seu preço custou caro. Duas
+graça, mas o seu preço custou caro. Duas
 coisas precisam ser observadas neste
 texto. Primeiramente, a voz passiva do
 verbo grego indica que outra pessoa fez
 a transação por nós e o tempo verbal
 (aoristo) diz que essa transação foi
 completa. Não há mérito humano, Cristo
-pagou 0 preço e fez tudo por nós. Nada
+pagou o preço e fez tudo por nós. Nada
 mais precisa ser acrescentado a nossa
 salvação. Isso é graça!
 
@@ -922,12 +922,12 @@ seu preço custou caro.”
 “Algum tempo atrás, li a história
 de um menino que estava atirando
 pedras com um estilingue. Ele nunca
-conseguia acertar 0 alvo. Quando
+conseguia acertar o alvo. Quando
 retornou ao quintal da vovó, avistou
-0 pato de estimação da velha senhora.
+o pato de estimação da velha senhora.
 Num impulso, fez pontaria e mandou
-ver. A pedra atingiu 0 pato, e este mor­
-reu. Apavorado, 0 menino escondeu
+ver. A pedra atingiu o pato, e este mor­
+reu. Apavorado, o menino escondeu
 a ave na pilha de lenha, apenas para
 levantar os olhos e descobrir que sua
 irmã estava observando. [...] A cada
@@ -935,7 +935,7 @@ momento de sua vida, seu acusador
 está arquivando acusações contra
 você. Ele tem anotado cada erro, e
 marcado cada escorregão. Negligencie
-suas prioridades, e ele [0 acusador]
+suas prioridades, e ele [o acusador]
 tomará nota disso. Abandone suas
 promessas, e ele registrará tudo.
 Tente esquecer seu passado; ele o
@@ -1006,9 +1006,9 @@ sem distinção de cor ou de raça.
 
 ## VERDADE PRÁTICA
 “Fugí da prostituição. Todo
-pecado que 0 homem comete
-éfora do corpo; mas 0 que se
-prostitui peca contra 0 seu
+pecado que o homem comete
+éfora do corpo; mas o que se
+prostitui peca contra o seu
 próprio corpo.” (1 Co 6.18)
 
 ## TEXTO ÁUREO
@@ -1039,7 +1039,7 @@ casamento
 
 Sábado -1 Co 6.20
 A necessidade de glorificar a Deus
-com 0 corpo
+com o corpo
 
 ## LEITURA BÍBLICA EM CLASSE
 
@@ -1049,29 +1049,29 @@ iCoríntios 6
 são membros de Cristo? Tomarei, pois, os
 membros de Cristo efá-los-ei membros
 de uma meretriz? Não, por certo.
-16 - Ou não sabeis que 0 que se ajunta
+16 - Ou não sabeis que o que se ajunta
 com a meretrizfaz-se um corpo com ela?
 Porque serão, disse, dois numa só carne.
-17 - Mas 0 que se ajunta com 0 Senhor
+17 - Mas o que se ajunta com o Senhor
 é um mesmo espírito.
 18 - Fugí da prostituição. Todo pecado
-que 0 homem comete éfora do corpo;
-mas 0 que se prostitui peca contra 0 seu
+que o homem comete éfora do corpo;
+mas o que se prostitui peca contra o seu
 próprio corpo.
-19 - Ou não sabeis que 0 nosso corpo é 0
+19 - Ou não sabeis que o nosso corpo é 0
 templo do Espírito Santo, que habita em
 vós, proveniente de Deus, e que não sois
 de vós mesmos?
-20 - Porque fostes comprados por bom
+2o - Porque fostes comprados por bom
 preço; glorificai, pois, a Deus no vosso
 corpo e no vosso espírito, os quais pertencem a Deus.
 Romanos 1
 26 - Pelo que Deus os abandonou às
 paixões infames. Porque até as suas
-mulheres mudaram 0 uso natural, no
+mulheres mudaram o uso natural, no
 contrário à natureza.
 27 - E, semelhantemente, também os
-varões, deixando 0 uso natural da mulher,
+varões, deixando o uso natural da mulher,
 se inflamaram em sua sensualidade uns
 para com os outros, varão com varão,
 cometendo torpeza e recebendo em si
@@ -1087,7 +1087,7 @@ Hinos Sugeridos: 60, 75, 76 daHarpaCristã
 ## PLANO DE AULA
 
 1. INTRODUÇÃO
-Apresente lição tem 0 objetivo de
+Apresente lição tem o objetivo de
 destacar o processo de distorção da
 moralidade sexual que a sociedade
 atual vem passando. Invariavelmente,
@@ -1098,7 +1098,7 @@ como exemplos dessa revolução: a
 banalização do sexo pré-conjugal, do
 extraconjugal e, consequentemente, a
 normalização da homossexualidade.
-Finalmente, apresentamos 0 padrão
+Finalmente, apresentamos o padrão
 bíblico da moralidade sexual cristã.
 
 2. APRESENTAÇÃO DA LIÇÃO
@@ -1108,7 +1108,7 @@ a Revolução Sexual na sociedade
 atual; II) Pontuar a pecaminosidade
 do relacionamento pré-conjugal,
 extraconjugal e homossexual; III)
-Apresentar 0 padrão bíblico para 0
+Apresentar o padrão bíblico para 0
 relacionamento sexual sadio.
 
 B) Motivação: É notório a bana­
@@ -1129,20 +1129,20 @@ de Paris. Esse fenômeno ficou conhe­
 cido pela seguinte frase: “É proibido
 proibir”. Pesquise esse movimento
 por meio de sites especializados para
-contextualizar 0 primeiro tópico.
+contextualizar o primeiro tópico.
 
 3. CONCLUSÃO DA LIÇÃO
 
 A) Aplicação: O padrão bíblico para
-0 relacionamento sexual envolve trazer
+o relacionamento sexual envolve trazer
 a vida ao mundo por meio da procriação
 e da satisfação sexual do casal. Esse é
 um ponto importante a ser ressalta­
 do, pois a revolução sexual descartou
 o primeiro propósito e banalizou 0
 segundo. É preciso adequar, do ponto
-de vista bíblico, 0 propósito de Deus
-para 0 relacionamento sexual sadio.
+de vista bíblico, o propósito de Deus
+para o relacionamento sexual sadio.
 4. SUBSÍDIO AO PROFESSOR
 
 A) Revista Ensinador Cristão. Vale
@@ -1174,12 +1174,12 @@ pecaminosas e, até mesmo
 criminosas, passaram a ser
 tratadas com naturalidade e
 normalidade. Por exemplo,
-0 sexo antes do casamento e
+o sexo antes do casamento e
 entre pessoas solteiras, que
 era visto como fornicação,
 passou a ser uma prática cada
 vez mais aceita e tolerada. Da
-mesma forma, 0 adultério, que já foi
+mesma forma, o adultério, que já foi
 tratado como crime, também passou a
 ser visto com naturalidade, bem como
 a normalização da homossexualidade.
@@ -1219,14 +1219,14 @@ ciedades ocidentais a partir dessa época.
 Dessa forma, a sexualidade, conforme
 defendida pelo Cristianismo, passou a
 ser considerada um tabu a ser quebrado.
-A partir dos anos 1980 cresce a indústria
+A partir dos anos 198o cresce a indústria
 pornográfica, e a relação sexual antes do
 casamento torna-se uma prática cada vez
 mais aceita. Sentindo a pressão social e
 cultural, muitos dentre os evangélicos
 passam a fazer concessões a essa nova
 moralidade. A relação sexual entre pessoas
-solteiras, 0 relacionamento extraconjulgal
+solteiras, o relacionamento extraconjulgal
 e a homossexualidade passam a ser vistos
 com mais naturalidade.
 
@@ -1276,7 +1276,7 @@ isso já começou. Aqueles que resistem
 dido empregos, negócios e posições
 de ensino” (PEARCEY, Nancy. Ama
 o teu Corpo: Contrapondo a cultura
-que fragmenta 0 ser humano criado à
+que fragmenta o ser humano criado à
 imagem de Deus. i.ed. Rio de Janeiro:
 
 "Os cristãos conservadores
@@ -1324,7 +1324,7 @@ pecaminoso (2 Sm 11.1-5; 12.9,10). Na
 literatura sapiencial, especialmente
 os Provérbios, sobejam as advertências
 contra essa prática (Pv 5.1-23). Jesus e
-seus apóstolos condenaram 0 adultério
+seus apóstolos condenaram o adultério
 (Mt 531,32; 1 Co 6.9).
 3. Homossexualidade: Uma con­tradição da ordem natural. Os cristãos
 que têm na Bíblia sua única regra de
@@ -1338,17 +1338,17 @@ não há como dizer que alguém nasce
 homossexual. A homossexualidade é
 um comportamento adquirido e vários
 fatores fazem parte desse processo. Por
-exemplo, 0 caso dos gêmeos idênticos
+exemplo, o caso dos gêmeos idênticos
 comprova isso. A realidade tem mos­
 trado, e as pesquisas confirmam, que
 há gêmeos em que um é homossexual
-e 0 outro não. Se a homossexualidade
+e o outro não. Se a homossexualidade
 fosse genética isso jamais aconteceria.
 Em outras palavras, os gêmeos seriam
 homossexuais, pois possuem a mesma
 constituição genética.
 Assim, os cristãos conservadores,
-que amam a Palavra de Deus e 0 Corpo
+que amam a Palavra de Deus e o Corpo
 de Cristo, entendem que a reprovação
 da prática homossexual se dá por conta
 de esta ser contrária a ordem natural da
@@ -1392,29 +1392,29 @@ procriação, não haveria a perpetuação da
 espécie humana. O sexo, portanto, atende
 a uma necessidade premente da criação.
 2. O sexo como complementação e
-satisfação. Além da procriação, 0 sexo
+satisfação. Além da procriação, o sexo
 deve atender à necessidade de com­
 plementação e satisfação. A Bíblia não
 condena a prática sexual quando ela é
 experienciada dentro dos limites que
-o Criador estipulou: 0 casamento (Mt
-19.5). A maneira que 0 Criador deixou
-para guardar 0 casal contra suas mais
+o Criador estipulou: o casamento (Mt
+19.5). A maneira que o Criador deixou
+para guardar o casal contra suas mais
 diferentes formas de impureza, como
 a fornicação, o adultério e a homosse­
-xualidade, foi 0 sexo praticado dentro
+xualidade, foi o sexo praticado dentro
 da esfera do casamento monogâmico e
 heterossexual. Contudo, convém dizer que
-0 sexo no casamento não deve ser visto
+o sexo no casamento não deve ser visto
 como um fardo, mas como um espaço
 no qual um se complementa no outro.
 Também não deve ser visto apenas como
 um dever ou obrigação a ser praticado de
 forma mecânica e sem amor. Deve ser
-feito com amor, de forma que 0 casal se
+feito com amor, de forma que o casal se
 sinta satisfeito e realizado (Pv 5.18,19).
 3. O pastoreio cristão e a prática ho­
-mossexual. Mesmo reprovando 0 compor­
+mossexual. Mesmo reprovando o compor­
 tamento homossexual, por ser incompa­
 tível com os valores cristãos, a igreja não
 deve, de forma alguma, deixar de enxergar
@@ -1426,7 +1426,7 @@ nha sido desbotada pelo pecado, contudo,
 nenhum homem ou mulher deixou de ser
 a imagem de Deus e como tal devem ser
 vistos e respeitados como pessoas. A igreja,
-portanto, não deve rejeitar 0 homossexual
+portanto, não deve rejeitar o homossexual
 como não deve rejeitar as demais pessoas
 que agem de forma contrária aos valores
 cristãos. Todavia, por acreditar que a
@@ -1434,7 +1434,7 @@ homossexualidade deve ser vista como
 comportamento adquirido e que, como
 prática se afasta daquilo que preceitua
 a Bíblia sobre a correta expressão da se­
-xualidade, ensina e ordena 0 abandono e a
+xualidade, ensina e ordena o abandono e a
 abstinência da prática por parte daqueles
 que se converteram à fé cristã. A igreja crê
 e defende que qualquer forma de expressão
@@ -1471,20 +1471,20 @@ plenificados.
 1. A partir de que ano o movimento de contestação da moral cristã ganha
 mais visibilidade?
 1960.
-2. Qual é 0 sentido mais amplo da palavra grega porneia?
+2. Qual é o sentido mais amplo da palavra grega porneia?
 Significa qualquer tipo de ato sexual considerado pecaminoso, incluindo
 adultério, prostituição, impureza e fornicação.
 3. Cite pelo menos uma base bíblica que reprova o adultério.
-Quando 0 rei Davi adulterou com Bate-seba, 0 profeta Natã, a mando de Deus,
+Quando o rei Davi adulterou com Bate-seba, o profeta Natã, a mando de Deus,
 condenou de forma dura seu ato pecaminoso (2 Sm 11.1-5; 12.9,10).
-4. Como 0 cristão compreende a homossexualidade?
+4. Como o cristão compreende a homossexualidade?
 Os cristãos conservadores, que têm na Bíblia sua única regra de fé, compreen­
 dem a homossexualidade como um comportamento adquirido e não como
 um determinismo biológico.
-5. Qual a maneira que o Criador deixou para guardar 0 casal contra as suas
+5. Qual a maneira que o Criador deixou para guardar o casal contra as suas
 mais diferentes formas de impureza?
-A maneira que 0 criador deixou para guardar 0 casal contra suas mais diferen­
-tes formas de impureza, como a fornicação e 0 adultério, foi 0 sexo praticado
+A maneira que o criador deixou para guardar o casal contra suas mais diferen­
+tes formas de impureza, como a fornicação e o adultério, foi o sexo praticado
 dentro da esfera do casamento.
 
 ## VOCABULÁRIO
@@ -1500,7 +1500,7 @@ Sobejam: Sobram, excedem os limites do necessário ou do preciso; demasiado.
 
 ## TEXTO ÁUREO
 “Assim não são mais dois, mas
-uma só carne. Portanto, 0 que
+uma só carne. Portanto, o que
 Deus ajuntou não separe 0
 homem.” (Mt 19.6)
 
@@ -1523,7 +1523,7 @@ Quarta - Ml 2.15
 O aspecto moral do divórcio
 
 Quinta - Ml 2.16
-Deus odeia 0 divórcio
+Deus odeia o divórcio
 
 Sexta - Dt 24.1-4
 O divórcio como permissão no AT
@@ -1545,13 +1545,13 @@ riseus, tentando-o e dizendo-lhe: É
 lícito ao homem repudiar sua mulher
 por qualquer motivo?
 4. - Ele, porém, respondendo, disse-Ihes: Não tendes lido que, no princípio,
-0 Criador os fez macho e fêmea
-5 - e disse: Portanto, deixará 0 homem
+o Criador os fez macho e fêmea
+5 - e disse: Portanto, deixará o homem
 pai e mãe e se unirá à sua mulher, e serão
 dois numa só carne?
 6 - Assim não são mais dois, mas uma
-só carne. Portanto, 0 que Deus ajuntou
-não separe 0 homem.
+só carne. Portanto, o que Deus ajuntou
+não separe o homem.
 7 - Disseram-lhe eles: Então, por que
 mandou Moisés dar-lhe carta de divórcio
 e repudiá-la?
@@ -1574,7 +1574,7 @@ de acordo com o contexto bíblico do
 Antigo e Novo Testamento. Outro
 ponto interessante é que a lição aborda
 dois aspectos a respeito do divórcio: 0
-legal e 0 moral. E, finalmente, conclui
+legal e o moral. E, finalmente, conclui
 com uma importante reflexão acerca
 da prática pastoral com pessoas di­
 vorciadas ou em processo de divórcio.
@@ -1645,8 +1645,8 @@ Divórcio
 
 ### INTRODUÇÃO
 O divórcio é entendido como um ato
-por meio do qual 0 casamento é dissolvido.
-Nesse aspecto, 0 divórcio é a dissolução
+por meio do qual o casamento é dissolvido.
+Nesse aspecto, o divórcio é a dissolução
 absoluta da aliança conjugal, tendo
 como resultado a anulação de
 seus efeitos civis. Dependendo
@@ -1656,9 +1656,9 @@ motivação que levou a ruptura do casamento, a prática
 do divórcio pode permitir os
 cônjuges contrair um novo casamento ou não.
 Alição de hoje fará uma análise sobre
-0 divórcio no contexto da culturas bíblica
+o divórcio no contexto da culturas bíblica
 e contemporânea. Devido à tendência
-contemporânea de vulgarizar 0 divórcio,
+contemporânea de vulgarizar o divórcio,
 tornando-o banal e normal, a presente
 lição tomará como padrão aquilo que as
 Escrituras Sagradas ensinam sobre esse
@@ -1679,7 +1679,7 @@ que Deus odeia o divórcio
 certos casos, o divórcio era
 previsto e em outros aparece
 como uma permissão (Dt 24.1-4).
-Em Deuteronômio 24.1-4,0 texto afirma
+Em Deuteronômio 24.1-4,o texto afirma
 que uma das condições para o divórcio
 era o marido encontrar “coisa feia” na
 esposa.Aexpressão hebraica ‘erwat dãbãr,
@@ -1702,8 +1702,8 @@ quem ela havia se divorciado, não poderia
 se casar novamente com ela.
 2. O divórcio no contexto do Novo
 Testamento. No texto de Mateus capítulo
-19, Jesus mostra que 0 plano original de
-Deus é que 0 casamento dure para toda
+19, Jesus mostra que o plano original de
+Deus é que o casamento dure para toda
 a vida (Mt 19.4-6). Ele também rejeita
 todas as outras razões ou motivos dados
 pelos Fariseus (Mt 19.7-9) para justificar
@@ -1714,12 +1714,12 @@ com Jesus, o único motivo que justifica a
 separação (gr. Apolyo, divórcio) é se um
 dos cônjuges praticou “relações sexuais
 ilícitas”. A expressão “relações sexuais
-ilícitas” traduz 0 termo grego moichaomai, que significa “adulterar” (Mt 5.32; Jo
+ilícitas” traduz o termo grego moichaomai, que significa “adulterar” (Mt 5.32; Jo
 83; Mt 5.27; Rm 13.9). No texto de Mateus,
 portanto, o seu sentido é de alguém que
 cometeu adultério. O que se depreende
 dessa passagem bíblica é que Jesus estava
-dizendo que 0 divórcio feito por razões
+dizendo que o divórcio feito por razões
 outras que não o adultério não dissolve
 o casamento aos olhos de Deus. Dizendo
 isso de outra forma, alguém que sofreu
@@ -1733,7 +1733,7 @@ casamento quando o motivo do fim do
 primeiro casamento foi o adultério.
 No contexto das cartas de Paulo, 0
 casamento também é para a vida toda.
-Contudo, 0 apóstolo trata de outras
+Contudo, o apóstolo trata de outras
 situações não contempladas nos Evan­
 gelhos. Escrevendo aos coríntios, Paulo
 se refere ao casamento entre cristãos e a
@@ -1743,7 +1743,7 @@ não. No caso de crentes, Paulo diz que
 se o casal venha a se separar, que não
 se case de novo ou que se reconcilie (1 Co
 7.10,11). No caso de casamentos mistos,
-Paulo diz que se 0 cônjuge descrente
+Paulo diz que se o cônjuge descrente
 abandonasse a esposa esta não estaria
 sujeita à servidão (1 Co 7.15). A maioria dos
 intérpretes entende que essa expressão
@@ -1789,7 +1789,7 @@ feia’ significa fornicação: ‘Um homem
 não se divorciaria de sua mulher, a
 não ser que tivesse encontrado nela
 um motivo de vergonha’. Seu colega
-Hillel (cerca de óo.d.C. - 20 d.C.), que
+Hillel (cerca de óo.d.C. - 2o d.C.), que
 era muito mais liberal, enfatizava a
 primeira frase: ‘Ela não encontrou
 favor em seus olhos’. Ele permitiría a
@@ -1817,7 +1817,7 @@ cristãos necessitamos saber do seu as­
 pecto moral. Para um descrente qualquer
 razão ou motivo justifica a prática do
 divórcio e um novo casamento (cf. Dt
-24.1-4), mas 0 cristão deve perguntar
+24.1-4), mas o cristão deve perguntar
 se isso é moral. O Estado garante o seu
 aspecto legal, contudo a Escritura define
 seu aspecto moral (Mt 19.4-6). Trocar a
@@ -1825,7 +1825,7 @@ esposa por uma mais jovem ou abando­
 nar o marido por um mais rico e famoso
 são práticas normais no mundo, e que
 contam com o amparo legal do Estado.
-Contudo, isso é moral para 0 cristão?
+Contudo, isso é moral para o cristão?
 O crente pode fazer isso? No caso de
 pastores, além do aspecto legal, deve-se
 levar em conta, sobretudo, o aspecto
@@ -1915,7 +1915,7 @@ gosa, arriscada e, até mesmo, pecaminosa.
 Isso porque as Escrituras contêm princípios
 e preceitos que moldam os relacionamentos
 humanos. O casamento é uma instituição
-divina, que reflete 0 ideal de Deus. Portanto,
+divina, que reflete o ideal de Deus. Portanto,
 e devido nossa condição de pecadores, o
 divórcio deve ser visto como uma anor­
 malidade desse ideal divino.
@@ -1924,13 +1924,13 @@ malidade desse ideal divino.
 1. Qual era o plano de Deus na Antiga Aliança em relação ao casamento?
 Na Antiga Aliança, o plano de Deus para a raça humana é que o casamento
 fosse monogâmico e vitalício (Gn 1.27,28; 2.22-25).
-2. Qual é o plano original de Deus para 0 casamento em Mateus 19?
+2. Qual é o plano original de Deus para o casamento em Mateus 19?
 No texto de Mateus capítulo 19, Jesus mostra que o plano original de Deus é
 que o casamento dure para toda a vida (Mt 19.4-6).
 3. Quais são os dois aspectos do divórcio tratados na lição?
 Legal e moral.
 4. Quais são os dois aspectos do divórcio que envolvem a prática pastoral?
-A pessoa divorciada e 0 divorciado como cristão.
+A pessoa divorciada e o divorciado como cristão.
 5. O que as Escrituras contêm a respeito dos relacionamentos?
 As Escrituras contêm princípios e preceitos que moldam os relacionamentos
 humanos.
@@ -1954,7 +1954,7 @@ situação. Esta obra trata deste tema.
 Segredos de um
 Casamento Duradouro
 Este livro dá dicas que lhe ajudarão
-a identificar se 0 seu namorado(a)
+a identificar se o seu namorado(a)
 é perfeito(a) para você, se combina
 com sua personalidade, com seu
 objetivo espiritual e moral.
@@ -1968,7 +1968,7 @@ objetivo espiritual e moral.
 ## TEXTO ÁUREO
 “Porque as suas coisas invisíveis,
 desde a criação do mundo,
-tanto 0 seu eterno poder como
+tanto o seu eterno poder como
 a sua divindade, se entendem e
 claramente se veem pelas coisas
 que estão criadas, para que eles
@@ -1976,7 +1976,7 @@ fiquem inescusáveis.” (Rm 1.20)
 
 ## VERDADE PRÁTICA
 Tanto o materialismo quanto
-0 ateísmo são expressões
+o ateísmo são expressões
 máximas de um coração
 endurecido pelo pecado e de
 olhos cegados por Satanás.
@@ -1999,7 +1999,7 @@ O deus deste século cegou os
 entendimentos dos incrédulos
 
 Sexta - Gn 1.1,2
-Deus é 0 Criador de todas as coisas
+Deus é o Criador de todas as coisas
 
 Sábado - Gn 1.26-28
 O homem é a imagem e
@@ -2012,18 +2012,18 @@ Romanos 1.18-23
 18 - Porque do céu se manifesta a ira de
 Deus sobre toda impiedade e injustiça dos
 homens que detêm a verdade em injustiça;
-19 - porquanto 0 que de Deus se pode
+19 - porquanto o que de Deus se pode
 conhecer neles se manifesta, porque Deus
 Iho manifestou.
-20 - Porque as suas coisas invisíveis, desde
-a criação do mundo, tanto 0 seu eterno
+2o - Porque as suas coisas invisíveis, desde
+a criação do mundo, tanto o seu eterno
 poder como a sua divindade, se entendem e
 claramente se veem pelas coisas que estão
 criadas, para que eles fiquem inescusáveis;
 21 - porquanto, tendo conhecido a
 Deus, não o glorificaram como Deus,
 nem lhe deram graças; antes, em seus
-discursos se desvaneceram, e 0 seu coração
+discursos se desvaneceram, e o seu coração
 insensato se obscureceu.
 22 - Dizendo-se sábios, tornaram-se
 loucos.
@@ -2050,7 +2050,7 @@ surgirem para confrontar a Igreja.
 2. APRESENTAÇÃO DA LIÇÃO
 
 A) Objetivos da Lição: I) Conceituar
-0 Materialismo e 0 Ateísmo; II) Rastrear
+o Materialismo e o Ateísmo; II) Rastrear
 as raízes do Materialismo e do Ateísmo;
 III) Pontuar os pressupostos do Ma­
 terialismo e do Ateísmo; IV) Afirmar
@@ -2058,23 +2058,23 @@ o posicionamento da Igreja de Cristo.
 
 B) Motivação: Toda visão de mundo
 tem um pressuposto. Se uma visão de
-mundo, que defende que 0 homem é só
+mundo, que defende que o homem é só
 matéria, tiver a oportunidade de criar
 leis, planejar a cultura, e etc., fará isso
 solapando os valores espirituais, a
 sacralidade da vida e da Criação. Essa
-questão forma 0 pano de fundo para os
+questão forma o pano de fundo para os
 assuntos contemporâneos do aborto,
 eutanásia e ortotanásia, por exemplo.
 
 C) Sugestão de Método: Esta lição, a
 partir da Bíblia, procura comprender os
 pensamentos que dominam o mundo.
-Por isso não perca de vista que 0 nosso
+Por isso não perca de vista que o nosso
 objetivo é ter um olhar sobre a Bíblia
 diante de uma cultura que precisa ser
 lida e compreendida por nós. Por isso, à
-luz da Bíblia, e de acordo com 0 contexto
+luz da Bíblia, e de acordo com o contexto
 de sua classe, traga aplicações que revele
 a gravidade de uma visão materialista e
 ateísta aplicada à vida das pessoas. Por
@@ -2184,7 +2184,7 @@ AUXÍLIO BIBLIOLÓGICO
 O HOMEM REJEITA
 A REVELAÇÃO DIVINA
 “[Rm 1.18-32] Paulo começa seu
-argumento explicando que 0 indiciamento divino do gênero humano é
+argumento explicando que o indiciamento divino do gênero humano é
 resultado de a humanidade rejeitar a
 revelação recebida de Deus. [...] Porque
 Deus se revelou a si mesmo (pois, caso
@@ -2218,7 +2218,7 @@ religião do homem comum. A verdade é que,
 no seu elitismo, o ateísmo age como se as
 tradições, leis e restrições que os humanos
 têm adotado quase que universalmente não
-se aplicam aos ateus.” Amplie mais 0 seu
+se aplicam aos ateus.” Amplie mais o seu
 conhecimento, lendo a obra Inimaginável,
 editada pela CPAD, p.103.
 
@@ -2227,7 +2227,7 @@ editada pela CPAD, p.103.
 da Queda. Com a entrada do pecado no
 mundo, a incredulidade e a consequente
 rejeição a Deus tomaram conta do co­ração humano. Em Romanos 1.18-23,
-observamos que 0 apóstolo destaca que
+observamos que o apóstolo destaca que
 Deus pode ser conhecido através das
 coisas criadas. A Criação revela o Cria­
 dor. Isso deveria conduzir os homens a
@@ -2241,7 +2241,7 @@ pelo engano do pecado é a causa do mal
 que há na vida do homem, inclusive é a
 fonte de sua mente egoísta, materialista
 e ateia (Mc 7.21,23).
-2. A cegueira espiritual. 0 pecado é a
+2. A cegueira espiritual. O pecado é a
 causa primária da incredulidade humana
 e, consequentemente, a fonte do seu Ma­
 terialismo e Ateísmo. Contudo, convém
@@ -2269,7 +2269,7 @@ alizada pelo deus deste século.
 
 ### III - PRESSUPOSTOS DAS DOUTRINAS MATERIALISTAS E ATEÍSTAS
 1. Negação da existência de Deus.
-Como vimos, 0 Materialismo e o Ateís­
+Como vimos, o Materialismo e o Ateís­
 mo consideram a matéria como a única
 realidade possível. Por isso, evidente­
 mente, que tanto um quanto o outro
@@ -2335,7 +2335,7 @@ que ficamos sabendo que Deus se revelou
 de forma especial na pessoa bendita de
 Jesus Cristo, nosso Salvador (Hb 1.1-3).
 2. Fazendo uso correto da razão. O
-Ateísmo e 0 Materialismo dizem recorrer
+Ateísmo e o Materialismo dizem recorrer
 ao uso da ciência para fundamentar seus
 pressupostos. Contudo, convém dizer que
 aquilo que eles denominam de “ciência”,
@@ -2357,7 +2357,7 @@ expressamos nossa confiança em Deus.
 A Igreja se posiciona diante do
 Materialismo e do Ateísmo afir­
 mando as verdades bíblicas e fa­
-zendo 0 uso correto da razão.
+zendo o uso correto da razão.
 
 AUXÍLIO APOLOGÉTICA
 O CRIADOR É O DEUS DA BÍBLIA?
@@ -2429,7 +2429,7 @@ E Agora, Como Viveremos?
 Vivemos em uma sociedade pós-cristã, em decadência moral,
 espiritual e até econômica dos
 países ocidentais. Como isso
-aconteceu? Como 0 pensamento e a
+aconteceu? Como o pensamento e a
 moral cristã foram gradativamente
 sendo expulsos de nossa cultura?
 
@@ -2440,8 +2440,8 @@ sendo expulsos de nossa cultura?
 # A SUTILEZA DAS IDEOLOGIAS CONTRÁRIAS À FAMÍILIA
 
 ## TEXTO ÁUREO
-“E disse 0 Senhor Deus: Não é bom
-que 0 homem esteja só;far-lhe-ei uma adjutora que esteja como
+“E disse o Senhor Deus: Não é bom
+que o homem esteja só;far-lhe-ei uma adjutora que esteja como
 diante dele.” (Gn 2.18)
 
 VERDADE PRATICA
@@ -2480,34 +2480,34 @@ para os filhos
 ## LEITURA BÍBLICA EM CLASSE
 
 Gênesis 2.18-24
-18 - E disse 0 Senhor Deus: Não é bom
-que 0 homem esteja só;far-lhe-ei uma
+18 - E disse o Senhor Deus: Não é bom
+que o homem esteja só;far-lhe-ei uma
 adjutora que esteja como diante dele.
-19 - Havendo, pois, 0 Senhor Deusformado da terra todo animal do campo
+19 - Havendo, pois, o Senhor Deusformado da terra todo animal do campo
 e toda ave dos céus, os trouxe a Adão,
 para este ver como lhes chamaria; e tudo
-0 queAdão chamou a toda a alma vivente,
-issofoi 0 seu nome.
-20 - EAdão pôs os nomes a todo 0 gado,
+o queAdão chamou a toda a alma vivente,
+issofoi o seu nome.
+2o - EAdão pôs os nomes a todo o gado,
 e às aves dos céus, e a todo animal do
-campo; mas para 0 homem não se achava
+campo; mas para o homem não se achava
 adjutora que estivesse como diante dele.
-21 - Então, 0 SenhorDeusfez cair um sono
+21 - Então, o SenhorDeusfez cair um sono
 pesado sobre Adão, e este adormeceu; e
 tomou uma das suas costelas e cerrou a
 carne em seu lugar.
-22 - E da costela que 0 Senhor Deus
+22 - E da costela que o Senhor Deus
 tomou do homemformou uma mulher;
 e trouxe-a a Adão.
 23- E disse Adão: Esta é agora osso dos
 meus ossos e carne da minha carne; esta
 será chamada varoa, porquanto do varão
 foi tomada.
-24 - Portanto, deixará 0 varão 0 seu pai
+24 - Portanto, deixará o varão o seu pai
 e a sua mãe e apegar-se-á à sua mulher,
 e serão ambos uma carne.
 
-Hinos Sugeridos: 266, 333, 380 da Harpa Cristã
+Hinos Sugeridos: 266, 333, 38o da Harpa Cristã
 
 ## PLANO DE AULA
 
@@ -2536,7 +2536,7 @@ B) Motivação: Vivemos numa
 época desafiadora. Novas ideologias
 têm promovido a “normalização” de
 novas configurações familiares que
-nada tem a ver com 0 propósito de
+nada tem a ver com o propósito de
 Deus. Como cristãos, de que forma
 devemos nos comportar diante dessas
 novas modalidades de união?
@@ -2585,7 +2585,7 @@ subsídio especial para esta lição.
 B) Auxílios Especiais: Ao final do
 tópico, você encontrará auxílios que
 darão suporte na preparação de sua
-aula: 1) O texto “0 Conceito Cristão de
+aula: 1) O texto “o Conceito Cristão de
 Família” é uma reflexão que expande
 o primeiro tópico a respeito da família
 como projeto de Deus; 2) O texto “Os
@@ -2664,8 +2664,8 @@ a formação de uma nova família e,
 como resultante, o nascimento de
 filhos. Está inserida na criação dos
 filhos, a responsabilidade familiar
-de prover o sustento e todo 0 cuidado
-indispensável para 0 desenvolvimento
+de prover o sustento e todo o cuidado
+indispensável para o desenvolvimento
 do ser humano. Por conseguinte,
 entre outros deveres e obrigações
 do casal, inclui-se o planejamento
@@ -2676,7 +2676,7 @@ Deus, imprescindível à existência,
 formação e realização integral do ser
 humano, sendo composta de pai, mãe
 e filho(s) - ‘quando houver’. Reitera
-ainda a Declaração que 0 ‘pai e a mãe
+ainda a Declaração que o ‘pai e a mãe
 integram, de forma originária, deter­
 minante e estruturante, a família, e
 a eles a Bíblia impõe o dever de sus­
@@ -2690,7 +2690,7 @@ CPAD, 2018, p.102).
 ### II - FUNDAMENTOS DA FAMÍLIA CRISTÃ
 1. O casamento monogâmico e hete­
 rossexual. No contexto do Novo Testa­
-mento, 0 casamento é monogâmico, isto
+mento, o casamento é monogâmico, isto
 é, o indivíduo só pode ter um cônjuge.
 A poligamia era muito praticada no
 mundo antigo, inclusive no contexto do
@@ -2701,7 +2701,7 @@ tudo, exigido (1 Tm 3.2). A poligamia,
 portanto, deve ser rejeitada como uma
 forma distorcida e pervertida da cons­
 trução familiar.
-Da mesma forma, 0 casamento bíblico
+Da mesma forma, o casamento bíblico
 é heterossexual, isto é, constituído por
 um homem e uma mulher. Quando Deus
 criou o primeiro casal os chamou de
@@ -2719,14 +2719,14 @@ disse que o que Deus ajuntou não se­
 pare o homem (Mt 19.6). O casamento
 bíblico é feito para durar. Já foi dito
 neste trimestre que Jesus reconheceu a
-cláusula de exceção, 0 adultério, como
+cláusula de exceção, o adultério, como
 um acontecimento que pode pôr fim
 ao casamento (Mt 19.9). Nesse caso há
 ainda a possibilidade do perdão por
 parte do cônjuge traído, o que faz com
-que 0 casamento não seja dissolvido. Há
+que o casamento não seja dissolvido. Há
 ainda a questão do abandono por parte
-do não crente, que, segundo 0 apóstolo
+do não crente, que, segundo o apóstolo
 Paulo, deixaria o cônjuge abandonado
 não sujeito à servidão (1 Co 7.15). Con­
 tudo, deve-se observar que essas são
@@ -2743,7 +2743,7 @@ fundamentos da família cristã.
 
 ### III - A SUTILEZA DA NOVA CONFIGURAÇÃO FAMILIAR
 1. Casamento entre pessoas do mes­
-mo sexo. Em maio de 2011, 0 Supremo
+mo sexo. Em maio de 2011, o Supremo
 Tribunal Federal (STF) reconheceu a
 união homoafetiva como núcleo familiar
 como qualquer outro. Isso porque não
@@ -2751,12 +2751,12 @@ havia e nem há uma lei aprovada no
 Congresso Nacional que legisle sobre
 esse assunto. A partir do entendimen­
 to firmado pelo STF em maio de 2011,
-0 Superior Tribunal de Justiça (STJ)
+o Superior Tribunal de Justiça (STJ)
 determinou, em outubro daquele ano,
 que o mesmo reconhecimento se apli­
 cava para os casamentos. Para evitar
 a falta de reconhecimento nos cartó­
-rios, 0 Conselho Nacional de Justiça
+rios, o Conselho Nacional de Justiça
 (CNJ) publicou uma resolução em que
 regulamentava os trâmites e proibia
 os cartórios de recusar a celebração de
@@ -2783,7 +2783,7 @@ sexo masculino e feminino. Essa pessoa
 mulher. Nesse caso, teria uma ausência
 de gênero, ou ainda pode achar que é as
 duas coisas ao mesmo tempo. Isso sig­
-nifica que mesmo tendo 0 órgão genital
+nifica que mesmo tendo o órgão genital
 de determinado sexo não se reconhece
 dentro desse gênero. Evidentemente
 que isso contradiz a forma de expressão
@@ -2819,7 +2819,7 @@ dessa guerra cultural, na qual se procura
 a desconstrução da identidade cristã,
 não dá para ser neutro. Todos os pais
 compromissados com a família e a
-sociedade na qual vivem têm 0 dever
+sociedade na qual vivem têm o dever
 moral de dar a conhecer a seus filhos
 o que Deus estabeleceu como modelo
 para a família cristã.
@@ -2858,7 +2858,7 @@ trata dos deveres dos maridos, das
 esposas e dos filhos (Ef 5.21-33; 6.1-4).
 Como fundamento para esses deveres,
 o apóstolo estabelece a regra da su­
-jeição mútua (Ef 5.21). Nem 0 marido
+jeição mútua (Ef 5.21). Nem o marido
 é sem a mulher e nem a mulher é sem
 o marido (1 Co 11.11). No texto bíblico,
 as mulheres recebem a incumbência
@@ -2874,7 +2874,7 @@ são tomadas de comum acordo entre 0
 marido e a mulher, cabendo a decisão
 final à cabeça do lar (Ef 5.23). Não
 obstante, as decisões do âmbito do lar
-têm como pressuposto 0 amor, e não
+têm como pressuposto o amor, e não
 a arbitrariedade ou autoritarismo”
 (BAPTISTA, Douglas. Valores Cris­
 tãos: Enfrentando as questões morais
@@ -2884,7 +2884,7 @@ CPAD, 2018, p.109).
 ### CONCLUSÃO
 Chegamos ao final de mais uma lição
 bíblica. Vimos que a família está sob
-ataque. Desvios sutis procuram descontruir 0 projeto da família tradicional.
+ataque. Desvios sutis procuram descontruir o projeto da família tradicional.
 Velhas práticas, como a do adultério,
 estão sendo “vendidas” para as famílias
 como normal e, até mesmo, necessário
@@ -2896,7 +2896,7 @@ nos filhos os valores da fé que uma vez
 foi entregue aos santos.
 
 ## REVISANDO O CONTEÚDO
-1. O que Jesus respondeu aos fariseus, quando consultado a sobre 0 divórcio?
+1. O que Jesus respondeu aos fariseus, quando consultado a sobre o divórcio?
 Quando consultado pelos fariseus sobre a questão do divórcio, Jesus res­
 pondeu: “Portanto, o que Deus ajuntou não separe o homem” (Mt 19.6b).
 2. O que a família é no contexto social?
@@ -2916,7 +2916,7 @@ significa dizer que os pais têm a missão de transmitir valores a seus filhos
 
 ## VOCABULÁRIO
 Incutir: Infundir, introduzir, suscitar, inspirar.
-Trâmites: Procedimentos para determinado fim; 0 que conduz a algum ponto.
+Trâmites: Procedimentos para determinado fim; o que conduz a algum ponto.
 União estável: Instituto jurídico que estabelece legalmente a convivência
 entre duas pessoas, tornando essa união similar ao casamento civil.
 
@@ -2966,14 +2966,14 @@ fé e de conduta
 
 14 - Tu, porém, permanece naquilo que
 aprendeste e de que foste inteirado, sa­
-bendo de quem 0 tens aprendido.
+bendo de quem o tens aprendido.
 15 - E que, desde a tua meninice, sabes as
 sagradas letras, que podem fazer-te sábio
 para a salvação, pela fé que há em Cristo Jesus.
 16 - Toda Escritura divinamente inspirada
 é proveitosa para ensinar, para redarguir,
 para corrigir, para instruir em justiça,
-17 - para que 0 homem de Deus seja
+17 - para que o homem de Deus seja
 perfeito e perfeitamente instruído para
 toda boa obra.
 
@@ -2985,8 +2985,8 @@ Caro professor, prezada professora,
 nesta lição estudaremos o processo de
 relativização da Bíblia. Por isso, ela se
 desdobra em quatro tópicos: Primeiro
-- A Bíblia e 0 Espírito desta Era; Segun­
-do-A Bíblia e 0 Politicamente Correto;
+- A Bíblia e o Espírito desta Era; Segun­
+do-A Bíblia e o Politicamente Correto;
 Terceiro - A Bíblia e o outro Evangelho;
 Quarto - A Bíblia, sempre atual Palavra
 de Deus. Basicamente, esse conteúdo
@@ -3005,7 +3005,7 @@ como a inerrante Palavra de Deus.
 
 A) Objetivos da Lição: I) Destacar os
 aspectos desconstrucionistas e relativistas a respeito da Bíblia; II) Explicar
-0 processo de construção de narrativas
+o processo de construção de narrativas
 para criminalizar a opinião doutrinariamente conservadora da Bíblia;
 III) Pontuar as novas metodologias e
 teologias a partir da relativização da
@@ -3035,7 +3035,7 @@ etc. Por isso, dê a oportunidade para
 um ou dois alunos no máximo contar a
 respeito dessa experiência. Não passe
 de cinco minutos com essa atividade
-introdutória para 0 desenvolvimento
+introdutória para o desenvolvimento
 da lição. Em seguida, diga que as idéias
 defendidas por esses líderes têm a ver
 com a proposta de desconstrução e
@@ -3106,7 +3106,7 @@ ou nas mídias sociais, expressões como: “a era do vazio”;
 certezas”, “cultura líquida”
 ou ainda “desconstrução”.
 São formas diferentes para
-nomear 0 mesmo fenômeno
+nomear o mesmo fenômeno
 cultural que impera na sociedade
 contemporânea, também denominado
 de pós-moderno. Em palavras mais
@@ -3124,7 +3124,7 @@ a relativização das Escrituras (Is 5.20).
 configuração cultural, o relativismo é
 inevitável. Não há valores perenes ou
 absolutos. Tudo é relativo. Na verdade, há
-muito que 0 relativismo ético-moral vem
+muito que o relativismo ético-moral vem
 se insurgindo na sociedade e de forma
 sorrateira na igreja. Não há mais parâ­
 metro por meio do qual se possa dizer o
@@ -3144,7 +3144,7 @@ vização da Bíblia.
 ### APEGO À BÍBLIA COMO ANTÍDOTO
 “Em 2003, o projeto genoma hu­
 mano identificou, pela primeira vez,
-aproximadamente 20 a 25 mil genes
+aproximadamente 2o a 25 mil genes
 no DNA humano. Do ponto de vista
 biológico, os genes determinam as
 características particulares de cada
@@ -3152,7 +3152,7 @@ organismo. Deus é um grande enge­
 nheiro pelo fato de nos ter criado de
 tal modo! Nossos genes determinam
 como vamos evoluir ou, em alguns
-casos, decair conforme 0 andamento da
+casos, decair conforme o andamento da
 nossa vida. A cor dos nossos olhos, nossa
 altura e até mesmo a propensão para
 certas doenças são exemplos de como
@@ -3289,7 +3289,7 @@ afastar a humanidade da cruz de Cristo.
 2. Inspirada por Deus. A Bíblia é a
 revelação de Deus. Isso significa que
 ela tem origem em Deus e por Ele foi
-inspirada. Paulo, 0 apóstolo, disse que
+inspirada. Paulo, o apóstolo, disse que
 toda Escritura é inspirada por Deus (2
 Tm 3.16). Nenhum livro, por mais es­
 petacular que seja, pode se colocar em
@@ -3300,7 +3300,7 @@ receber de Deus alguma iluminação para
 dizer ou escrever algo, mas ninguém
 pode dizer que foi “inspirado” por
 Deus da mesma forma que os escritores
-bíblicos foram. Isso é 0 que faz a Bíblia
+bíblicos foram. Isso é o que faz a Bíblia
 ser diferente como obra literária. É um
 livro com uma mensagem especial e
 atual porque espelha a mente de Deus.
@@ -3323,7 +3323,7 @@ da parte do Espírito Santo através dos
 apóstolos (Jo 16.13; cf. 14.16,17; 15.26,27).
 (4) Negar a inspiração plenária
 das Sagradas Escrituras, portanto, é
-desprezar 0 testemunho fundamental
+desprezar o testemunho fundamental
 de Jesus Cristo (Mt 5.18; 153-6; Lc
 16.17; 24.25-27,44,45; Jo 10.35), do
 Espírito Santo (Jo 15.26; 16.13; 1 Co
@@ -3354,8 +3354,8 @@ texto bíblico, alegando que ele precisa
 ser relevante para essa geração, de­
 senvolveram metodologias e teologias
 próprias. Dentro dessa nova forma de
-entender 0 texto, a Bíblia é que precisa de
-ajustes, e não 0 homem se ajustar a ela.
+entender o texto, a Bíblia é que precisa de
+ajustes, e não o homem se ajustar a ela.
 Todo cristão que segue a ortodoxia bí­
 blica deve rejeitar tal ensino. Não podemos
 aceitar nada que mutile a Bíblia por conta
@@ -3413,7 +3413,7 @@ falassem.” (At 2.4)
 
 ## VERDADE PRÁTICA
 A doutrina do Batismo no
-Espírito Santo e 0 falar em
+Espírito Santo e o falar em
 línguas como sua evidência
 são um distintivo pentecostal
 mantido pela nossa igreja.
@@ -3444,7 +3444,7 @@ realizadas pelo mesmo Espírito
 Atos 2.1-4; 1 Coríntios 12.7-11
 
 Atos 2
-1 - Cumprindo-se 0 dia de Pentecostes,
+1 - Cumprindo-se o dia de Pentecostes,
 estavam todos reunidos no mesmo
 lugar;
 2 - e, de repente, veio do céu um som,
@@ -3455,18 +3455,18 @@ assentados.
 pousaram sobre cada um deles.
 4. -E todosforam cheios do Espírito Santo
 e começaram a falar em outras línguas,
-conforme 0 Espírito Santo lhes concedia
+conforme o Espírito Santo lhes concedia
 que falassem.
 I Coríntios 12
 7 - Alas a manifestação do Espírito é dada
-a cada um para 0 que for útil.
+a cada um para o que for útil.
 8 - Porque a um, pelo Espírito, é dada
 a palavra da sabedoria; e a outro, pelo
 mesmo Espírito, a palavra da ciência;
 9- ea outro, pelo mesmo Espírito, afé; e a
 outro, pelo mesmo Espírito, os dons de curar;
 10- ea outro, a operação de maravilhas; e a
-outro, a profecia; e a outro, 0 dom de discernir
+outro, a profecia; e a outro, o dom de discernir
 os espíritos; e a outro, a variedade de línguas;
 e a outro, a interpretação das línguas.
 11 - Mas um só e o mesmo Espírito opera
@@ -3488,7 +3488,7 @@ as línguas como evidência inicial do
 Batismo no Espírito Santo. A respeito
 das línguas como evidência inicial, já
 há quem a negue. Por isso, a presente
-lição abordará 0 (I) Pentecostes Bíblico;
+lição abordará o (I) Pentecostes Bíblico;
 (II) O Distintivo Pentecostal de nossa
 Igreja; (III) Mantendo a chama pente­
 costal acessa. Precisamos preservar
@@ -3641,7 +3641,7 @@ cumprimento dessa promessa.
 “Os pentecostais reconhecem
 que o Novo Testamento fala de dois
 batismos no Espírito: um que é soteriológico e inicia o crente no corpo de
-Cristo (1 Co 12.13) e um que é missiológico e capacita 0 crente para 0 serviço
+Cristo (1 Co 12.13) e um que é missiológico e capacita o crente para o serviço
 (At 1.8). No entanto, os pentecostais
 acham que é particularmente ade­
 quado adotar a linguagem de Lucas
@@ -3679,8 +3679,8 @@ do derramamento do Espírito Santo será a dis­
 tribuição dos dons espirituais, entre estes o de
 profetizar. A manifestação do Espírito, através
 dos dons, torna conhecida a presença de Deus
-entre 0 seu povo. O apóstolo Paulo declarou que
-se a igreja profetiza, 0 incrédulo será compelido
+entre o seu povo. O apóstolo Paulo declarou que
+se a igreja profetiza, o incrédulo será compelido
 a declarar: ‘que Deus está verdadeiramente
 entre vós (1 Co 14.24,25).” Amplie mais o seu
 conhecimento, lendo a Bíblia de Estudo Pen­
@@ -3688,11 +3688,11 @@ tecostal, editada pela CPAD, p.1290.
 
 ### II - O DISTINTIVO PENTECOSTAL DE NOSSA IGREJA
 1. A atualidade dos dons espirituais.
-Agostinho de Hipona (354-430) introduziu na igreja 0 erro doutrinário de que os
+Agostinho de Hipona (354-430) introduziu na igreja o erro doutrinário de que os
 dons haviam cessado. No entendimento
 dele, os dons, de fato, existiram, contudo,
-haviam sido restritos ao período apostólico. Esse ensino moldou 0 catolicismo
-medieval e, mesmo com 0 advento da
+haviam sido restritos ao período apostólico. Esse ensino moldou o catolicismo
+medieval e, mesmo com o advento da
 grande Reforma luterana, os reformadores não conseguiram se desvencilhar
 dele. O Movimento Pentecostal surge
 posteriormente como resposta a esse
@@ -3708,7 +3708,7 @@ todos os crentes têm o direito e devem
 sinceramente buscar a promessa do
 Pai, o Batismo no Espírito Santo e com
 fogo. Afirma ainda que com o Batismo
-no Espírito Santo vem 0 revestimento de
+no Espírito Santo vem o revestimento de
 poder para a vida e serviço, a concessão
 dos dons e seus usos no trabalho do
 ministério (Lc 24.49; At 1.4,8; 1 Co 12.1-
@@ -3718,12 +3718,12 @@ do novo nascimento (At 10.44-46; 11.14-
 16; 15.7-9).
 2. As línguas como evidência. A
 Declaração de Fé das Assembléias de
-Deus de 1916 afirma que: “0 batismo
+Deus de 1916 afirma que: “o batismo
 dos crentes no Espírito Santo é testemunhado pelo sinal físico inicial de
 falar em outras línguas conforme o
 Espírito de Deus lhes dá capacidade de
-falar (At 2.4). 0 falar em línguas neste
-caso é o mesmo em essência que 0 dom
+falar (At 2.4). O falar em línguas neste
+caso é o mesmo em essência que o dom
 de línguas (1 Co. 12. 4-10, 28), mas diferente em propósito e uso”. Nenhum
 pentecostal da primeira geração tinha
 dúvida quanto a isso. Tanto William
@@ -3766,7 +3766,7 @@ marca distintiva dos pentecostais clássicos ou históricos era seu amor e fidel
 que o Movimento Pentecostal surgiu em
 um contexto de reação ao Liberalismo
 Teológico. Uma das características do
-liberalismo teológico era 0 secularismo
+liberalismo teológico era o secularismo
 que negava a infalibilidade e inerrância
 das Escrituras. Para os pentecostais, a
 Bíblia é a inerrante e infalível Palavra
@@ -3826,14 +3826,14 @@ de pessoas, por meio da fé em Jesus
 Cristo: ‘Porque nele se descobre a
 justiça de Deus de fé em fé como está
 escrito: Mas o justo viverá da fé’ (Rm
-1.17). Assim sendo, 0 Senhor Jesus
-Cristo é 0 centro das Escrituras. Ele
+1.17). Assim sendo, o Senhor Jesus
+Cristo é o centro das Escrituras. Ele
 mesmo disse: ‘São estas as palavras
 que vos disse estando ainda convosco:
 convinha que se cumprisse tudo o
 que de mim estava escrito na Lei de
 Moisés nos profetas, e nos Salmos’
-(Lc 24.44). Tudo 0 que precisamos
+(Lc 24.44). Tudo o que precisamos
 saber sobre Deus e a nossa redenção
 está suficientemente revelado em
 sua Palavra. Ela é o manual de Deus
@@ -3854,7 +3854,7 @@ contexto histórico. Isso o fez consciente
 de sua missão. Contudo, após um século
 do seu advento, o movimento passou a
 dar sinais de esfriamento. Não há dúvida
-de que 0 enfraquecimento doutrinário, e
+de que o enfraquecimento doutrinário, e
 atémesmo desvios teológicos que negam
 a manifestação dos dons espirituais,
 está na gênese desse processo.
@@ -3868,7 +3868,7 @@ mentos e sobre a vida de diferentes pessoas.
 ne, sem distinção de sexo, raça ou idade. Isso mostra a universalização da
 promessa de Deus.
 3- Quem introduziu na igreja o erro doutrinário de que os dons haviam cessado?
-3. Agostinho de Hipona (354-430 d.C.) introduziu na igreja o erro doutrinário
+3. Agostinho de Hipona (354-43o d.C.) introduziu na igreja o erro doutrinário
 de que os dons haviam cessado.
 4- Onde está a sutileza a respeito do falar em outras línguas?
 4- A sutileza está em dizer que o falar em outras línguas, de fato, existe,
@@ -3943,16 +3943,16 @@ Hebreus 10.19-25
 
 19 - Tendo, pois, irmãos, ousadia para
 entrar no Santuário, pelo sangue de Jesus,
-20 - pelo novo e vivo caminho que ele nos
+2o - pelo novo e vivo caminho que ele nos
 consagrou, pelo véu, isto é, pela sua carne,
 21 - e tendo um grande sacerdote sobre
 a casa de Deus,
 22 - cheguemo-nos com verdadeiro
 coração, em inteira certeza de fé; tendo
-0 coração purificado da má consciência
-e 0 corpo lavado com água limpa,
+o coração purificado da má consciência
+e o corpo lavado com água limpa,
 23 - retenhamos firmes a confissão da nos­
-sa esperança, porque fiel é 0 que prometeu.
+sa esperança, porque fiel é o que prometeu.
 24 - £ consideremo-nos uns aos outros,
 para nos estimularmos ao amor e às
 boas obras,
@@ -3970,7 +3970,7 @@ A reunião da igreja local, o Cor­
 po visível de Cristo, é essencial ao
 crescimento espiritual e pessoal do
 crente. Por isso, não é possível amar a
-Cristo, e ignorar 0 seu Corpo, a Igreja.
+Cristo, e ignorar o seu Corpo, a Igreja.
 Assim sendo, nesta lição, estudare­
 mos o fenômeno do movimento dos
 desigrejados, sua visão e prática; re­
@@ -3994,7 +3994,7 @@ está de acordo com as diretrizes do
 Novo Testamento ou não. Quando a
 igreja se encontra em coerência com as
 Sagradas Escrituras, sua instituição é
-orgânica e glorifica 0 nome do Senhor.
+orgânica e glorifica o nome do Senhor.
 
 C) Sugestão de Método: Ao intro­
 duzir a aula desta semana, revise com
@@ -4074,7 +4074,7 @@ apóstatas ou desvios do modelo original
 mostrado no Novo Testamento.
 Nesta lição, procuraremos entender
 a natureza desse fenômeno religioso,
-destacando tanto 0 seu aspecto social
+destacando tanto o seu aspecto social
 como também espiritual. Dessa forma, a
 nossa análise procurará entender como
 pensa um desigrejado, suas crenças
@@ -4123,7 +4123,7 @@ perfeitamente justificável (cf. Rm 16.3-
 5). Contudo, não há nada na Bíblia que
 deponha contra o uso de templos ou
 casas de oração. Se o propósito de um
-templo é congregar 0 povo para adorar
+templo é congregar o povo para adorar
 ao Senhor, o que há de mal nisso?
 2. Um ensino anticlerical. Se por
 um lado os desigrejados são contra toda
@@ -4137,7 +4137,7 @@ havia organização nenhuma e muitos
 menos qualquer estrutura clerical. Na
 verdade, os desigrejados não gostam de
 estar debaixo de liderança alguma. Da
-mesma forma que são contra 0 institucionalismo e toda forma de estrutura
+mesma forma que são contra o institucionalismo e toda forma de estrutura
 arquitetônica para a igreja, não acei­
 tam que alguém esteja na posição de
 autoridade sobre eles. Acreditam que
@@ -4216,7 +4216,7 @@ de Janeiro: CPAD, 2006, p.550).
 da igreja neotestamentária, devemos
 observar primeiramente que ela é
 um organismo vivo (Ef 1.22,23). Nesse
-sentido, a Igreja é 0 Corpo de Cristo (1
+sentido, a Igreja é o Corpo de Cristo (1
 Co 12.27). Assim, a Igreja é formada por
 todas as pessoas convertidas a Cristo,
 que pertencem a diferentes povos, tribos
@@ -4255,7 +4255,7 @@ Ts 3.6). Ninguém vivia isoladamente e
 da maneira que queria (Hb 10.25). Isso
 pode ser visto no primeiro concilio ou
 convenção feita pela Igreja Primitiva
-(At 15) em que 0 colegiado apostólico,
+(At 15) em que o colegiado apostólico,
 juntamente com o presbitério, tomou
 medidas para regular e disciplinar a
 igreja que enfrentava problemas de
@@ -4289,7 +4289,7 @@ uma família. Nesse aspecto, a igreja deve
 discipular seus membros e fomentar a co­
 munhão uns com os outros. O sentimento
 de irmandade, respeito e reconhecimento
-mútuo deve dominar 0 ambiente da igreja
+mútuo deve dominar o ambiente da igreja
 local (Ef 2.15,16).
 2. A Igreja como testemunha da sal­
 vação. Se por um lado o apóstolo Paulo
@@ -4302,7 +4302,7 @@ nhecida dos principados e potestades nos
 céus” (Ef 3.10). Deus criou a Igreja com o
 propósito de ser uma família, cuja missão
 é proclamar a sua abundante graça. De
-fato, 0 apóstolo Pedro disse que a missão
+fato, o apóstolo Pedro disse que a missão
 da Igreja é proclamar as virtudes daquEle
 que nos chamou das trevas para a sua
 maravilhosa luz (1 Pe 2.9). A razão de a
@@ -4391,7 +4391,7 @@ A Igreja Pós-Quarentena
 Este livro serve como um consultor
 pessoal útil para ajudar pastores e
 líderes a prepararem as igrejas para
-0 mundo pós-quarentena, além de
+o mundo pós-quarentena, além de
 identificarem oportunidades-chave
 para suas congregações.
 
@@ -4399,7 +4399,7 @@ Eu Sou Membro de Igreja
 Ao dizer que os membros da igreja
 precisam parar de agir como
 “consumidores” e começar a agir como
-"discípulos”, Thom coloca 0 alvo no
+"discípulos”, Thom coloca o alvo no
 lugar correto: em nossa disposição (ou
 na ausência dela) de seguir a Jesus.
 
@@ -4410,7 +4410,7 @@ na ausência dela) de seguir a Jesus.
 # A SUTILEZA CONTRA A PRÁTICA DA MORDOMIA CRISTÃ
 
 ## TEXTO ÁUREO
-“E [Abrão] deu-lhe 0 dízimo
+“E [Abrão] deu-lhe o dízimo
 de tudo.” (Gn 14.20)
 
 ## VERDADE PRÁTICA
@@ -4432,7 +4432,7 @@ Quarta - Hb 13.5
 É preciso ter cuidado contra 0
 sentimento de avareza
 Quinta - SI 24.1; At 17.24
-A Deus pertence 0 mundo e tudo
+A Deus pertence o mundo e tudo
 o que nele há
 Sexta - Dt 8.18; Pv 10.22
 O Senhor faz o seu povo prosperar,
@@ -4452,11 +4452,11 @@ ele) no vale de Savé, que é o vale do Rei.
 trouxe pão e vinho; e este era sacerdote
 do Deus Altíssimo.
 19 - £ abençoou-o e disse: Bendi­
-to sejaAbrão do Deus Altíssimo, 0 Pos­
+to sejaAbrão do Deus Altíssimo, o Pos­
 suidor dos céus e da terra;
-20 - e bendito seja 0 Deus Altíssimo, que
+2o - e bendito seja o Deus Altíssimo, que
 entregou os teus inimigos nas tuas mãos.
-E deu-lhe 0 dízimo de tudo.
+E deu-lhe o dízimo de tudo.
 
 Hinos Sugeridos: 124., 380, 432 da Harpa Cristã
 
@@ -4474,7 +4474,7 @@ do “evangelho” da barganha; depois
 expõe a doutrina bíblica do dízimo; em
 seguida, amplia a reflexão a respeito
 da mordomia cristã de modo geral.
-Assim, veremos que Deus é 0 fiel
+Assim, veremos que Deus é o fiel
 provedor; e o homem, o despenseiro
 das coisas de Deus.
 2. APRESENTAÇÃO DA LIÇÃO
@@ -4487,7 +4487,7 @@ doutrina bíblica da Mordomia Cristã.
 
 B) Motivação: O dízimo é uma
 disciplina espiritual em que é possível
-mensurar 0 nível de materialismo
+mensurar o nível de materialismo
 que se encontra em nosso coração.
 Que, a partir dessa lição, possamos
 compreender melhor o privilégio de
@@ -4501,7 +4501,7 @@ com as suas possibilidades, apresente
 o seguinte trecho textual: “Aqueles
 que ainda hoje creem que o Antigo
 Testamento exige a prática do dízimo,
-mas que 0 Novo não contém essa exi­
+mas que o Novo não contém essa exi­
 gência, devem observar que a natureza
 do culto e seus fundamentos no Novo
 Testamento não mudaram. Mudou
@@ -4509,7 +4509,7 @@ apenas a forma do culto, mas não a sua
 função” (A Prosperidade à Luz da Bíblia,
 CPAD, p.143). Abra a oportunidade para
 os alunos comentarem a respeito desse
-trecho. Em seguida, trate 0 assunto de
+trecho. Em seguida, trate o assunto de
 acordo com a exposição do segundo
 tópico a fim de fechá-lo devidamente.
 
@@ -4598,7 +4598,7 @@ numa prática de barganha.
 (2 Pe 2.3). Técnicas de arre­
 cadação de fundos são usadas
 para explorar os incautos e mais
-pobres. Vale de tudo. E 0 que é pior:
+pobres. Vale de tudo. E o que é pior:
 tudo em nome de Deus e da fé. Através
 das mídias pessoas são abordadas a
 toda hora com mais pedidos e apelos
@@ -4654,7 +4654,7 @@ usá-lo até mesmo como moeda de
 troca. Acreditam que Deus não tem
 o direito de dizer não a quem Ele
 conferiu o direito de exigir. O devoto
-ganha direitos; Deus perde 0 seu!
+ganha direitos; Deus perde o seu!
 Promessas de curas e prosperidade
 são feitas àqueles que descobriram
 essa “doutrina” e fazem uso dela. Já
@@ -4688,7 +4688,7 @@ Aliança, o cristão estaria desobrigado
 de praticá-lo. Como vimos na leitura em
 classe, a prática do dízimo antecede a
 lei de Moisés (Gn 14.17-20). Abraão deu o
-dízimo de tudo 0 que tinha centenas de
+dízimo de tudo o que tinha centenas de
 anos antes da Lei. Portanto, a desculpa
 de que não se devolve o dízimo porque
 essa é uma prática limitada a lei de
@@ -4714,11 +4714,11 @@ não haveria nada no Novo Testamento
 que respaldaria a entrega do dízimo.
 Dessa forma, entendem que um fiel deve
 ofertar quando quer, onde quiser e com
-0 valor que achar mais conveniente. Essa
+o valor que achar mais conveniente. Essa
 parece ser uma tese bastante piedosa,
 contudo, não resiste nem mesmo a um
 único princípio revelado nas Escritu­
-ras sobre 0 lugar das ofertas no culto
+ras sobre o lugar das ofertas no culto
 cristão. Quando Paulo lembrou a igreja
 de Corinto que era dever desta cuidar
 do sustento dos obreiros, ele recorreu
@@ -4745,12 +4745,12 @@ esconde o pecado da avareza.
 1. Deus, o criador e provedor. O
 primeiro princípio básico da doutrina
 da mordomia bíblica está no fato de que
-Deus é 0 criador e o provedor de tudo:
+Deus é o criador e o provedor de tudo:
 “Do Senhor é a terra e a sua plenitude, o
 mundo e aqueles que nele habitam.” (SI
 24.1); “O Deus que fez o mundo e tudo
 que nele há, sendo Senhor do céu e da
-terra” (At 17.24). Tudo 0 que existe no
+terra” (At 17.24). Tudo o que existe no
 mundo, incluindo todas as suas riquezas,
 foi criado por Deus. Tudo de bom que
 existe provém dEle. É Deus, portanto,
@@ -4762,7 +4762,7 @@ seu Deus, porque é ele quem lhes dá
 força para conseguir riquezas” (Dt 8.18 NAA). Assim, o sábio Salomão sabia que
 “a bênção do Senhor é que enriquece”
 (Pv 10.22). Ser dizimista e ofertante nada
-mais é do que reconhecer 0 Senhor como
+mais é do que reconhecer o Senhor como
 a fonte provedora de tudo.
 2. O homem como despenseiro e
 administrador das coisas de Deus.
@@ -4786,7 +4786,7 @@ para todas as áreas das nossas vidas,
 experimentamos o cuidado e zelo de
 Deus. Escrevendo aos coríntios, o após­
 tolo Paulo advertiu que os “injustos”
-não herdarão 0 Reino de Deus (1 Co 6.9).
+não herdarão o Reino de Deus (1 Co 6.9).
 Ele põe na lista como sendo injustos:
 imorais, idólatras, adúlteros, efemina­
 dos, homossexuais, ladrões, bêbados e
@@ -4815,12 +4815,12 @@ diária, semanal ou mensalmente. O
 ponto é que seu trabalho lhe exigia
 que servisse e não exercesse poder.
 Seu senhor poderia voltar a qualquer
-momento. Quando 0 senhor volta, um
+momento. Quando o senhor volta, um
 ‘mordomo fiel e prudente’ deve estar
 desempenhando seus deveres. Jesus
 louva o servo que serve fielmente na
 ausência do senhor. Por sua eficiência,
-0 senhor o recompensará (v.44) com
+o senhor o recompensará (v.44) com
 uma promoção, dando-lhe respon­
 sabilidade não só sobre sua casa e
 servos, mas também sobre todas as
@@ -4841,7 +4841,7 @@ em princípios bíblicos imutáveis e como
 tal deve ser observada e obedecida pelo
 crente que é fiel a Deus e que sente gra­
 tidão por tudo aquilo que Deus fez por
-ele. Entregar 0 dízimo e ofertar na obra
+ele. Entregar o dízimo e ofertar na obra
 de Deus são privilégios dispensados aos
 que são membros do Corpo de Cristo.
 
@@ -4865,7 +4865,7 @@ fonte provedora de tudo.
 Dizimista, Eu?!
 Dar do dízimo, ou seja, devolver 10%
 de tudo aquilo que Deus tem nos dado,
-inclusive 0 tempo, é prática bíblica.
+inclusive o tempo, é prática bíblica.
 Pr. Paulo explica acerca da origem
 e definição dessa prática, a história
 baseada em fatos bíblicos.
@@ -4875,7 +4875,7 @@ Testamento
 Cada um dos escritores analisa
 a revelação divina conforme ela
 aparece cronologicamente no cânon,
-fazendo com que 0 leitor constate
+fazendo com que o leitor constate
 a revelação da verdade de Deus
 pontualmente ao longo dos séculos.
 
@@ -4890,9 +4890,9 @@ pontualmente ao longo dos séculos.
 ## TEXTO ÁUREO
 “Rogo-vos, pois, irmãos, pela
 compaixão de Deus, que
-apresenteis 0 vosso corpo em
+apresenteis o vosso corpo em
 sacrifício vivo, santo e agradável
-a Deus, que é 0 vosso culto
+a Deus, que é o vosso culto
 racional.” (Rm 12.1)
 
 ## VERDADE PRÁTICA
@@ -4915,7 +4915,7 @@ Quinta - Jo 20.27
 Não há cristianismo verdadeiro
 sem comunhão
 Sexta - Rm 6.13,14
-Evitando 0 pecado nas mídias
+Evitando o pecado nas mídias
 sociais
 Sábado - 2 Tm 3.2; 3 Jo 1.9
 Cuidado com o narcisismo nas
@@ -4926,7 +4926,7 @@ mídias sociais
 Romanos 12.1-3,16,17
 1 - Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis o vosso
 corpo em sacrifício vivo, santo e agradável
-a Deus, que é 0 vosso culto racional.
+a Deus, que é o vosso culto racional.
 2 - E não vos conformeis com este mundo,
 mas transformai-vos pela renovação do
 vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita
@@ -4949,13 +4949,13 @@ Hinos Sugeridos: 15, 409, 429 da Harpa Cristã
 
 1. INTRODUÇÃO
 O universo online cria uma falsa
-realidade em que se 0 crente não
+realidade em que se o crente não
 cuidar, acabará trocando o real pelo
 virtual. Assim, nesta lição, veremos
 que a Igreja de Cristo precisa do am­
 biente real de comunhão. Além disso,
 é preciso cuidado contra a desumanização no ambiente virtual, bem
-como 0 seu mundanismo. É preciso
+como o seu mundanismo. É preciso
 proteger a alma contra o pecado da
 sensualidade e do narcisismo.
 2. APRESENTAÇÃO DA LIÇÃO
@@ -5104,7 +5104,7 @@ Hoje, essa interação, que acontece por
 intermédio das mídias sociais, é muito
 mais eficiente e muito mais dinâmica.
 Praticamente todo mundo sabe, por
-exemplo, 0 que é 0 WhatsApp e os princí­
+exemplo, o que é o WhatsApp e os princí­
 pios básicos de seu uso. Da mesma forma,
 milhões de cristãos estão fazendo perfis
 no Facebook e Instagram para aumentar
@@ -5181,7 +5181,7 @@ ciais na Igreja, editada pela CPAD, pp.55,56.
 apareceu a seus discípulos logo após a
 sua ressurreição, ele desafiou Tomé a
 tocá-lo: “Depois, disse a Tomé: Põe aqui
-0 teu dedo e vê as minhas mãos; chega
+o teu dedo e vê as minhas mãos; chega
 a tua mão e põe-na no meu lado” (Jo
 20.27). Ser Igreja envolve contato. Não
 há cristianismo verdadeiro sem co­
@@ -5193,7 +5193,7 @@ virtual cria a falsa impressão de que é
 possível ser igreja sem relacionamento
 real. Nesse aspecto, o mundo virtual
 desumaniza as pessoas. É por isso que
-0 ciberespaço é 0 universo preferido dos
+o ciberespaço é o universo preferido dos
 desigrejados. Eles dizem não precisar
 da igreja local (Hb 10.25), que existe
 de forma real, para expressar a sua
@@ -5260,7 +5260,7 @@ visto e admirado tornou-se obsessivo
 e doentio (3 Jo 1.9). Daí a necessidade de
 a todo instante estar se fotografando e
 postando. É uma devoção ao selfie. Dessa
-forma, 0 desejo de se expor, de ser visto e
+forma, o desejo de se expor, de ser visto e
 admirado torna-se um comportamento
 não apenas doentio, mas sobretudo,
 pecaminoso. Quando esse desejo de se
@@ -5292,9 +5292,9 @@ se consolidam.”
 
 ### IV - AS MÍDIAS SOCIAIS E O IDE DE JESUS
 1. A seara virtual. Jesus disse “ide por
-todo mundo, pregai 0 evangelho a toda
+todo mundo, pregai o evangelho a toda
 criatura” (Mc 16.15). Evidentemente, que
-0 “ide” de Jesus inclui 0 espaço virtual.
+o “ide” de Jesus inclui o espaço virtual.
 Portanto, mesmo o mundo virtual ten­
 do seus próprios desafios e oferecendo
 seus perigos, não deve ser demonizado.
@@ -5324,7 +5324,7 @@ no sistema de congregações, são um bom
 exemplo disso. O pastor deve fomentar a
 criação desses grupos em suas congre­
 gações e se possível acompanhá-los para
-promover 0 crescimento da igreja. Não são,
+promover o crescimento da igreja. Não são,
 portanto, meros veículos de informação,
 mas, sobretudo, de interação. Aqueles que
 optaram por ficar de fora das redes sociais
@@ -5346,7 +5346,7 @@ siste em a igreja mostrar a grande
 satisfação que pode ser encontrada na
 Palavra, a satisfação que leva o ‘nosso
 paladar’ para longe das coisas deste
-mundo e 0 leva em direção às coisas
+mundo e o leva em direção às coisas
 de Deus’. Se estivermos lidando com
 adolescentes que preferem passar
 horas no videogame, na internet ou
@@ -5397,7 +5397,7 @@ A igreja na era digital precisa ser relevante, mas não espetaculosa. Influente,
 mas não mundana.
 4. A respeito de quais pecados virtuais a lição trata?
 Sensualismo e narcisismo.
-5. “O ide de Jesus inclui 0 espaço virtual”. O que significa para você?
+5. “O ide de Jesus inclui o espaço virtual”. O que significa para você?
 
 Resposta pessoal.
 
@@ -5469,8 +5469,8 @@ Mesmo vós sabeis para onde vou e
 conheceis o caminho.
 5 - Disse-lhe Tome: Senhor, nós não
 sabemos para onde vais e como podemos
-saber 0 caminho?
-6 - Disse-lhe Jesus: Eu sou 0 caminho, e
+saber o caminho?
+6 - Disse-lhe Jesus: Eu sou o caminho, e
 a verdade, e a vida. Ninguém vem ao Pai
 senão por mim.
 
@@ -5499,7 +5499,7 @@ a espiritualidade holística.
 2. APRESENTAÇÃO DA LIÇÃO
 
 A) Objetivos da Lição: I) Conceituar
-0 fenômeno religioso da espiritualida­
+o fenômeno religioso da espiritualida­
 de holística; II) Explicar a espiritua­
 lidade humana e sua necessidade de
 expressão; III) Expor o fundamento da
@@ -5602,7 +5602,7 @@ Deus. A busca do sagrado é, portanto,
 uma necessidade humana. Da mesma
 forma, o apóstolo Paulo, quando se en­
 contrava em Atenas, capital da Grécia,
-e ao observar 0 comportamento
+e ao observar o comportamento
 religioso dos atenienses, dis­
 se: “Senhores atenienses!
 Percebo que em tudo vocês
@@ -5612,7 +5612,7 @@ no religioso está presente
 na raça humana como um
 todo. Assim como Davi, há um
 anseio de Deus na alma de cada
-pessoa: “Como 0 cervo brama pelas
+pessoa: “Como o cervo brama pelas
 correntes das águas, assim suspira a
 minha alma por ti, ó Deus!” (SI 42.1).
 2. Deus e os deuses. Que há na hu­
@@ -5620,7 +5620,7 @@ manidade uma necessidade de possuir
 um objeto de adoração é uma verdade
 inconteste. É um fenômeno presente
 em todas as culturas. Contudo, por não
-conhecer 0 Deus verdadeiro, que se re­
+conhecer o Deus verdadeiro, que se re­
 velou nas páginas da Bíblia e de forma
 especial na pessoa bendita de Jesus
 Cristo (2 Co 5.19; Jo 3-16,17), o homem
@@ -5662,7 +5662,7 @@ rém, em essência a espiritualidade pagã
 continua a mesma - culto e adoração
 aos deuses falsos.
 2. O misticismo oriental. Nas duas
-últimas décadas 0 Ocidente tem sido
+últimas décadas o Ocidente tem sido
 invadido pela espiritualidade holística. O
 holismo está na moda e faz parte do culto
 da elite cultural. Está nas Universidades;
@@ -5727,7 +5727,7 @@ norâmica. 5.ed. Rio de Janeiro: CPAD,
 1. Não há um Deus pessoal. Grosso
 modo, a espiritualidade holística diz que
 tudo é deus. Tudo no universo estaria
-interligado. Assim 0 divino, o homem e
+interligado. Assim o divino, o homem e
 a natureza são uma coisa só. Portanto,
 é uma espiritualidade panteísta. Não
 há um Deus pessoal que se revelou
@@ -5738,7 +5738,7 @@ está no universo. Ainda para os adeptos
 dessa crença, Jesus, Alá, Javé, Buda, Xiva
 ou um Xamã são nomes diferentes para
 uma mesma entidade - a força cósmica
-que habita 0 universo. Uma velha heresia
+que habita o universo. Uma velha heresia
 com um novo formato e com uma nova
 roupagem (Cl 2.8; 2 Co 11.3).
 2. Não há uma verdade factual. Se
@@ -5767,7 +5767,7 @@ factual são os fundamentos da
 espiritualidade holística.
 
 ### IV - A ESPIRITUALIDADE HOLÍSTICA EA BÍBLIA
-1. O problema do pecado. 0 holismo
+1. O problema do pecado. O holismo
 comete um erro crasso e fatal: esquece
 o problema central do homem, o peca­
 do. Acredita que o cristianismo é uma
@@ -5785,7 +5785,7 @@ atraente que está na moda.
 2. Um Salvador Pessoal. Como foi
 mostrado, não há um Deus nem tam­
 pouco um Salvador pessoal na nova
-espiritualidade holística. 0 homem é seu
+espiritualidade holística. O homem é seu
 próprio Deus. Ao ignorar a existência do
 pecado, e, consequentemente, a punição
 eterna, não veem a necessidade de um
@@ -5818,7 +5818,7 @@ lito cometido (note o princípio do
 [...] O Dia da Expiação está repleto
 de simbolismo que prenuncia a obra de
 nosso Senhor e Salvador Jesus Cristo.
-No NT, 0 autor de Hebreus realça o
+No NT, o autor de Hebreus realça o
 cumprimento, no novo concerto, da
 tipologia do Dia da Expiação (ver Hb
 9.6 -10.18). [...] Visto que os sacrifícios
@@ -5865,7 +5865,7 @@ Nas universidades, cinemas, currículos escolares etc.
 4. O que a espiritualidade holística diz?
 Tudo é deus. Portanto, é uma espiritualidade panteísta.
 5. Qual é o erro fatal da espiritualidade holística?
-Esquecer o problema central do homem: 0 pecado.
+Esquecer o problema central do homem: o pecado.
 
 ## VOCABULÁRIO
 Fluídica: impalpável, intangível.
@@ -5874,7 +5874,7 @@ Fluídica: impalpável, intangível.
 
 Guia de Seitas e Religiões
 Com uma linguagem simples,
-utilizando 0 humor e baseado em
+utilizando o humor e baseado em
 fatos, os autores fornecem uma
 visão geral e compreensível das
 religiões e crenças espirituais.
@@ -5928,18 +5928,18 @@ contra Deus? Portanto, qualquer que
 quiser ser amigo do mundo constitui-se
 inimigo de Deus.
 5 -Ou cuidais vós que em vão diz a Escritura:
-0 Espírito que em nós habita tem ciúmes?
+o Espírito que em nós habita tem ciúmes?
 6 - Antes, dá maior graça. Portanto, diz:
 Deus resiste aos soberbos, dá, porém,
 graça aos humildes.
 7 - Sujeitai-vos, pois, a Deus; resisti ao diabo, e ele fugirá de vós.
 8 - Chegai-vos a Deus, e ele se chegará a
 vós. Limpai as mãos, pecadores; e, vós de
-duplo ânimo, purificai 0 coração.
+duplo ânimo, purificai o coração.
 9 - Senti as vossas misérias, e lamentai,
 e chorai; converta-se o vosso riso em
 pranto, e o vosso gozo, em tristeza.
-10 - Humilhai-vos perante o Senhor, e
+1o - Humilhai-vos perante o Senhor, e
 ele vos exaltará.
 
 Hinos Sugeridos: 258, 312, 459 da Harpa Cristã
@@ -6017,8 +6017,8 @@ darão suporte na preparação de sua
 aula: 1) O texto “Cristo Está Conosco”
 aprofunda o primeiro tópico a respeito
 de nosso comprometimento com
-Cristo, 0 nosso Salvador e Senhor; 2) O
-texto “0 Ministério à Igreja” traz uma
+Cristo, o nosso Salvador e Senhor; 2) O
+texto “o Ministério à Igreja” traz uma
 reflexão a respeito da importância da
 comunhão numa igreja local.
 
@@ -6031,9 +6031,9 @@ Resistir
 Observamos em lições anteriores
 como a igreja genuinamente evangélica
 está sob ataque do Inimigo. Por meio de
-várias sutilezas, 0 Diabo tem procurado
+várias sutilezas, o Diabo tem procurado
 de todas as formas desviar a Igreja do
-seu propósito e missão para 0 qual
+seu propósito e missão para o qual
 foi formada. Infelizmente o
 que se observa em muitos
 círculos ditos cristãos é um
@@ -6056,14 +6056,14 @@ forte compromisso com a igreja local.
 A Deus toda glória!
 ### I - COMPROMETIMENTO COM UMAVIDA CENTRADA EM CRISTO
 1. Cristo, o Salvador. Escrevendo à
-igreja de Corinto, 0 apóstolo Paulo disse:
+igreja de Corinto, o apóstolo Paulo disse:
 “Porque nada me propus saber entre
 vós, senão a Jesus Cristo [...]. ” (1
 Co 2.2). Cristo era o centro da
 mensagem de Paulo. Da mesma forma, Pedro disse: “E em
 nenhum outro há salvação”
 (At 4.12). Cristo também era
-0 centro da mensagem do
+o centro da mensagem do
 apóstolo Pedro. Cristo era o
 centro da mensagem apostólica
 e de todos os cristãos: “E, descendo
@@ -6075,15 +6075,15 @@ um cristão ou igreja esfria ou se afasta da
 fé, Cristo é logo tirado do centro. Outras
 formas de culto, filosofias e ideologias
 passam a ganhar espaço quando Cristo
-deixa de ser 0 centro da vida.
-2. Cristo, 0 Senhor. Se por um lado a Igreja
+deixa de ser o centro da vida.
+2. Cristo, o Senhor. Se por um lado a Igreja
 não deve esquecer-se de proclamarCristo
 como o único Salvador, por outro, jamais
 deve esquecer-se de que Ele é o único Se­
 nhor (At 2.36). Quem recebe a Cristo como
 Salvador deve andar na fé tendo Ele como
 Senhor. Ser discípulo de Cristo é tê-lo como
-Senhor: “Como, pois, recebestes 0 Senhor
+Senhor: “Como, pois, recebestes o Senhor
 Jesus Cristo, assim também andai nele”
 (Cl 2.6). Receber Cristo como Salvador,
 mas não andar nEle, isto é, de acordo
@@ -6143,7 +6143,7 @@ poderia ser satisfeita por nenhum outro, senão Jesus
 Cristo. Isto revela a natureza exclusiva do evangelho
 e coloca sobre a igreja a pesada responsabilidade
 de pregar o evangelho a todas as pessoas.” Amplie
-mais 0 seu conhecimento, lendo a Bíblia de Estudo
+mais o seu conhecimento, lendo a Bíblia de Estudo
 Pentecostal, editada pela CPAD, pp.55,56.
 
 ### II - COMPROMETIMENTO COMAS ESCRITURAS
@@ -6204,7 +6204,7 @@ Espírito nos trouxe a Cristo. Contudo,
 precisa ser dito que o viver em Cristo e
 na prática dos princípios bíblicos é im­
 possível sem a ajuda do Espírito Santo.
-0 apóstolo Paulo deixou essa lição bem
+o apóstolo Paulo deixou essa lição bem
 clara quando escreveu os capítulos 6,7
 e 8 da sua Carta aos Romanos. Ali, ele
 mostra que é possível ter a consciência do
@@ -6252,7 +6252,7 @@ ocupa um lugar de relevância ímpar.
 Fica sempre em destaque a igreja como
 um corpo, ou seja, uma expressão de
 sua dimensão coletiva (1 Co 3.16). Nesse
-sentido, 0 aspecto local da igreja também
+sentido, o aspecto local da igreja também
 fica enfatizado. Na metáfora dita por
 Paulo, no capítulo 12 da sua Primeira
 Carta aos Coríntios, fica evidente que,
@@ -6269,7 +6269,7 @@ jamais deve significar “templo”. Um
 templo pode ser a estrutura arquitetônica
 onde a igreja se reúne. A Igreja, portanto,
 não é um prédio feito do aglomerado de
-concreto, tijolos e areia. Ela é 0 Corpo de
+concreto, tijolos e areia. Ela é o Corpo de
 Cristo. Como Corpo de Cristo ela possui
 seus membros. Ela também não é um
 ajuntamento de pessoas em que ninguém
@@ -6321,10 +6321,10 @@ Pentecostal. ío.d. Rio de Janeiro: CPAD,
 Chegamos ao final desta lição e do
 trimestre. Nosso propósito foi mostrar os
 ataques sutis de Satanás contra a Igreja
-e destacar as estratégias para 0 povo de
+e destacar as estratégias para o povo de
 Deus permanecer firme na resistência
 contra o Adversário. Sabemos que os
-dias são difíceis, mas 0 Espírito Santo
+dias são difíceis, mas o Espírito Santo
 é o guia e o auxiliador da Igreja.
 
 ## REVISANDO O CONTEÚDO
@@ -6339,7 +6339,7 @@ se torna?
 A Bíblia torna-se um livro meramente humano, sujeito a falhas e, portanto,
 passível de correção.
 4. Quem conduz o homem a Cristo?
-É o Espírito Santo quem conduz 0 homem a Cristo (Jo 16.8-11; 3-5)5. Cite algumas das sutilezas que estudamos ao longo do trimestre.
+É o Espírito Santo quem conduz o homem a Cristo (Jo 16.8-11; 3-5)5. Cite algumas das sutilezas que estudamos ao longo do trimestre.
 Sutilezas da imoralidade sexual; sutileza da relativização da Bíblia; sutileza
 das Mídias Sociais.
 

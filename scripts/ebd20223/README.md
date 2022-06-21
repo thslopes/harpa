@@ -11,7 +11,7 @@
 ### VOCÊ SABE O QUE E CRISTOLOGIA PAULINA?
 “mas nós pregamos a Cristo crucificado, que é escândalo para os judeus e loucura para os gregos.” I Co 1.23
 
-Qualquer pessoa que ler, ao menos, uma parte dos escritos de Paulo reco­nhecerá já de início que a sua devoção a Cristo era a principal realidade e paixão da sua vida. 0 que ele disse em uma das suas últimas cartas serve como uma espécie de lema para toda a sua vida cristã: “Porque para mim o viver é Cristo, e o morrer é ganho” (Fp 1.21).
+Qualquer pessoa que ler, ao menos, uma parte dos escritos de Paulo reco­nhecerá já de início que a sua devoção a Cristo era a principal realidade e paixão da sua vida. O que ele disse em uma das suas últimas cartas serve como uma espécie de lema para toda a sua vida cristã: “Porque para mim o viver é Cristo, e o morrer é ganho” (Fp 1.21).
 
 Se Cristo é a paixão singular da vida de Paulo, o centro desta paixão está na obra salvífica de Cristo; e Paulo deixa isto claro com muita frequência: “Cristo morreu por nossos pecados, segundo as Escrituras” (1 Co 15.3b).
 
@@ -39,7 +39,7 @@ As Sutilezas de Satanás nestes Dias que Antecedem a Volta de Jesus Cristo
 ### [Lição 7 -A Sutileza da Relativização da Bíblia](07.md)
 ### [Lição 8 - A Sutileza do Enfraguecimento da Identidade Pentecostal 52](08.md)
 ### [Lição 9 - A Sutileza do Movimento dos Desigrejados](09.md)
-### [Lição 10 - A Sutileza contra a Prática da Mordomia Cristã](10.md)
+### [Lição 1o - A Sutileza contra a Prática da Mordomia Cristã](10.md)
 ### [Lição 11 - A Sutileza das Mídias Sociais](11.md)
 ### [Lição 12-A Sutileza da Espiritualidade Holística](12.md)
 ### [Lição 13 - Resistindo às Sutilezas de Satanás](13.md)
@@ -112,7 +112,7 @@ Vivemos num tempo em que a Igreja do Senhor Jesus tem sido atacada por todas as 
 
 Alguns “mestres” não se furtam em relativizar a Bíblia, desconstruí-la e, final­mente, normalizar pecados e modismos que afrontam claramente o propósito de Deus para a vida da Igreja de Cristo.
 
-Por isso, nosso desejo é que o Espírito Santo o conduza ao longo deste trimestre. Que 0 Senhor Jesus o fortaleça, de modo que você não desvie para a esquerda nem para a direita. A vontade de nosso Jesus é que estejamos sempre atentos e, conscientemente, esperando sua vinda para arrebatar a Igreja.
+Por isso, nosso desejo é que o Espírito Santo o conduza ao longo deste trimestre. Que o Senhor Jesus o fortaleça, de modo que você não desvie para a esquerda nem para a direita. A vontade de nosso Jesus é que estejamos sempre atentos e, conscientemente, esperando sua vinda para arrebatar a Igreja.
 
 Tenha um trimestre abençoado.
 
