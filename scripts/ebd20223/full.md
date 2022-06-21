@@ -1,14 +1,14 @@
-Lições Bíblicas
+# Lições Bíblicas
 
-Professor
+### Professor
 
-ADULTOS | 3º TRIMESTRE 2022
+### ADULTOS | 3º TRIMESTRE 2022
 
 # Os Ataques contra a Igreja de Cristo
 
-As Sutilezas de Satanás nestes Dias que Antecedem a Volta de Jesus Cristo
+## As Sutilezas de Satanás nestes Dias que Antecedem a Volta de Jesus Cristo
 
-VOCÊ SABE O QUE E CRISTOLOGIA PAULINA?
+### VOCÊ SABE O QUE E CRISTOLOGIA PAULINA?
 “mas nós pregamos a Cristo crucificado, que é escândalo para os judeus e loucura para os gregos.” I Co 1.23
 
 Qualquer pessoa que ler, ao menos, uma parte dos escritos de Paulo reco­nhecerá já de início que a sua devoção a Cristo era a principal realidade e paixão da sua vida. 0 que ele disse em uma das suas últimas cartas serve como uma espécie de lema para toda a sua vida cristã: “Porque para mim o viver é Cristo, e o morrer é ganho” (Fp 1.21).
@@ -18,43 +18,31 @@ Se Cristo é a paixão singular da vida de Paulo, o centro desta paixão está n
 Portanto, a Cristologia Paulina trata da compreensão de Paulo acerca da pessoa de Cristo. Segundo o teólogo e exegeta Gordon D. Fee, estudar as suas epístolas nos permite ver a pessoa de Cristo em termos de quem Paulo entendia que Ele era, e de como Paulo enxergava o relacionamento entre Cristo, como o Filho de Deus e Senhor, e o Deus Único, como o Pai do Nosso Senhor Jesus Cristo, que agora também se revelou como nosso Pai.
 
 
-LIÇÕES Bíblicas
+## LIÇÕES Bíblicas
 
 Professor 3º Trimestre de 2022
 
 Comentarista: José Gonçalves
 
-SUMÁRIO
+## SUMÁRIO
 
-Os Ataques contra a Igreja de Cristo:
+### Os Ataques contra a Igreja de Cristo:
 
 As Sutilezas de Satanás nestes Dias que Antecedem a Volta de Jesus Cristo
 
-Lição 1 - As Sutilezas de Satanás contra a Igreja de Cristo
-
-Lição 2 - A Sutileza da Banalização da Graça
-
-Lição 3 - A Sutileza da Imoralidade Sexual
-
-Lição 4 - A Sutileza da Normalização do Divórcio
-
-Lição 5 - A Sutileza do Materialismo e do Ateísmo
-
-Lição 6 - A Sutileza das Ideologias contrárias à Família
-
-Lição 7 -A Sutileza da Relativização da Bíblia
-
-Lição 8 - A Sutileza do Enfraguecimento da Identidade Pentecostal 52
-
-Lição 9 - A Sutileza do Movimento dos Desigrejados
-
-Lição 10 - A Sutileza contra a Prática da Mordomia Cristã
-
-Lição 11 - A Sutileza das Mídias Sociais
-
-Lição 12-A Sutileza da Espiritualidade Holística
-
-Lição 13 - Resistindo às Sutilezas de Satanás
+### [Lição 1 - As Sutilezas de Satanás contra a Igreja de Cristo](01.md)
+### [Lição 2 - A Sutileza da Banalização da Graça](02.md)
+### [Lição 3 - A Sutileza da Imoralidade Sexual](03.md)
+### [Lição 4 - A Sutileza da Normalização do Divórcio](04.md)
+### [Lição 5 - A Sutileza do Materialismo e do Ateísmo](05.md)
+### [Lição 6 - A Sutileza das Ideologias contrárias à Família](06.md)
+### [Lição 7 -A Sutileza da Relativização da Bíblia](07.md)
+### [Lição 8 - A Sutileza do Enfraguecimento da Identidade Pentecostal 52](08.md)
+### [Lição 9 - A Sutileza do Movimento dos Desigrejados](09.md)
+### [Lição 10 - A Sutileza contra a Prática da Mordomia Cristã](10.md)
+### [Lição 11 - A Sutileza das Mídias Sociais](11.md)
+### [Lição 12-A Sutileza da Espiritualidade Holística](12.md)
+### [Lição 13 - Resistindo às Sutilezas de Satanás](13.md)
 
 CPAD
 Presidente da Convenção Geral
@@ -253,12 +241,9 @@ forma muito mais intensa através do
 ministério dos profetas (2 Rs 6.8-12;
 Is 3.16-24; Ez 7.1-27; Dn 10.14). Na
 sua primeira carta a Timóteo,
-h. Paulo escreveu sobre 0 grande
-ft alerta que 0 Espírito Santo
-■I dava à igreja: “[...] 0 Espírito
-/ expressamente diz [...]” (1
-V Tm 4.1). O advérbio grego
-y retos, traduzido como “expressamente”, possui 0 sentido
+Paulo escreveu sobre o grande
+alerta que o Espírito Santo
+dava à igreja: “[...] O Espírito expressamente diz [...]” (1 Tm 4.1). O advérbio grego retos, traduzido como “expressamente”, possui o sentido
 de “claramente”, “sem sombras de
 dúvidas”. O Espírito do Senhor, portanto,
 faz conhecido ao seu povo os perigos

@@ -65,7 +65,7 @@ func main() {
 }
 
 func formatEBD() {
-	dat, err := os.ReadFile("ebd20223/01.md")
+	dat, err := os.ReadFile("ebd20223/full.md")
 	check(err)
 	htmlContent := string(dat)
 	linhas := strings.Split(htmlContent, "\n")
@@ -74,7 +74,6 @@ func formatEBD() {
 	for _, l := range linhas {
 		if strings.HasPrefix(l, "# LI") {
 			lessonFile(i, lessonLines)
-			fmt.Printf("\n%s %02d", l, i)
 			i += 1
 			lessonLines = []string{}
 		}
@@ -85,5 +84,5 @@ func formatEBD() {
 
 func lessonFile(i int, lines []string) {
 	dat := []byte(strings.Join(lines, "\n"))
-	_ = ioutil.WriteFile(fmt.Sprintf("%02d.md", i), dat, 0644)
+	_ = ioutil.WriteFile(fmt.Sprintf("ebd20223/%02d.md", i), dat, 0644)
 }
