@@ -175,10 +175,10 @@ Hinos Sugeridos: 34,48, 98 da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 A Igreja está sob ataque. Esses ataques são sutis e perspicazes. Neste trimestre, estudaremos a respeito das Sutilezas de Satanás contra a Igreja de Cristo. Para desenvolver esse importante tema, contaremos com o comentário do pastor José Gonçalves, mestre em Teologia, escritor, articu­lista e líder da AD em Água Branca (PI).
 
-2. APRESENTAÇÃO DA LIÇÃO
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Mostrar que a Igreja está sob ataque de Satanás; II) Descrever a natureza do ataque; III) Elencar as esferas do ataque; IV) Pontuar os instrumentos de proteção da Igreja.
 
@@ -187,11 +187,11 @@ B) Motivação: De tempos em tem­ pos, Satanás, o nosso Adversário, planeja a
 C) Sugestão de Método: Inicie a aula deste trimestre apresentando o tema geral e o sumário da revista. É importante que os alunos tenham a noção geral do tema que será aborda­ do ao longo do trimestre. Para isso, é importante que você tenha em mãos o material didático com antecedência. É preciso planejar o trimestre para, depois, planejar a aula de cada domingo.
 
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Conscientize os alunos a respeito da importância de o cristão estar vigilante nestes úl­timos dias. É preciso cuidar da vida espiritual, lendo a Palavra de Deus de maneira disciplinada e cultivar uma vida de oração e jejum. As nossas armas são espirituais.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale a pena conhecer essa revista que traz reportagens, artigos, entrevistas e subsídios de apoio à Lições Bíblicas Adultos. Na edição 91, p.36, você encontrará um subsídio especial para esta lição.
 
@@ -218,7 +218,8 @@ te por trás desses ataques é
 sempre o mesmo: Satanás.
 
 ### I - A IGREJA SOB ATAQUE
-1. A sutilezado ataque. Um fato de fácil constatação é que a oposição sistematizada às verdades cristãs cresceram nas
+
+**1. A sutilezado ataque.** Um fato de fácil constatação é que a oposição sistematizada às verdades cristãs cresceram nas
 últimas décadas em escala exponencial.
 Se em anos passados as perseguições e
 conflitos bélicos eram os instrumentos
@@ -226,7 +227,8 @@ usados, hoje isso acontece de formamuito
 mais sutil. Elas ocorrem, por exemplo,
 com a normalização de comportamentos
 e práticas contrárias à fé cristã.
-2. O alerta para o povo de Deus. Um
+
+**2. O alerta para o povo de Deus.** Um
 fato de fácil observação nas Escrituras
 é que Deus sempre manteve seu povo
 sob alerta. No Antigo Testamento, por
@@ -248,7 +250,8 @@ de “claramente”, “sem sombras de
 dúvidas”. O Espírito do Senhor, portanto,
 faz conhecido ao seu povo os perigos
 que o cercam
-3. A Igreja na reta final. A sutileza
+
+**3. A Igreja na reta final.** A sutileza
 de Satanás ao atacar a Igreja de Cristo
 é um fato claramente revelado pelo
 Espírito Santo. Deus preveniu a Igreja
@@ -284,7 +287,8 @@ estado de alerta contra as Sutile­
 zas de Satanás nesta reta final.
 
 ### II - A NATUREZA DO ATAQUE
-1. O ataque é de natureza espiritual.
+
+**1. O ataque é de natureza espiritual.**
 Em sua exposição o apóstolo faz referência
 a “espíritos enganadores” e “demônios”
 (1 Tm 4.1). Não há nenhuma dúvida que é
@@ -300,7 +304,8 @@ ao escrever aos efésios, o apóstolo Paulo
 diz que a nossa luta não é contra carne
 ou sangue, mas contra os principados e
 potestades do mal (Ef 6.12).
-2. O ataque é de natureza moral.
+
+**2. O ataque é de natureza moral.**
 Outra coisa a ser levada em conta sobre
 a natureza do ataque à Igreja, que revela
 a sutileza do Diabo: esse também é um
@@ -376,7 +381,8 @@ Crítica das Sutilezas de Satanás. Rio de
 Janeiro: CPAD, 2006, p.36).
 
 ### III - AS ESFERAS DO ATAQUE
-1. A esfera religiosa. É importante
+
+**1. A esfera religiosa.** É importante
 tratarmos aqui nas esferas que esse ataque
 ocorre. Em primeiro lugar, o apóstolo
 mostra que ele acontece na esfera reli­
@@ -395,7 +401,8 @@ que já lutaram em suas trincheiras. Contu­
 do, por alguma razão abandonaram a fé e
 se tornaram inimigo da Igreja. Certamente
 você conhece alguém assim.
-2. A esfera social. Outra esfera do
+
+**2. A esfera social.** Outra esfera do
 ataque de Satanás à Igreja é a social. Isso
 pode ser visto na expressão de Paulo:
 “proibindo o casamento” (1 Tm 4.3). É
@@ -445,7 +452,8 @@ Sutilezas de Satanás. Rio de Janeiro:
 CPAD, 2006, p.36).
 
 ### IV - A IGREJA PROTEGIDA
-1. A exposição da Palavra de Deus.
+
+**1. A exposição da Palavra de Deus.**
 O apóstolo Paulo põe duas importantes armas ou ferramentas capazes
 de neutralizar os ataques do Diabo: a
 Palavra de Deus e a oração (1 Tm 4.5). O apóstolo mostra aqui que a Palavra de
@@ -459,7 +467,8 @@ dos. Não há dúvida que o Maligno tem
 levado vantagem sobre muitos cristãos
 porque estes não demonstram perícia
 no manuseio da Palavra de Deus.
-2. A prática da oração. Outra ferra­
+
+**2. A prática da oração.** Outra ferra­
 menta apontada pelo apóstolo, a qual
 já nos referimos antes, é a oração (1 Tm
 4.5). As reuniões menos frequentadas na
@@ -489,22 +498,22 @@ e, o mais importante, munir-se das armas
 espirituais para ganhar essa guerra.
 
 ## REVISANDO O CONTEÚDO
-1. Como ocorre a perseguição à Igreja nos dias atuais?
+
+**1. Como ocorre a perseguição à Igreja nos dias atuais?**
 A perseguição à igreja atualmente ocorre por meio da normalização de com­
 portamentos e práticas contrárias à fé cristã.
 
-2. Segundo a lição, o que significa a expressão “últimos tempos”?
+**2. Segundo a lição, o que significa a expressão “últimos tempos”?**
 A expressão “últimos tempos” é uma referência ao período compreendido
 como sendo a era da Igreja.
 
-3. Em qual esfera se encontram os comportamentos “hipócrita” e “mentiroso”?
+**3. Em qual esfera se encontram os comportamentos “hipócrita” e “mentiroso”?**
 Na esfera da moral.
 
-4. Qual expressão bíblica que caracteriza o ataque à Igreja na esfera social?
+**4. Qual expressão bíblica que caracteriza o ataque à Igreja na esfera social?**
 “Que proíbem o casamento” (1 Tm 4.3).
 
-5. Segundo a lição, quais as duas importantes armas ou ferramentas capazes
-de neutralizar os ataques do Diabo?
+**5. Segundo a lição, quais as duas importantes armas ou ferramentas capazes de neutralizar os ataques do Diabo?**
 A Palavra de Deus e a Oração.
 
 ## VOCABULÁRIO
@@ -604,7 +613,8 @@ semos nelas.
 Hinos Sugeridos: 37, 79, 205 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 É preciso compreender de ma­
 neira bíblica o conceito da graça de
 Deus. Dessa compreensão os crentes
@@ -616,7 +626,8 @@ e contemporâneo. Que seus alunos se
 conscientizem de que a graça é um bem
 precioso de Deus para a nossa vida
 e, por isso, não pode ser banalizada.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Explicar
 a natureza da graça; II) Apresentar a
@@ -648,7 +659,7 @@ pendimento, novo comportamento e
 nova vida em Cristo como bem expressa
 a verdade prática de nossa lição.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: O advento da graça
 é a maior prova do amor de Deus pela
@@ -658,7 +669,8 @@ homem pecador. Por isso, não pode­
 mos banalizá-la. Ela revela um alto
 preço que foi pago pelo nosso Senhor
 e Salvador, Jesus Cristo.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -700,7 +712,8 @@ se ensina como sendo o Evangelho da
 graça, nada mais é do que uma forma
 deturpada da graça. É a graça barateada.
 ### I - COMPREENDENDO A GRAÇA
-1. A graça é divina. Ao se afirmar que
+
+**1. A graça é divina.** Ao se afirmar que
 a graça é divina, se quer dizer com isso
 que a sua origem está inteiramente em
 Deus. Foi Ele quem quis agir com graça.
@@ -709,12 +722,13 @@ Deus salvar” os homens (1 Co 1.21). Isso
 significa que a origem da graça, bem como a iniciativa da salvação, é ato de
 Deus. Agraça, portanto, tem origem no
 céu. Ninguém pode salvar a si mesmo.
-2. A graça é imerecida. A graça é
+
+**2. A graça é imerecida.** A graça é
 um favor imerecido. Isso significa que
 ninguém a merecia e nem tinha
 como merecê-la. De fato, a Escritura diz que “não há justo,
 nem um sequer” (Rm 3.10).
-| Nossa justiça própria é como
+Nossa justiça própria é como
 trapo da imundícia (Is 64.6).
 A nossa condição antes de
 conhecermos a graça se assemelhava a de alguém que deve
@@ -728,7 +742,8 @@ eles merecessem e, por isso,
 essa graça é um favor imerecido.
 
 ### II - A GRAÇA NO CONTEXTO BÍBLICO
-1. A necessidade da graça. Uma das
+
+**1. A necessidade da graça.** Uma das
 doutrinas mais bem definidas e claras
 nas Escrituras é a referente à queda do
 homem. O primeiro fato a ser observa­
@@ -767,7 +782,8 @@ meio de justificação (1 Tm 2.5; Jo 3.16). Em
 Cristo Jesus, portanto, Deus manifesta 0
 seu grande amor pela humanidade e vê
 nEle sua justiça satisfeita.
-2. A extensão da graça. As Escrituras
+
+**2. A extensão da graça.** As Escrituras
 afirmam que Deus quer salvar a todos
 (1 Tm 2.4). Deus ama todos os homens.
 Logo, o mais vil pecador, no lugar onde
@@ -826,8 +842,8 @@ Você não pode escapar do seu amor. t.ed.
 Rio de Janeiro: CPAD, 1999, pp.30-32).
 
 ### III - A GRAÇA NO CONTEXTO DA REFORMA
-1. A corrupção da doutrina da gra­
-ça. O contexto da Reforma Protestante
+
+**1. A corrupção da doutrina da gra­ça.** O contexto da Reforma Protestante
 do século XVI é muito diversificado.
 Contudo, é possível identificar alguns
 fatores que contribuíram para o surgi­
@@ -847,7 +863,8 @@ medieval, havia sido totalmente desconfigurada. A salvação pelas obras havia
 substituído a salvação pela fé somente
 (Rm 1.17). Em outras palavras, a salvação
 havia se tornado meritória.
-2. A restauração da doutrina graça.
+
+**2. A restauração da doutrina graça.**
 Como foi observada, a Reforma, portanto,
 surge como uma reação à corrupção da
 doutrina da graça. Lutero, monge alemão
@@ -873,7 +890,8 @@ e a restauração da doutrina da
 graça.
 
 ### IV - A GRAÇA NO CONTEXTO CONTEMPORÂNEO
-1. A graça barateada. Há muito a
+
+**1. A graça barateada.** Há muito a
 expressão “graça barata” foi intro­
 duzida na literatura para expressar a
 vida cristã nominal ou mundanizada.
@@ -883,7 +901,8 @@ graça. Parece que quanto mais crescem,
 menos influência os evangélicos estão
 causando na sociedade. Urge voltar para
 o Evangelho da genuína graça de Deus.
-2. O valor da graça. Escrevendo aos
+
+**2. O valor da graça.** Escrevendo aos
 coríntios, o apóstolo da graça afirmou:
 “Vocês foram comprados por preço” (i
 Co 7.23 - NAA). Paulo foi um defensor do
@@ -959,20 +978,23 @@ continua ecoando em nossos dias - a
 salvação é somente pela graça.
 
 ## REVISANDO O CONTEÚDO
-1. O que se quer dizer com a expressão “a graça é divina”?
+
+**1. O que se quer dizer com a expressão “a graça é divina”?**
 Ao se afirmar que a graça é divina, se quer dizer com isso que a sua origem
 está inteiramente em Deus.
 
-2. Qual é a diferença entre a graça universal e a “graça universalista”?
+**2. Qual é a diferença entre a graça universal e a “graça universalista”?**
 A graça é extensiva a todos os homens. Ela é universal. Contudo, por ser uni­
 versal, não significa dizer que ela é universalista, que quer dizer que todos
 independente de credo, religião ou arrependimento, serão salvos.
 
-3. Segundo a lição, como surge a Reforma Protestante?
+**3. Segundo a lição, como surge a Reforma Protestante?**
 A Reforma Protestante surge como uma reação à corrupção da doutrina da graça.
-4. O que quer dizer a expressão “graça barata”?
+
+**4. O que quer dizer a expressão “graça barata”?**
 A expressão “graça barata” diz respeito à vida cristã nominal ou mundanizada.
-5. O que o apóstolo Paulo afirmou ao escrever aos coríntios?
+
+**5. O que o apóstolo Paulo afirmou ao escrever aos coríntios?**
 Escrevendo aos coríntios, o apóstolo da graça afirmou: “Vocês foram com­
 prados por preço” (1 Co 7.23 - NAA).
 
@@ -1086,7 +1108,7 @@ Hinos Sugeridos: 60, 75, 76 daHarpaCristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 Apresente lição tem o objetivo de
 destacar o processo de distorção da
 moralidade sexual que a sociedade
@@ -1101,7 +1123,7 @@ normalização da homossexualidade.
 Finalmente, apresentamos o padrão
 bíblico da moralidade sexual cristã.
 
-2. APRESENTAÇÃO DA LIÇÃO
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Explicar
 a Revolução Sexual na sociedade
@@ -1131,7 +1153,7 @@ proibir”. Pesquise esse movimento
 por meio de sites especializados para
 contextualizar o primeiro tópico.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: O padrão bíblico para
 o relacionamento sexual envolve trazer
@@ -1143,7 +1165,8 @@ o primeiro propósito e banalizou 0
 segundo. É preciso adequar, do ponto
 de vista bíblico, o propósito de Deus
 para o relacionamento sexual sadio.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -1185,7 +1208,8 @@ ser visto com naturalidade, bem como
 a normalização da homossexualidade.
 
 ### I - A REVOLUÇÃO SEXUAL
-1. Um novo paradigmapara a sexualidade. O paradigma judaico-cristão moldou
+
+**1. Um novo paradigmapara a sexualidade.** O paradigma judaico-cristão moldou
 a cultura ocidental durante séculos. Dentro
 desse modelo cultural, os valores morais
 prevalecentes eram aqueles extraídos
@@ -1202,7 +1226,8 @@ aceitas nenhuma outra forma de expressão
 sexual (Gn 1.27). Havia, portanto, uma
 visão conservadora sobre a forma como
 a sexualidade deveria se expressar.
-2. A quebra de um “tabu”. A partir dos
+
+**2. A quebra de um “tabu”.** A partir dos
 anos de 1960, o Ocidente passa por grandes
 mudanças sociais. Os movimentos de con­
 testação, principalmente da moral cristã,
@@ -1288,7 +1313,8 @@ da criação, conforme re­
 gistrada na Bíblia"
 
 ### II - AS PRINCIPAIS DISTORÇÕES DA SEXUALIDADE SADIA
-1. A prática da fornicação. No con­
+
+**1. A prática da fornicação.** No con­
 texto evangélico, o termo fornicação
 passou a ser entendido como a prática
 não aceita e reprovável do sexo antes
@@ -1309,8 +1335,8 @@ com os sentidos de “fornicação” e
 “prostituição”, considerando como
 prática pecaminosa e extremamente
 maléfica para a vida cristã.
-2. Adultério: Não é crime, mas é
-pecado. O adultério já foi considerado
+
+**2. Adultério: Não é crime, mas é pecado.** O adultério já foi considerado
 crime pela legislação brasileira até a
 revogação da lei que o regulamentava.
 Hoje não é considerado mais um crime,
@@ -1326,7 +1352,8 @@ os Provérbios, sobejam as advertências
 contra essa prática (Pv 5.1-23). Jesus e
 seus apóstolos condenaram o adultério
 (Mt 531,32; 1 Co 6.9).
-3. Homossexualidade: Uma con­tradição da ordem natural. Os cristãos
+
+**3. Homossexualidade: Uma con­tradição da ordem natural.** Os cristãos
 que têm na Bíblia sua única regra de
 fé compreendem a homossexualidade
 como um comportamento adquirido, e
@@ -1383,16 +1410,16 @@ ser humano criado à imagem de Deus.
 i.ed. Rio de Janeiro: CPAD, 2021, p.175).
 
 ### III - O PADRÃO BÍBLICO PARA UMA SEXUALIDADE SADIA
-1. O sexo atende uma necessidade da
-criação. Uma das principais razões da
+
+**1. O sexo atende uma necessidade da criação.** Uma das principais razões da
 prática sexual está associada à procriação.
 Deus disse para o primeiro casal se mul­
 tiplicar e encher a terra (Gn 1.28). Sem a
 procriação, não haveria a perpetuação da
 espécie humana. O sexo, portanto, atende
 a uma necessidade premente da criação.
-2. O sexo como complementação e
-satisfação. Além da procriação, o sexo
+
+**2. O sexo como complementação e satisfação.** Além da procriação, o sexo
 deve atender à necessidade de com­
 plementação e satisfação. A Bíblia não
 condena a prática sexual quando ela é
@@ -1413,8 +1440,8 @@ um dever ou obrigação a ser praticado de
 forma mecânica e sem amor. Deve ser
 feito com amor, de forma que o casal se
 sinta satisfeito e realizado (Pv 5.18,19).
-3. O pastoreio cristão e a prática ho­
-mossexual. Mesmo reprovando o compor­
+
+**3. O pastoreio cristão e a prática ho­ mossexual.** Mesmo reprovando o compor­
 tamento homossexual, por ser incompa­
 tível com os valores cristãos, a igreja não
 deve, de forma alguma, deixar de enxergar
@@ -1471,13 +1498,16 @@ plenificados.
 1. A partir de que ano o movimento de contestação da moral cristã ganha
 mais visibilidade?
 1960.
-2. Qual é o sentido mais amplo da palavra grega porneia?
+
+**2. Qual é o sentido mais amplo da palavra grega porneia?**
 Significa qualquer tipo de ato sexual considerado pecaminoso, incluindo
 adultério, prostituição, impureza e fornicação.
-3. Cite pelo menos uma base bíblica que reprova o adultério.
+
+**3. Cite pelo menos uma base bíblica que reprova o adultério.**
 Quando o rei Davi adulterou com Bate-seba, o profeta Natã, a mando de Deus,
 condenou de forma dura seu ato pecaminoso (2 Sm 11.1-5; 12.9,10).
-4. Como o cristão compreende a homossexualidade?
+
+**4. Como o cristão compreende a homossexualidade?**
 Os cristãos conservadores, que têm na Bíblia sua única regra de fé, compreen­
 dem a homossexualidade como um comportamento adquirido e não como
 um determinismo biológico.
@@ -1568,7 +1598,8 @@ repudiada também comete adultério.
 Hinos Sugeridos: 176, 213, 252 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 A presente lição trata o divórcio
 de acordo com o contexto bíblico do
 Antigo e Novo Testamento. Outro
@@ -1578,7 +1609,8 @@ legal e o moral. E, finalmente, conclui
 com uma importante reflexão acerca
 da prática pastoral com pessoas di­
 vorciadas ou em processo de divórcio.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Expor
 o divórcio no contexto bíblico; II)
@@ -1606,7 +1638,8 @@ do divórcio como uma extensão da
 lição anterior a respeito da imorali­
 dade sexual. Procure contextualizar
 a classe com o tema.
-3. CONCLUSÃO DA LIÇÃO
+
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Vimos que o padrão
 bíblico para o casamento tem a ver
@@ -1619,7 +1652,7 @@ de seus alunos. Reserve esse momento
 para apresentar a Deus as demandas
 conjugais da classe.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 Cristo”, localizado após o segundo
 
 A) Revista Ensinador Cristão. Vale
@@ -1668,8 +1701,8 @@ Declaração de Fé, ensina e orienta sobre
 o divórcio.
 
 ### I - O DIVORCIO NO CONTEXTO BÍBLICO
-1. O divórcio no contexto do Antigo
-Testamento. Na AntigaAliança, o plano
+
+**1. O divórcio no contexto do Antigo Testamento.** Na AntigaAliança, o plano
 de Deus para a raça humana é que
 o casamento fosse monogâmico
 e vitalício (Gn 1.27,28; 2.22-25).
@@ -1700,8 +1733,8 @@ circunstância, o seu segundo casamento
 era legítimo. Mas, seu primeiro marido, de
 quem ela havia se divorciado, não poderia
 se casar novamente com ela.
-2. O divórcio no contexto do Novo
-Testamento. No texto de Mateus capítulo
+
+**2. O divórcio no contexto do Novo Testamento.** No texto de Mateus capítulo
 19, Jesus mostra que o plano original de
 Deus é que o casamento dure para toda
 a vida (Mt 19.4-6). Ele também rejeita
@@ -1801,7 +1834,8 @@ Bíblico Beacon. Vol. 6. Rio de Janeiro:
 CPAD, 2014, p.135).
 
 ### II - A SUTILEZA DA NORMALI­ZAÇÃO DO DIVÓRCIO
-1. O divórcio no seu aspecto legal.
+
+**1. O divórcio no seu aspecto legal.**
 A legislação brasileira já foi muito mais
 rígida com respeito ao divórcio. Contu­
 do, nas últimas décadas as razões que
@@ -1811,7 +1845,8 @@ a permitir divorciar-se e recasar quantas
 vezes fosse preciso. No aspecto legal da
 legislação brasileira é muito fácil alguém
 se divorciar e se casar novamente.
-2. O divórcio no seu aspecto moral.
+
+**2. O divórcio no seu aspecto moral.**
 Além do aspecto legal do divórcio, como
 cristãos necessitamos saber do seu as­
 pecto moral. Para um descrente qualquer
@@ -1865,7 +1900,8 @@ tário Bíblico Beacon. Vol. 6. Rio de
 Janeiro: CPAD, 2014, p.136).
 
 ### III - O DIVÓRCIO E A PRÁTICA PASTORAL
-1. A pessoa do divorciado. O(A)
+
+**1. A pessoa do divorciado.** O(A)
 divorciado(a) é uma pessoa e como
 tal deve ser vista. Quem passou por
 um processo de divórcio sabe o quão
@@ -1881,7 +1917,8 @@ Divorciados devem obter aconselha­
 mento pastoral e, concomitantemente,
 o acompanhamento psicológico não
 deve ser negligenciado.
-2. O divorciado como cristão. Outra
+
+**2. O divorciado como cristão.** Outra
 coisa acerca de quem passou por um
 processo de divórcio diz respeito a sua
 condição de membro da Igreja. Talvez
@@ -1921,17 +1958,22 @@ divórcio deve ser visto como uma anor­
 malidade desse ideal divino.
 
 ## REVISANDO O CONTEÚDO
-1. Qual era o plano de Deus na Antiga Aliança em relação ao casamento?
+
+**1. Qual era o plano de Deus na Antiga Aliança em relação ao casamento?**
 Na Antiga Aliança, o plano de Deus para a raça humana é que o casamento
 fosse monogâmico e vitalício (Gn 1.27,28; 2.22-25).
-2. Qual é o plano original de Deus para o casamento em Mateus 19?
+
+**2. Qual é o plano original de Deus para o casamento em Mateus 19?**
 No texto de Mateus capítulo 19, Jesus mostra que o plano original de Deus é
 que o casamento dure para toda a vida (Mt 19.4-6).
-3. Quais são os dois aspectos do divórcio tratados na lição?
+
+**3. Quais são os dois aspectos do divórcio tratados na lição?**
 Legal e moral.
-4. Quais são os dois aspectos do divórcio que envolvem a prática pastoral?
+
+**4. Quais são os dois aspectos do divórcio que envolvem a prática pastoral?**
 A pessoa divorciada e o divorciado como cristão.
-5. O que as Escrituras contêm a respeito dos relacionamentos?
+
+**5. O que as Escrituras contêm a respeito dos relacionamentos?**
 As Escrituras contêm princípios e preceitos que moldam os relacionamentos
 humanos.
 
@@ -2035,7 +2077,8 @@ quadrúpedes, e de répteis.
 Hinos Sugeridos: 107, 218, 228 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 O propósito desta lição é apresen­
 tar o perigo e a incompatibilidade da
 cultura materialista moderna com
@@ -2047,7 +2090,7 @@ traz luz para responder o porquê de
 muitos movimentos contemporâneos
 surgirem para confrontar a Igreja.
 
-2. APRESENTAÇÃO DA LIÇÃO
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Conceituar
 o Materialismo e o Ateísmo; II) Rastrear
@@ -2082,7 +2125,7 @@ exemplo, regimes totalitários como os
 da antiga União Soviética, os campos de
 concentração perpetrados por Hitler etc.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: É preciso que se apli­
 que à vida do aluno a verdade de que
@@ -2094,7 +2137,7 @@ pressupondo a existência de um Deus
 cuja referência de sua natureza é o amor.
 Sem Ele, não há dignidade humana.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 que amplia o conteúdo do primeiro
 
 A) Revista Ensinador Cristão. Vale
@@ -2139,7 +2182,8 @@ desdenham dela (1 Pe 3.15). Isso inclui os
 materialistas e os ateístas.
 
 ### I - COMPREENDENDO O MATERIALISMO E O ATEÍSMO
-1. O Materialismo. O Materialismo
+
+**1. O Materialismo.** O Materialismo
 é a doutrina segundo a qual a matéria
 é a única realidade que existe. Nesse
 aspecto, ele nega a realidade do mundo
@@ -2157,7 +2201,8 @@ mas impossíveis de existirem. Assim, a revelação
 divina, conforme exposta
 na Bíblia (cf. Hb 1.1), é rejeitada como mera superstição e
 produto da imaginação humana.
-2. O Ateísmo. De uma forma bem
+
+**2. O Ateísmo.** De uma forma bem
 simples, oAteísmo é a doutrina que nega
 a existência de Deus, sobretudo, a de um
 Deus pessoal conforme revelado na Bíblia
@@ -2223,7 +2268,8 @@ conhecimento, lendo a obra Inimaginável,
 editada pela CPAD, p.103.
 
 ### II - RAÍZES DO MATERIALISMO E ATEÍSMO
-1. A consequência do pecado. Biblicamente, o Ateísmo é uma consequência
+
+**1. A consequência do pecado.** Biblicamente, o Ateísmo é uma consequência
 da Queda. Com a entrada do pecado no
 mundo, a incredulidade e a consequente
 rejeição a Deus tomaram conta do co­ração humano. Em Romanos 1.18-23,
@@ -2241,7 +2287,8 @@ pelo engano do pecado é a causa do mal
 que há na vida do homem, inclusive é a
 fonte de sua mente egoísta, materialista
 e ateia (Mc 7.21,23).
-2. A cegueira espiritual. O pecado é a
+
+**2. A cegueira espiritual.** O pecado é a
 causa primária da incredulidade humana
 e, consequentemente, a fonte do seu Ma­
 terialismo e Ateísmo. Contudo, convém
@@ -2268,7 +2315,8 @@ do e da cegueira espiritual ide­
 alizada pelo deus deste século.
 
 ### III - PRESSUPOSTOS DAS DOUTRINAS MATERIALISTAS E ATEÍSTAS
-1. Negação da existência de Deus.
+
+**1. Negação da existência de Deus.**
 Como vimos, o Materialismo e o Ateís­
 mo consideram a matéria como a única
 realidade possível. Por isso, evidente­
@@ -2293,8 +2341,8 @@ ciência, para tentar provar que Deus não
 existe, uma vez que Ele já se manifestou
 claramente. Deus não está “longe de
 cada um de nós” (At 17.27).
-2. Negação de que o homem é um
-ser singular. A Bíblia diz que Deus fez 0
+
+**2. Negação de que o homem é um ser singular.** A Bíblia diz que Deus fez 0
 homem a sua imagem e semelhança (Gn
 1.26-28). Isso significa que o homem,
 ao contrário das demais coisas cria­
@@ -2316,7 +2364,8 @@ homem são os pressupostos do
 Materialismo e do Ateísmo.
 
 ### IV - RESPONDENDO AO MATERIALISMO E AO ATEÍSMO
-1. Afirmando as verdades da Bíblia.
+
+**1. Afirmando as verdades da Bíblia.**
 Qualquer resposta ao Materialismo e
 ao Ateísmo, e a seus derivados, como o
 neoateísmo, precisa partir das Escrituras
@@ -2334,7 +2383,8 @@ que aquilo que se vê não foi feito do que
 que ficamos sabendo que Deus se revelou
 de forma especial na pessoa bendita de
 Jesus Cristo, nosso Salvador (Hb 1.1-3).
-2. Fazendo uso correto da razão. O
+
+**2. Fazendo uso correto da razão.** O
 Ateísmo e o Materialismo dizem recorrer
 ao uso da ciência para fundamentar seus
 pressupostos. Contudo, convém dizer que
@@ -2399,20 +2449,23 @@ Ateísmo, e dar o verdadeiro sentido da
 vida ao ser humano.
 
 ## REVISANDO O CONTEÚDO
-1. O que é o Materialismo?
-1. O Materialismo é a doutrina segunda a qual a matéria é a única realidade
+
+**1. O que é o Materialismo?**
+O Materialismo é a doutrina segunda a qual a matéria é a única realidade
 que existe.
 
-2. O que é o Ateísmo?
+**2. O que é o Ateísmo?**
 De uma forma bem simples, o Ateísmo é a doutrina que nega a existência de
 Deus, sobretudo, a de um Deus pessoal conforme revelado na Bíblia (Cf. Gn 12.1-3).
 
-3. Qual é a causa primária da incredulidade humana?
+**3. Qual é a causa primária da incredulidade humana?**
 O pecado é a causa primária da incredulidade humana e, consequentemente,
 a fonte do seu Materialismo e Ateísmo.
-4. Quais os pressupostos do Materialismo e do Ateísmo?
+
+**4. Quais os pressupostos do Materialismo e do Ateísmo?**
 A negação da existência de Deus e a negação da singularidade do homem.
-5. Onde encontramos a verdade sobre Deus de forma precisa e sem erros?
+
+**5. Onde encontramos a verdade sobre Deus de forma precisa e sem erros?**
 Na Bíblia.
 
 ## LEITURAS PARA APROFUNDAR
@@ -2511,7 +2564,7 @@ Hinos Sugeridos: 266, 333, 38o da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 A família é um projeto especial de
 Deus. Em sua soberania ele estabeleceu
 fundamentos que trazem estabilidade
@@ -2522,7 +2575,8 @@ calcadas em ideologias malignas.
 Assim, nesta lição aprenderemos os
 princípios bíblicos de uma família
 sólida que vive na presença de Deus.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Abordar a
 família como um projeto especial de
@@ -2560,7 +2614,8 @@ ticipação dela seja representada. Faça
 perguntas, peça para alguém resumir
 um subtópico, corrija o questionário
 com a classe.
-3. CONCLUSÃO DA LIÇÃO
+
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: A nossa família é o
 bem maior que Deus nos deu. Nesse
@@ -2573,7 +2628,8 @@ a cultivar os valores da Bíblia no lar. É
 tempo de buscar a presença de Deus em
 família. É tempo de viver na presença
 do Espírito Santo em família.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -2617,7 +2673,8 @@ novas distorções da sexualidade como a
 teoria genderqueer. Vigiemos. 
 
 ### I - FAMÍLIA, PROJETO DE DEUS
-1. Uma instituição divina. Quando
+
+**1. Uma instituição divina.** Quando
 consultado pelos fariseus sobre
 a questão do divórcio, Jesus
 respondeu: “Portanto, o que
@@ -2637,7 +2694,8 @@ humanidade. Ora, Ele tem um projeto
 para a humanidade e nele Deus inclui a
 família; Ele tem um plano para a Igreja,
 e nele Deus também inclui a família.
-2. A célula mater da sociedade. No
+
+**2. A célula mater da sociedade.** No
 contexto social, a família é a primeira
 instituição a ser estabelecida (Gn 2.24).
 Ela é a célula mater da sociedade, ou seja,
@@ -2688,8 +2746,8 @@ de nosso tempo, l.ed. Rio de Janeiro:
 CPAD, 2018, p.102).
 
 ### II - FUNDAMENTOS DA FAMÍLIA CRISTÃ
-1. O casamento monogâmico e hete­
-rossexual. No contexto do Novo Testa­
+
+**1. O casamento monogâmico e hete­ rossexual.** No contexto do Novo Testa­
 mento, o casamento é monogâmico, isto
 é, o indivíduo só pode ter um cônjuge.
 A poligamia era muito praticada no
@@ -2742,8 +2800,8 @@ Monogamia, heterossexualidade e indissolubilidade são
 fundamentos da família cristã.
 
 ### III - A SUTILEZA DA NOVA CONFIGURAÇÃO FAMILIAR
-1. Casamento entre pessoas do mes­
-mo sexo. Em maio de 2011, o Supremo
+
+**1. Casamento entre pessoas do mes­ mo sexo.** Em maio de 2011, o Supremo
 Tribunal Federal (STF) reconheceu a
 união homoafetiva como núcleo familiar
 como qualquer outro. Isso porque não
@@ -2773,7 +2831,8 @@ não entre duas pessoas do mesmo sexo
 (cf. Gn 2.24). O próprio Jesus afirmou
 que, no princípio, Deus fez macho e
 fêmea (Mt 19.4).
-2. Sexualidade não-binária. Uma
+
+**2. Sexualidade não-binária.** Uma
 pessoa “não-binária” é aquela que não
 se percebe como pertencendo a um único
 gênero. Nesse aspecto, ela acredita que
@@ -2800,7 +2859,8 @@ pessoas do mesmo sexo e da
 sexualidade não-binária.
 
 ### IV - PRINCÍPIOS BÍBLICOS PARA UMA FAMÍLIA SÓLIDA
-1. O papel dos pais. Os pais têm um
+
+**1. O papel dos pais.** Os pais têm um
 papel preponderante na base da formação
 familiar. Isso significa dizer que os pais
 têm a missão de transmitir valores a seus
@@ -2823,7 +2883,8 @@ sociedade na qual vivem têm o dever
 moral de dar a conhecer a seus filhos
 o que Deus estabeleceu como modelo
 para a família cristã.
-2. O papel da igreja. Alguém já disse
+
+**2. O papel da igreja.** Alguém já disse
 que famílias fortes fazem igrejas fortes.
 Contudo, o inverso também reflete a
 verdade - igrejas fortes fazem famílias
@@ -2896,20 +2957,25 @@ nos filhos os valores da fé que uma vez
 foi entregue aos santos.
 
 ## REVISANDO O CONTEÚDO
-1. O que Jesus respondeu aos fariseus, quando consultado a sobre o divórcio?
+
+**1. O que Jesus respondeu aos fariseus, quando consultado a sobre o divórcio?**
 Quando consultado pelos fariseus sobre a questão do divórcio, Jesus res­
 pondeu: “Portanto, o que Deus ajuntou não separe o homem” (Mt 19.6b).
-2. O que a família é no contexto social?
+
+**2. O que a família é no contexto social?**
 No contexto social, a família é a primeira instituição a ser estabelecida (Gn
 2.24). Ela é a célula mater da sociedade, ou seja, na base da sociedade está
 a família.
-3. Quais os fundamentos da família cristã?
+
+**3. Quais os fundamentos da família cristã?**
 Monogamia, heterossexualidade e indissolubilidade são fundamentos da
 família cristã.
-4. O que é uma pessoa não-binária?
+
+**4. O que é uma pessoa não-binária?**
 Uma pessoa “não-binária” é aquela que não se percebe como pertencendo
 a um único gênero.
-5. Qual o papel dos pais?
+
+**5. Qual o papel dos pais?**
 Os pais têm um papel preponderante na base da formação familiar. Isso
 significa dizer que os pais têm a missão de transmitir valores a seus filhos
 (Dt 6.6-9).
@@ -2980,7 +3046,8 @@ toda boa obra.
 Hinos Sugeridos: 259, 306, 556 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 Caro professor, prezada professora,
 nesta lição estudaremos o processo de
 relativização da Bíblia. Por isso, ela se
@@ -3001,7 +3068,7 @@ novas teologias, a partir da Bíblia e,
 finalmente, a afirmação cristã da Bíblia
 como a inerrante Palavra de Deus.
 
-2. APRESENTAÇÃO DA LIÇÃO
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Destacar os
 aspectos desconstrucionistas e relativistas a respeito da Bíblia; II) Explicar
@@ -3041,7 +3108,8 @@ defendidas por esses líderes têm a ver
 com a proposta de desconstrução e
 relativização da interpretação e dos
 valores da Bíblia como Palavra de Deus.
-3. CONCLUSÃO DA LIÇÃO
+
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Conclua a lição incen­
 tivando os alunos a lerem bons livros
@@ -3051,7 +3119,8 @@ como a Origem da Bíblia, editada pela
 CPAD, dentre outras, são um grande
 auxílio para este trabalho apologético
 a respeito da Bíblia.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -3100,7 +3169,8 @@ questões sociais e comportamentais ou, no
 mínimo, maltraduzida, mal interpretada
 e, portanto, mal aplicada.
 ### I - A BÍBLIA E O ESPÍRITO DESTA ERA
-1. A desconstrução. Não é incomum encontrarmos na literatura,
+
+**1. A desconstrução.** Não é incomum encontrarmos na literatura,
 ou nas mídias sociais, expressões como: “a era do vazio”;
 “pós-verdade’, “o fim das
 certezas”, “cultura líquida”
@@ -3120,7 +3190,8 @@ nova forma de pensar e agir diferente
 daquela que estávamos habituados a
 enxergar. A consequência disso tudo é
 a relativização das Escrituras (Is 5.20).
-2. O relativismo. Dentro dessa nova
+
+**2. O relativismo.** Dentro dessa nova
 configuração cultural, o relativismo é
 inevitável. Não há valores perenes ou
 absolutos. Tudo é relativo. Na verdade, há
@@ -3177,7 +3248,8 @@ para Entender e Viver a Palavra de Deus.
 í.ed. Rio de Janeiro: CPAD, 2014, p.267).
 
 ### II - A BÍBLIA E O POLITICAMENTE CORRETO
-1. A criação de uma narrativa. “Des­
+
+**1. A criação de uma narrativa.** “Des­
 truídos os fundamentos, que poderá
 fazer o justo?” (SI 11.3 - NAA). Essa
 pergunta do salmista ecoa em nossos
@@ -3199,7 +3271,8 @@ fazer aborto e proibir a leitura da Bíblia
 em espaços públicos (cf. 2 Tm 3.12-14).
 Dentro dessa narrativa do politicamente
 correto não há espaço para a Bíblia.
-2. Acriminalização da opinião. Pensar
+
+**2. Acriminalização da opinião.** Pensar
 diferente dessa nova narrativa que foi
 criada é estar sujeito à censura. Na verdade,
 toda forma de pensar diferente dessa nar­
@@ -3222,7 +3295,8 @@ nalizar a opinião ancorada nos
 antigos postulados da fé cristã.
 
 ### III - A BÍBLIA E O OUTRO EVANGELHO
-1. Uma nova metodologia. Dentro da
+
+**1. Uma nova metodologia.** Dentro da
 cultura pós-moderna, do politicamente
 correto, surge a necessidade de ressignificar a Bíblia. A Palavra de Deus precisa ser
 atualizada para que fale a mesma língua
@@ -3240,7 +3314,8 @@ bíblico deixa de ter importância. Então,
 vale tudo. A Bíblia precisa se ajustar a essa
 nova metodologia. Assim surge, portanto,
 outro evangelho (cf. G11.9).
-2. Novas teologias. Esse “outro evan­
+
+**2. Novas teologias.** Esse “outro evan­
 gelho” também possui sua própria teo­
 logia. Todo o texto bíblico passa por uma
 nova ressignificação. A Bíblia, portanto,
@@ -3266,7 +3341,8 @@ da Bíblia e, consequentemente,
 novas teologias e modismos.
 
 ### IV - A BÍBLIA, SEMPRE ATUAL PALAVRA DE DEUS
-1. Revelada por Deus. Para o cristão,
+
+**1. Revelada por Deus.** Para o cristão,
 a Bíblia é um texto antigo com uma
 mensagem atual. Ela foi, é e sempre será
 relevante. A razão disso é que a Bíblia é
@@ -3286,7 +3362,8 @@ como falsos profetas. Às vezes parecem
 anjos de luz, mas, na verdade, pregam
 ensinos de demônios (1 Tm 4.1). O fim é
 afastar a humanidade da cruz de Cristo.
-2. Inspirada por Deus. A Bíblia é a
+
+**2. Inspirada por Deus.** A Bíblia é a
 revelação de Deus. Isso significa que
 ela tem origem em Deus e por Ele foi
 inspirada. Paulo, o apóstolo, disse que
@@ -3366,16 +3443,21 @@ trocá-la pelas novas teologias. A Bíblia
 será atual e relevante para a humanidade.
 
 ## REVISANDO O CONTEÚDO
-1. Quais expressões referem-se ao fenômeno cultural pós-moderno?
+
+**1. Quais expressões referem-se ao fenômeno cultural pós-moderno?**
 “A era do vazio”; “pós-verdade’, “o fim das certezas”, “cultura líquida” ou
 ainda “desconstrução”.
-2. O que caracteriza o relativismo?
+
+**2. O que caracteriza o relativismo?**
 Não há valores perenes ou absolutos. Tudo é relativo.
-3. O que não há espaço na narrativa do politicamente correto?
+
+**3. O que não há espaço na narrativa do politicamente correto?**
 Dentro dessa narrativa do politicamente correto não há espaço para a Bíblia.
-4. O que a Bíblia é para o cristão?
+
+**4. O que a Bíblia é para o cristão?**
 Para o cristão, a Bíblia é um texto antigo com uma mensagem atual.
-5. O que distingue a Bíblia de outras obras literárias?
+
+**5. O que distingue a Bíblia de outras obras literárias?**
 A inspiração divina. Enquanto as outras obras são de inspiração humana, a
 Bíblia é de inspiração divina.
 
@@ -3475,7 +3557,8 @@ todas essas coisas, repartindo particularmente a cada um como quer.
 Hinos Sugeridos: 5, 24, 437 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 O tema desta semana é o movi­
 mento sutil que visa enfraquecer a
 identidade pentecostal. Ele é real e
@@ -3493,7 +3576,8 @@ lição abordará o (I) Pentecostes Bíblico;
 Igreja; (III) Mantendo a chama pente­
 costal acessa. Precisamos preservar
 a identidade pentecostal.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Conceituar
 o Pentecostes Bíblico; II) Identificar o
@@ -3533,7 +3617,7 @@ história”; “Revestidos de Poder”;
 “Falar em línguas - O maior dom?”,
 ambas editadas pela CPAD.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Após a conclusão, ore
 com os alunos rogando que o Senhor
@@ -3541,7 +3625,7 @@ Jesus batize os crentes no Espírito
 Santo, distribua dons espirituais e
 edifique a Igreja, o Corpo de Cristo.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -3584,7 +3668,8 @@ outras línguas como a evidência física
 do Batismo no Espírito. Vejamos, pois,
 como corrigir esse desvio doutrinário.
 ### I - O PENTECOSTES BÍBLICO
-1. O Espírito prometido. O Antigo
+
+**1. O Espírito prometido.** O Antigo
 Testamento mostra a ação do Espírito
 Santo em diferentes momentos e sobre a
 vida de diferentes pessoas. Assim
@@ -3606,7 +3691,8 @@ do derramamento do Espírito de Deus
 sobre todos, e não apenas sobre pessoas
 escolhidas ou uma classe especial (Ez
 36.26,27; Jr 31.31-34; J12.28).
-2. O Espírito derramado. No Novo
+
+**2. O Espírito derramado.** No Novo
 Testamento, entretanto, é que as pro­
 messas a respeito da vinda do Espírito
 Santo têm cumprimento. O profeta Joel
@@ -3687,7 +3773,8 @@ conhecimento, lendo a Bíblia de Estudo Pen­
 tecostal, editada pela CPAD, p.1290.
 
 ### II - O DISTINTIVO PENTECOSTAL DE NOSSA IGREJA
-1. A atualidade dos dons espirituais.
+
+**1. A atualidade dos dons espirituais.**
 Agostinho de Hipona (354-430) introduziu na igreja o erro doutrinário de que os
 dons haviam cessado. No entendimento
 dele, os dons, de fato, existiram, contudo,
@@ -3716,7 +3803,8 @@ ministério (Lc 24.49; At 1.4,8; 1 Co 12.1-
 é distinta e subsequente à experiência
 do novo nascimento (At 10.44-46; 11.14-
 16; 15.7-9).
-2. As línguas como evidência. A
+
+**2. As línguas como evidência.** A
 Declaração de Fé das Assembléias de
 Deus de 1916 afirma que: “o batismo
 dos crentes no Espírito Santo é testemunhado pelo sinal físico inicial de
@@ -3761,7 +3849,8 @@ o que há de mal nisso?
 
 
 ### III - MANTENDOA CHAMA PENTECOSTAL ACESA
-1. Fidelidade às Escrituras. Uma
+
+**1. Fidelidade às Escrituras.** Uma
 marca distintiva dos pentecostais clássicos ou históricos era seu amor e fidelidade às Escrituras (cf. At 2.42). Já foi dito
 que o Movimento Pentecostal surgiu em
 um contexto de reação ao Liberalismo
@@ -3783,7 +3872,8 @@ coisa às Escrituras. Como dizia certo
 teólogo, as Escrituras não precisam
 de penduricalhos. Precisamos voltar
 às Escrituras.
-2. Exercício dos dons espirituais.
+
+**2. Exercício dos dons espirituais.**
 Como nos dias do profeta Samuel em
 que “as visões não eram frequentes” (1
 Sm 3.1 - NAA), assim também os “dons
@@ -3860,21 +3950,25 @@ a manifestação dos dons espirituais,
 está na gênese desse processo.
 
 ## REVISANDO O CONTEÚDO
-1. O que o Antigo Testamento mostra?
-1. O Antigo Testamento mostra a ação do Espírito Santo em diferentes mo­
+
+**1. O que o Antigo Testamento mostra?**
+O Antigo Testamento mostra a ação do Espírito Santo em diferentes mo­
 mentos e sobre a vida de diferentes pessoas.
-2. O que podemos observar no Pentecostes?
-2. No Pentecostes observamos que o Espírito é derramado sobre toda a car­
+
+**2. O que podemos observar no Pentecostes?**
+No Pentecostes observamos que o Espírito é derramado sobre toda a car­
 ne, sem distinção de sexo, raça ou idade. Isso mostra a universalização da
 promessa de Deus.
 3- Quem introduziu na igreja o erro doutrinário de que os dons haviam cessado?
-3. Agostinho de Hipona (354-43o d.C.) introduziu na igreja o erro doutrinário
+
+**3. Agostinho de Hipona (354-43o d.C.**) introduziu na igreja o erro doutrinário
 de que os dons haviam cessado.
 4- Onde está a sutileza a respeito do falar em outras línguas?
 4- A sutileza está em dizer que o falar em outras línguas, de fato, existe,
 contudo, não é para todos.
-5. O que não podemos rejeitar?
-5. Não podemos rejeitar as verdadeiras manifestações do Espírito por temer
+
+**5. O que não podemos rejeitar?**
+Não podemos rejeitar as verdadeiras manifestações do Espírito por temer
 as falsas.
 
 ## LEITURAS PARA APROFUNDAR
@@ -3965,7 +4059,7 @@ Hinos Sugeridos: 53, 250, 375 da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 A reunião da igreja local, o Cor­
 po visível de Cristo, é essencial ao
 crescimento espiritual e pessoal do
@@ -3977,7 +4071,8 @@ desigrejados, sua visão e prática; re­
 lembraremos a natureza da igreja do
 Novo Testamento; e confirmaremos a
 importância e a necessidade da Igreja.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Explicar
 a visão e a prática do movimento dos
@@ -4017,7 +4112,7 @@ perseverar nas perspectivas bíblicas
 a respeito da natureza e prática da
 Igreja de Cristo.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Ao final da lição, mostre
 que somos chamados por Deus a perse­
@@ -4026,7 +4121,8 @@ manifesta de maneira visível na igreja
 local em que congregamos. Essa igreja
 é o Corpo visível de Cristo. Portanto, a
 amemos com todo zelo e disposição.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -4089,7 +4185,8 @@ da Igreja possui uma gloriosa
 missão.
 
 ### I - VISÃO E PRÁTICA DO MOVIMENTO DOS DESIGREJADOS
-1. Um ensino anti-institucional.
+
+**1. Um ensino anti-institucional.**
 Os desigrejados são contra toda forma
 de organização e institucionalização
 da Igreja. Alegam que na Igreja Pri­
@@ -4125,7 +4222,8 @@ deponha contra o uso de templos ou
 casas de oração. Se o propósito de um
 templo é congregar o povo para adorar
 ao Senhor, o que há de mal nisso?
-2. Um ensino anticlerical. Se por
+
+**2. Um ensino anticlerical.** Se por
 um lado os desigrejados são contra toda
 forma de institucionalização da Igreja,
 por outro são contra também todo e
@@ -4212,7 +4310,8 @@ Uma Perspectiva Pentecostal. ío.d. Rio
 de Janeiro: CPAD, 2006, p.550).
 
 ### II - A NATUREZA DA IGREJA NEOTESTAMENTÁRIA
-1. Um organismo. Sobre a natureza
+
+**1. Um organismo.** Sobre a natureza
 da igreja neotestamentária, devemos
 observar primeiramente que ela é
 um organismo vivo (Ef 1.22,23). Nesse
@@ -4235,7 +4334,8 @@ pelas estruturas arquitetônicas ou por
 qualquer forma institucional se dá mais
 por razões de insubmissão do que zelo
 pelo Evangelho.
-2. Uma organização. Os desigrejados
+
+**2. Uma organização.** Os desigrejados
 alegam pertencer à igreja puramente
 orgânica. Contudo, biblicamente não
 existe organismo sem organização;
@@ -4270,7 +4370,8 @@ um organismo vivo, bem como
 uma organização.
 
 ### III - A IMPORTÂNCIA E A NECESSIDADE DA IGREJA
-1. A Igreja como família de Deus. A
+
+**1. A Igreja como família de Deus.** A
 Igreja é a família de Deus (Ef 2.19). Como
 família de Deus, a Igreja tem Cristo como
 o seu cabeça. Contudo, como acontece
@@ -4291,8 +4392,8 @@ munhão uns com os outros. O sentimento
 de irmandade, respeito e reconhecimento
 mútuo deve dominar o ambiente da igreja
 local (Ef 2.15,16).
-2. A Igreja como testemunha da sal­
-vação. Se por um lado o apóstolo Paulo
+
+**2. A Igreja como testemunha da sal­ vação.** Se por um lado o apóstolo Paulo
 chamou a Igreja de “família de Deus”
 (Ef 2.19), por outro, esse mesmo apóstolo
 apresentou com que fim essa família foi
@@ -4368,22 +4469,26 @@ o Senhor Jesus Cristo e cumprir a missão
 para a qual Ele nos chamou.
 
 ## REVISANDO O CONTEÚDO
-1. Os desigrejados são contra o quê?
-1. Os desigrejados são contra toda forma de organização e institucionalização
+
+**1. Os desigrejados são contra o quê?**
+Os desigrejados são contra toda forma de organização e institucionalização
 da Igreja.
-2. Em que os desigrejados acreditam?
-2. Acreditam que agindo contra o institucionalismo estão vivendo de acordo
+
+**2. Em que os desigrejados acreditam?**
+Acreditam que agindo contra o institucionalismo estão vivendo de acordo
 com o modelo da Igreja Primitiva.
-3. O que devemos observar a respeito da natureza da Igreja?
-3. Sobre a natureza da igreja neotestamentária, devemos observar primeira­
+
+**3. O que devemos observar a respeito da natureza da Igreja?**
+Sobre a natureza da igreja neotestamentária, devemos observar primeira­
 mente que ela é um organismo vivo (Ef 1.22,23).
-4- Segundo a lição, como era o sistema de governo da Igreja Primitiva?
-4. A Igreja Primitiva tinha um sistema de governo formado por apóstolos,
+
+**4. Segundo a lição, como era o sistema de governo da Igreja Primitiva?**
+A Igreja Primitiva tinha um sistema de governo formado por apóstolos,
 profetas, evangelistas, presbíteros, diáconos, pastores e mestres (Ef 4.11; At
 6.1-6; At 14.23).
 
-5. Qual é a razão de a Igreja existir?
-5. Deus criou a Igreja com o propósito de ser uma família, cuja missão é pro­
+**5. Qual é a razão de a Igreja existir?**
+Deus criou a Igreja com o propósito de ser uma família, cuja missão é pro­
 clamar a sua abundante graça.
 
 ## LEITURAS PARA APROFUNDAR
@@ -4462,7 +4567,7 @@ Hinos Sugeridos: 124., 380, 432 da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 O nosso tempo é marcado pelo
 apego às coisas materiais. Por isso,
 esse tempo também é marcado pelo
@@ -4477,7 +4582,8 @@ da mordomia cristã de modo geral.
 Assim, veremos que Deus é o fiel
 provedor; e o homem, o despenseiro
 das coisas de Deus.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Expor os
 equívocos do Evangelho da barganha;
@@ -4513,7 +4619,7 @@ trecho. Em seguida, trate o assunto de
 acordo com a exposição do segundo
 tópico a fim de fechá-lo devidamente.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: A nossa mordomia
 em relação aos dízimos e ofertas
@@ -4526,7 +4632,7 @@ que Deus tem dado. Todo dia somos
 beneficiados pelo favor de Deus, pelo
 bem do Senhor.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão.
 Vale a pena conhecer essa revis­
@@ -4587,8 +4693,8 @@ gratidão por parte do cristão que se
 sente agraciado por Deus.
 
 ### I - CONHECENDO O EVANGELHO DA BARGANHA
-1. Dízimos e ofertas como moeda
-de troca. Infelizmente o ensino
+
+**1. Dízimos e ofertas como moeda de troca.** Infelizmente o ensino
 bíblico da Mordomia Cris­
 tã tem sido desvirtuado e
 distorcido. O que é uma
@@ -4611,8 +4717,8 @@ parede. Alegam que, se Deus não der o
 que alguém negociou com Ele, então,
 deixa de ser Deus. É a velha técnica da
 famigerada teologia da prosperidade.
-2. Dízimos e ofertas como práticas
-legalistas. Outro efeito colateral do
+
+**2. Dízimos e ofertas como práticas legalistas.** Outro efeito colateral do
 evangelho da barganha está no fato de
 que ele é legalista. Isso quer dizer que
 torna a prática do dízimo e das ofertas
@@ -4676,7 +4782,8 @@ Luz da Bíblia. Rio de Janeiro: CPAD,
 2011, pp.154-55).
 
 ### II - A DOUTRINA BÍBLICA DO DÍZIMO SOB ATAQUE
-1. O dízimo era uma prática da lei.
+
+**1. O dízimo era uma prática da lei.**
 Muitos se aproveitam daquilo que os
 maus obreiros ensinam e praticam
 sobre o dízimo para se eximirem desse
@@ -4704,8 +4811,8 @@ por conta de terem sido más discipuladas
 ou porque são extremamente apegadas
 aos bens materiais. Em outras palavras,
 são pessoas presas pela avareza (Hb 13.5).
-2. O dízimo como contribuição im­
-posta. Há também aqueles que dizem que
+
+**2. O dízimo como contribuição im­ posta.** Há também aqueles que dizem que
 não devolvem seus dízimos hoje porque
 consideram essa uma prática imposta
 e não uma contribuição voluntária. De
@@ -4742,7 +4849,8 @@ blica do dízimo muitas vezes
 esconde o pecado da avareza.
 
 ### III - A DOUTRINA BÍBLICA DA MORDOMIA CRISTÃ
-1. Deus, o criador e provedor. O
+
+**1. Deus, o criador e provedor.** O
 primeiro princípio básico da doutrina
 da mordomia bíblica está no fato de que
 Deus é o criador e o provedor de tudo:
@@ -4764,8 +4872,8 @@ força para conseguir riquezas” (Dt 8.18 NAA). Assim, o sábio Salomão sabia 
 (Pv 10.22). Ser dizimista e ofertante nada
 mais é do que reconhecer o Senhor como
 a fonte provedora de tudo.
-2. O homem como despenseiro e
-administrador das coisas de Deus.
+
+**2. O homem como despenseiro e administrador das coisas de Deus.**
 Outro princípio igualmente importante
 no que concerne a mordomia cristã
 está no fato do homem ser despenseiro
@@ -4846,19 +4954,24 @@ de Deus são privilégios dispensados aos
 que são membros do Corpo de Cristo.
 
 ## REVISANDO O CONTEÚDO
-1. Qual é a alegação mais comum dos que são contra a prática do dízimo?
-1. A alegação mais comum, dentre muitas outras que existem, é que a prática
+
+**1. Qual é a alegação mais comum dos que são contra a prática do dízimo?**
+A alegação mais comum, dentre muitas outras que existem, é que a prática
 do dízimo era um preceito mosaico.
-2. A que princípio o apóstolo Paulo recorreu para cuidar do sustento dos obreiros?
-2. Ao princípio do dízimo levítico.
-3. Qual é o princípio básico da doutrina da mordomia bíblica?
-3. O primeiro princípio básico da doutrina da mordomia bíblica está no fato
+
+**2. A que princípio o apóstolo Paulo recorreu para cuidar do sustento dos obreiros?**
+Ao princípio do dízimo levítico.
+
+**3. Qual é o princípio básico da doutrina da mordomia bíblica?**
+O primeiro princípio básico da doutrina da mordomia bíblica está no fato
 de que Deus é o criador e o provedor de tudo (S124.1).
-4. O que é ser dizimista e ofertante?
-4. Ser dizimista e ofertante nada mais é do que reconhecer o Senhor como a
+
+**4. O que é ser dizimista e ofertante?**
+Ser dizimista e ofertante nada mais é do que reconhecer o Senhor como a
 fonte provedora de tudo.
-5. Qual é o pecado gravíssimo mencionado na lição?
-5. O pecado da avareza.
+
+**5. Qual é o pecado gravíssimo mencionado na lição?**
+O pecado da avareza.
 
 ## LEITURAS PARA APROFUNDAR
 
@@ -4947,7 +5060,7 @@ Hinos Sugeridos: 15, 409, 429 da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 O universo online cria uma falsa
 realidade em que se o crente não
 cuidar, acabará trocando o real pelo
@@ -4958,7 +5071,8 @@ biente real de comunhão. Além disso,
 como o seu mundanismo. É preciso
 proteger a alma contra o pecado da
 sensualidade e do narcisismo.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Apresentar
 a realidade dos cristãos na era digital; II)
@@ -4991,7 +5105,7 @@ esclarecer aos alunos a respeito dos
 princípios que devemos observar na
 vida e no mundo virtual.
 
-3. CONCLUSÃO DA LIÇÃO
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Estimule os alunos a
 usarem as mídias sociais com prudência,
@@ -5000,7 +5114,8 @@ falarem do amor de Deus, a comparti­
 lharem versículos bíblicos, fazendo com
 que a tarefa da evangelização sempre
 esteja em evidência.
-4. SUBSÍDIO AO PROFESSOR
+
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -5069,8 +5184,8 @@ no mundo real como também
 no virtual.
 
 ### I - OS CRISTÃOS NA ERA DIGITAL
-1. A realidade do universo
-on-line. Lemos em Eclesiastes
+
+**1. A realidade do universo on-line.** Lemos em Eclesiastes
 1.4 que “uma geração vai, e outra
 geração vem”. Cada geração que existiu
 escreveu sua própria história e produziu
@@ -5091,7 +5206,8 @@ deixará de ser uma testemunha real de
 Jesus pelo simples fato de as interações
 sociais acontecerem de forma virtual
 (At 1.8).
-2. Cristãos conectados. Nos dias da
+
+**2. Cristãos conectados.** Nos dias da
 igreja apostólica os cristãos se valeram
 de cartas para superar as longas distân­
 cias que os separavam (1 Co 5.9). Dessa
@@ -5177,7 +5293,8 @@ seu conhecimento, lendo a obra Mídias So­
 ciais na Igreja, editada pela CPAD, pp.55,56.
 
 ### II - OS DESAFIOS DE SER IGREJA NA ERA DIGITAL
-1. Desumanização. Quando Jesus
+
+**1. Desumanização.** Quando Jesus
 apareceu a seus discípulos logo após a
 sua ressurreição, ele desafiou Tomé a
 tocá-lo: “Depois, disse a Tomé: Põe aqui
@@ -5204,7 +5321,8 @@ se completam. Há pessoas de carne e
 osso que se abraçam, e não apenas se
 veem e se ouvem. A igreja local é um
 lugar de encontro.
-2. Mundanismo. A igreja na era
+
+**2. Mundanismo.** A igreja na era
 digital precisa ser relevante, mas não
 espetaculosa. Influente, mas não mun­
 dana. Buscar o espetáculo é fazer o jogo
@@ -5232,7 +5350,8 @@ rigos da desumanização e do
 mundanismo.
 
 ### III - A IGREJA E OS PECADOS VIRTUAIS
-1. Sensualismo. A noção de santo e
+
+**1. Sensualismo.** A noção de santo e
 profano nunca deve ser esquecida pelos
 cristãos: “Sede santos, porque eu sou
 santo” (1 Pe 1.16). Infelizmente não é o que
@@ -5251,7 +5370,8 @@ Diabo (Ef 4.27). Os inúmeros escândalos
 expostos na internet mostram isso. A web
 torna público a vida pecaminosa que se
 vive de forma privada.
-2. Narcisismo. Esta geração já foi
+
+**2. Narcisismo.** Esta geração já foi
 denominada de “geração do selfie”. É
 uma geração narcisista. Cultua a própria
 imagem. São pessoas “amantes de si
@@ -5291,7 +5411,8 @@ que os relacionamentos
 se consolidam.”
 
 ### IV - AS MÍDIAS SOCIAIS E O IDE DE JESUS
-1. A seara virtual. Jesus disse “ide por
+
+**1. A seara virtual.** Jesus disse “ide por
 todo mundo, pregai o evangelho a toda
 criatura” (Mc 16.15). Evidentemente, que
 o “ide” de Jesus inclui o espaço virtual.
@@ -5310,7 +5431,8 @@ espaço virtual, contudo, os seus frutos
 devem ser juntados no espaço real, isto
 é, na igreja local. É no espaço físico que
 os relacionamentos se consolidam.
-2. Pastoreio virtual. Outra coisa im­
+
+**2. Pastoreio virtual.** Outra coisa im­
 portante proporcionada pelas redes sociais
 está relacionada ao discipulado e pastoreio
 (Mt 28.19,20). As redes sociais são pode­
@@ -5386,18 +5508,23 @@ a verdade, proclamar o arrependimento
 e implantar o Reino de Deus.
 
 ## REVISANDO O CONTEÚDO
-1. Qual o instrumento a igreja apostólica usou para comunicar o Evangelho?
+
+**1. Qual o instrumento a igreja apostólica usou para comunicar o Evangelho?**
 Nos dias da igreja apostólica os cristãos se valeram de cartas para superar as
 longas distâncias que os separavam (1 Co 5.9).
-2. Qual é a falsa impressão que o universo virtual cria?
+
+**2. Qual é a falsa impressão que o universo virtual cria?**
 O universo virtual cria a falsa impressão de que é possível ser igreja sem
 relacionamento real.
-3. O que a igreja da era digital precisa ser?
+
+**3. O que a igreja da era digital precisa ser?**
 A igreja na era digital precisa ser relevante, mas não espetaculosa. Influente,
 mas não mundana.
-4. A respeito de quais pecados virtuais a lição trata?
+
+**4. A respeito de quais pecados virtuais a lição trata?**
 Sensualismo e narcisismo.
-5. “O ide de Jesus inclui o espaço virtual”. O que significa para você?
+
+**5. “O ide de Jesus inclui o espaço virtual”. O que significa para você?**
 
 Resposta pessoal.
 
@@ -5477,7 +5604,8 @@ senão por mim.
 Hinos Sugeridos: 15, 409, 429 da Harpa Cristã
 
 ## PLANO DE AULA
-1. INTRODUÇÃO
+
+**1. INTRODUÇÃO**
 A presente lição mostrará que qual­
 quer espiritualidade que não tenha
 Cristo como o centro é pagã e anticristã.
@@ -5496,7 +5624,7 @@ dade holística e, finalmente, o quarto
 tópico trará a exposição da Bíblia contra
 a espiritualidade holística.
 
-2. APRESENTAÇÃO DA LIÇÃO
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Conceituar
 o fenômeno religioso da espiritualida­
@@ -5531,7 +5659,8 @@ religiões orientais e seus ensinos,
 tais como o Hinduísmo, Budismo e o
 Confucionismo. Comente com a classe
 acerca desses movimentos para contextualizar a presente lição.
-3. CONCLUSÃO DA LIÇÃO
+
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Nós temos o maior
 fundamento da verdadeira espiritua-
@@ -5540,7 +5669,7 @@ nossa devoção. Em Cristo, podemos
 preencher o desejo do sagrado, a sede
 da verdadeira vida espiritual.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -5591,7 +5720,8 @@ universo. É, portanto, mais uma sutileza
 do Diabo que faz parte dos dias finais.
 
 ### I - O FENÔMENO RELIGIOSO
-1. A busca do sagrado. Jesus sabia
+
+**1. A busca do sagrado.** Jesus sabia
 das necessidades mais profundas do
 ser humano e por isso disse ser Ele o
 caminho que leva o homem até Deus:
@@ -5615,7 +5745,8 @@ anseio de Deus na alma de cada
 pessoa: “Como o cervo brama pelas
 correntes das águas, assim suspira a
 minha alma por ti, ó Deus!” (SI 42.1).
-2. Deus e os deuses. Que há na hu­
+
+**2. Deus e os deuses.** Que há na hu­
 manidade uma necessidade de possuir
 um objeto de adoração é uma verdade
 inconteste. É um fenômeno presente
@@ -5642,7 +5773,8 @@ profundas do ser humano na
 busca pelo sagrado.
 
 ### II - A ESPIRITUALIDADE HUMANA E SUA NECESSIDADE DE EXPRESSÃO
-1. O antigo paganismo. Como vimos,
+
+**1. O antigo paganismo.** Como vimos,
 o ser humano é religioso por natureza
 e tem a necessidade de expressar sua
 espiritualidade. Essa espiritualidade,
@@ -5661,7 +5793,8 @@ como as entidades são adoradas, po­
 rém, em essência a espiritualidade pagã
 continua a mesma - culto e adoração
 aos deuses falsos.
-2. O misticismo oriental. Nas duas
+
+**2. O misticismo oriental.** Nas duas
 últimas décadas o Ocidente tem sido
 invadido pela espiritualidade holística. O
 holismo está na moda e faz parte do culto
@@ -5724,7 +5857,8 @@ norâmica. 5.ed. Rio de Janeiro: CPAD,
 2004, p.231-32).
 
 ### III - O FUNDAMENTO DA ESPIRITUALIDADE HOLÍSTICA
-1. Não há um Deus pessoal. Grosso
+
+**1. Não há um Deus pessoal.** Grosso
 modo, a espiritualidade holística diz que
 tudo é deus. Tudo no universo estaria
 interligado. Assim o divino, o homem e
@@ -5741,7 +5875,8 @@ uma mesma entidade - a força cósmica
 que habita o universo. Uma velha heresia
 com um novo formato e com uma nova
 roupagem (Cl 2.8; 2 Co 11.3).
-2. Não há uma verdade factual. Se
+
+**2. Não há uma verdade factual.** Se
 não há um Deus pessoal, não há tam­
 bém uma verdade factual. Não há uma
 verdade absoluta. Em vez disso, existem
@@ -5767,7 +5902,8 @@ factual são os fundamentos da
 espiritualidade holística.
 
 ### IV - A ESPIRITUALIDADE HOLÍSTICA EA BÍBLIA
-1. O problema do pecado. O holismo
+
+**1. O problema do pecado.** O holismo
 comete um erro crasso e fatal: esquece
 o problema central do homem, o peca­
 do. Acredita que o cristianismo é uma
@@ -5782,7 +5918,8 @@ Diabo que cresce a cada dia o fascínio
 pelas novas espiritualidades. O holismo
 é, sem dúvida, a espiritualidade mais
 atraente que está na moda.
-2. Um Salvador Pessoal. Como foi
+
+**2. Um Salvador Pessoal.** Como foi
 mostrado, não há um Deus nem tam­
 pouco um Salvador pessoal na nova
 espiritualidade holística. O homem é seu
@@ -5855,16 +5992,21 @@ incautos e aprisionam as vidas de quem
 não conhece o Senhor Jesus.
 
 ## REVISANDO O CONTEÚDO
-1. Segundo a lição, o que é uma necessidade humana?
+
+**1. Segundo a lição, o que é uma necessidade humana?**
 A busca pelo sagrado é uma necessidade humana.
-2. Que fenômeno está presente em todas as culturas?
+
+**2. Que fenômeno está presente em todas as culturas?**
 A necessidade de possuir um objeto de adoração é um fenômeno presente em
 todas as culturas.
-3. Onde é possível encontrar a presença do holismo?
+
+**3. Onde é possível encontrar a presença do holismo?**
 Nas universidades, cinemas, currículos escolares etc.
-4. O que a espiritualidade holística diz?
+
+**4. O que a espiritualidade holística diz?**
 Tudo é deus. Portanto, é uma espiritualidade panteísta.
-5. Qual é o erro fatal da espiritualidade holística?
+
+**5. Qual é o erro fatal da espiritualidade holística?**
 Esquecer o problema central do homem: o pecado.
 
 ## VOCABULÁRIO
@@ -5946,7 +6088,7 @@ Hinos Sugeridos: 258, 312, 459 da Harpa Cristã
 
 ## PLANO DE AULA
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 Chegamos ao final de mais um
 trimestre. Ao longo dele, estudamos a
 respeito de várias sutilezas de Satanás
@@ -5961,7 +6103,8 @@ igrejas em regimes não democráticos
 os ataques são mais frontais. Em todo
 sentido, somos chamados por Deus a
 resistir aos ataques do Maligno.
-2. APRESENTAÇÃO DA LIÇÃO
+
+**2. APRESENTAÇÃO DA LIÇÃO**
 
 A) Objetivos da Lição: I) Apresentar
 o comprometimento com uma vida
@@ -5991,7 +6134,8 @@ do atual trimestre, que as frentes de
 ataques do Inimigo contra a Igreja são
 muitas. Entretanto, somos chamados
 a resistir a elas com armas espirituais.
-3. CONCLUSÃO DA LIÇÃO
+
+**3. CONCLUSÃO DA LIÇÃO**
 
 A) Aplicação: Desafie os alunos a
 estarem a cada dia comprometidos com
@@ -6002,7 +6146,7 @@ cheia do Espírito Santo. E, finalmente,
 fortaleça com eles a necessidade do
 comprometimento com a igreja local.
 
-4. SUBSÍDIO AO PROFESSOR
+**4. SUBSÍDIO AO PROFESSOR**
 
 A) Revista Ensinador Cristão. Vale
 a pena conhecer essa revista que traz
@@ -6055,7 +6199,8 @@ vitorioso nessa guerra se não possuir
 forte compromisso com a igreja local.
 A Deus toda glória!
 ### I - COMPROMETIMENTO COM UMAVIDA CENTRADA EM CRISTO
-1. Cristo, o Salvador. Escrevendo à
+
+**1. Cristo, o Salvador.** Escrevendo à
 igreja de Corinto, o apóstolo Paulo disse:
 “Porque nada me propus saber entre
 vós, senão a Jesus Cristo [...]. ” (1
@@ -6076,7 +6221,8 @@ fé, Cristo é logo tirado do centro. Outras
 formas de culto, filosofias e ideologias
 passam a ganhar espaço quando Cristo
 deixa de ser o centro da vida.
-2. Cristo, o Senhor. Se por um lado a Igreja
+
+**2. Cristo, o Senhor.** Se por um lado a Igreja
 não deve esquecer-se de proclamarCristo
 como o único Salvador, por outro, jamais
 deve esquecer-se de que Ele é o único Se­
@@ -6147,7 +6293,8 @@ mais o seu conhecimento, lendo a Bíblia de Estudo
 Pentecostal, editada pela CPAD, pp.55,56.
 
 ### II - COMPROMETIMENTO COMAS ESCRITURAS
-1. Bíblia, a revelação de Deus. Vez
+
+**1. Bíblia, a revelação de Deus.** Vez
 por outra vemos falsos mestres ques­
 tionando a autoridade das Escrituras
 e sua atualidade. No entendimento
@@ -6169,7 +6316,8 @@ e como tal está sempre atualizada.
 Não é a Bíblia que tem que se ajustar
 a nós, mas nós nos moldarmos pelas
 Escrituras (SI 119.105).
-2. Bíblia, regra de fé e conduta. Quan­
+
+**2. Bíblia, regra de fé e conduta.** Quan­
 do a Bíblia deixa de ser a revelação de
 Deus para nós, então, ela também deixa
 de ser a nossa regra de conduta e fé. Uma
@@ -6197,8 +6345,8 @@ considerando-a única regra de
 fé e conduta.
 
 ### III - COMPROMETIDOS COM UMA VIDA CHEIA DO ESPÍRITO
-1. O Espírito Santo no plano da re­
-denção. É o Espírito Santo quem conduz
+
+**1. O Espírito Santo no plano da re­ denção.** É o Espírito Santo quem conduz
 o homem a Cristo (Jo 16.8-11; 3.5). 0
 Espírito nos trouxe a Cristo. Contudo,
 precisa ser dito que o viver em Cristo e
@@ -6218,7 +6366,8 @@ como única garantia de não satisfazer
 os desejos carnais (G1 5.16,17). Sem 0
 Espírito Santo é impossível vencer as
 sutilezas do Diabo.
-2. A vida cheia do Espírito. Há uma
+
+**2. A vida cheia do Espírito.** Há uma
 obra do Espírito no interior do cristão que
 o santifica para Deus (2 Ts 2.13). Podemos
 dizer que essa é uma obra consagradora
@@ -6243,7 +6392,8 @@ do Espírito em que somos con­
 duzidos e dirigidos por Ele.
 
 ### IV - COMPROMETIMENTO COM A IGREJA LOCAL
-1. A Igreja como o Corpo de Cristo.
+
+**1. A Igreja como o Corpo de Cristo.**
 Escrevendo aos Coríntios, o apóstolo
 Paulo disse: “Ora, vós sois o corpo de
 Cristo e seus membros em particular”
@@ -6263,8 +6413,8 @@ que não existe cristão legítimo fora da
 esfera da Igreja como Corpo de Cristo.
 Apropria palavra “desigrejados” torna-se um termo impróprio, uma forma
 de descrever uma anomalia espiritual.
-2. O lugar e a importância de cada
-membro na Igreja. A palavra “igreja”
+
+**2. O lugar e a importância de cada membro na Igreja.** A palavra “igreja”
 jamais deve significar “templo”. Um
 templo pode ser a estrutura arquitetônica
 onde a igreja se reúne. A Igreja, portanto,
@@ -6328,18 +6478,21 @@ dias são difíceis, mas o Espírito Santo
 é o guia e o auxiliador da Igreja.
 
 ## REVISANDO O CONTEÚDO
-1. Cite textos bíblicos que fundamentam a centralidade de Cristo na mensa­
-gem apostólica.
+
+**1. Cite textos bíblicos que fundamentam a centralidade de Cristo na mensa­ gem apostólica.**
 1 Co 2.2; At 4-12; 8.5
-2. Se por um lado a Igreja não deve esquecer-se de proclamar Cristo como o
-único Salvador, qual o outro lado que a Igreja jamais deve esquecer?
+
+**2. Se por um lado a Igreja não deve esquecer-se de proclamar Cristo como o único Salvador, qual o outro lado que a Igreja jamais deve esquecer?**
 Jamais deve esquecer-se de que Ele é o único Senhor (At 2.36).
-3. Se a Bíblia deixar de ser Palavra de Deus, como defende alguns, no que ela
-se torna?
+
+**3. Se a Bíblia deixar de ser Palavra de Deus, como defende alguns, no que ela se torna?**
 A Bíblia torna-se um livro meramente humano, sujeito a falhas e, portanto,
 passível de correção.
-4. Quem conduz o homem a Cristo?
-É o Espírito Santo quem conduz o homem a Cristo (Jo 16.8-11; 3-5)5. Cite algumas das sutilezas que estudamos ao longo do trimestre.
+
+**4. Quem conduz o homem a Cristo?**
+É o Espírito Santo quem conduz o homem a Cristo (Jo 16.8-11; 3-5)5. 
+
+**5. Cite algumas das sutilezas que estudamos ao longo do trimestre.**
 Sutilezas da imoralidade sexual; sutileza da relativização da Bíblia; sutileza
 das Mídias Sociais.
 
