@@ -6,7 +6,6 @@ import (
 	"io/ioutil"
 	"os"
 	"strings"
-	"time"
 
 	"github.com/microcosm-cc/bluemonday"
 )
@@ -66,45 +65,25 @@ func main() {
 }
 
 func formatEBD() {
-	// https://escolabiblicadominical.com.br/licao-11-sendo-cautelosos-nas-opressoes/
-	dat, err := os.ReadFile("ebd20223/index.html")
+	dat, err := os.ReadFile("ebd20223/01.md")
 	check(err)
 	htmlContent := string(dat)
-	p := bluemonday.StripTagsPolicy()
-	htmlContent = p.Sanitize(htmlContent)
-	htmlContent = strings.ReplaceAll(htmlContent, "\t", "")
-	for strings.Contains(htmlContent, "  ") {
-		htmlContent = strings.ReplaceAll(htmlContent, "  ", " ")
-	}
-	for strings.Contains(htmlContent, "\n\n") {
-		htmlContent = strings.ReplaceAll(htmlContent, "\n\n", "\n")
-	}
-	i := 0
 	linhas := strings.Split(htmlContent, "\n")
-	for !strings.HasPrefix(linhas[i], "EBD – Lição ") {
-		i++
+	i := 0
+	lessonLines := []string{}
+	for _, l := range linhas {
+		if strings.HasPrefix(l, "# LI") {
+			lessonFile(i, lessonLines)
+			fmt.Printf("\n%s %02d", l, i)
+			i += 1
+			lessonLines = []string{}
+		}
+		lessonLines = append(lessonLines, l)
 	}
-	out := getTitle(linhas[i], 1)
-	for linhas[i] != "TEXTO ÁUREO" {
-		i++
-	}
-
-	for linhas[i] != "SAIBA TUDO SOBRE A ESCOLA DOMINICAL:" {
-		out = append(out, linhas[i])
-		i++
-	}
-
-	fmt.Println(strings.Join(out, "\n"))
+	lessonFile(i, lessonLines)
 }
 
-func getTitle(s string, n int) []string {
-	meses := []string{"", "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"}
-	s = strings.Replace(s, "EBD – ", "", 1)
-	x := strings.Split(s, ": ")
-	num := x[0]
-	title := strings.Split(x[1], " |")[0]
-	titleDate := time.Date(2022, 7, 3, 0, 0, 0, 0, time.UTC)
-	titleDate = titleDate.AddDate(0, 0, 7*(n-1))
-	tdf := fmt.Sprintf(titleDate.Format("2 %s 2006"), meses[titleDate.Month()])
-	return []string{num, tdf, title}
+func lessonFile(i int, lines []string) {
+	dat := []byte(strings.Join(lines, "\n"))
+	_ = ioutil.WriteFile(fmt.Sprintf("%02d.md", i), dat, 0644)
 }
