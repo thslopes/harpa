@@ -84,5 +84,9 @@ func formatEBD() {
 
 func lessonFile(i int, lines []string) {
 	dat := []byte(strings.Join(lines, "\n"))
-	_ = ioutil.WriteFile(fmt.Sprintf("ebd20223/%02d.md", i), dat, 0644)
+	fileName := fmt.Sprintf("ebd20223/%02d.md", i)
+	if i == 0 {
+		fileName = "ebd20223/README.md"
+	}
+	_ = ioutil.WriteFile(fileName, dat, 0644)
 }
