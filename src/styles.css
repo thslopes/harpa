@@ -13,7 +13,7 @@ body {
 .hino {
   width: 100%;
   text-align: center;
-  font: 400 30px/35px Roboto, "Helvetica Neue", sans-serif;
+  font-size: 4em;
 }
 
 .showall {
