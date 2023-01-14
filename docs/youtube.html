@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="utf-8">
   <title>Youtube</title>
@@ -14,8 +15,50 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
+
 <body>
-  <iframe width="420" height="345" src="https://www.youtube.com/embed/mmZQk0Qlr6Y">
-  </iframe>
+
+  <input id="urlInput" /><br />
+
+  <div id="ytplayer"></div>
+
+  <script>
+    // Load the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/player_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    // Replace the 'ytplayer' element with an <iframe> and
+    // YouTube player after the API code downloads.
+    var player;
+
+    // Get the input field
+    var input = document.getElementById("urlInput");
+
+    // Execute a function when the user presses a key on the keyboard
+    input.addEventListener("keypress", function (event) {
+      debugger
+      var videoId = '';
+      let inputVal = input.value;
+      if (inputVal.startsWith('https://youtu.be/')) {
+        videoId = inputVal.replace('https://youtu.be/', '');
+      } else {
+        videoId = inputVal.split('v=')[1];
+      }
+      videoId = videoId.split('&')[0];
+      console.log(videoId);
+      // If the user presses the "Enter" key on the keyboard
+      if (event.key === "Enter") {
+        // Cancel the default action, if needed
+        event.preventDefault();
+        // Trigger the button element with a click
+        player = new YT.Player('ytplayer', {
+          videoId: videoId
+        });
+      }
+    });
+  </script>
 </body>
+
 </html>
