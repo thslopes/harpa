@@ -6,7 +6,7 @@ require (
 	github.com/bmaupin/go-epub v1.0.0
 	github.com/bmaupin/go-htmlutil v0.0.0-20160828203923-a9558777bf4e
 	github.com/microcosm-cc/bluemonday v1.0.18
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/net v0.7.0
 )
 
 require (
